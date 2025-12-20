@@ -1,4 +1,4 @@
-# Nuzpanion
+# Nuzi - a Nuzlocke Companion (Hopefully)
 
 
 
