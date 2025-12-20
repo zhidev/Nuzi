@@ -15,6 +15,7 @@ Spitballing ideas...
 - [ ] Frag Tracker catalogued by split
 - [ ] Assist Tracker [How often is something brought] companion to above [ocr]
 - [ ] Post Fight Health Tracker [ocr]
+- [ ] Story of the fight (assumed riskless) (actually riskless) (description/story field)
 - [ ] Encounter Tracker
 - [ ] HP Display Percentage
 - [ ] Mode Switching
