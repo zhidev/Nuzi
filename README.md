@@ -5,6 +5,8 @@
 
 Spitballing ideas...
 - [ ] ocr to read calculator [Youtube Tuts time]
+  -[x]ocr working
+  -[ ]make screenshot and then process it through ocr
 - [ ] reminder flags:
   - [ ] Megas changing stats and abilities   [json HTML]
   - [ ] Doubles/Weather/Random flags like terrains checked  [Need to use ocr for this i believe]
@@ -19,3 +21,7 @@ Spitballing ideas...
 - [ ] Encounter Tracker
 - [ ] HP Display Percentage
 - [ ] Mode Switching
+- [ ] Gui Elements
+  -[ ] Trainer drop down box
+  -[ ] Split Data
+  -[ ] others
