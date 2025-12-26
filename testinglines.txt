@@ -1,0 +1,20 @@
+# cv_display("Invert image", inverted_img)
+
+thin_img = thin_font(inverted_img)
+cv_display("Thin Image", thin_img)
+
+thin_n_thick_img = thick_font(thin_img)
+cv_display("thin n thick", thin_n_thick_img)
+
+noise_rm_img = noise_removal(thin_n_thick_img)
+cv_display("Noise removed", noise_rm_img)
+
+thick_img = thick_font(inverted_img)
+cv_display("thick", thick_img)
+
+thick_n_thin_img = thin_font(thick_img)
+cv_display("thick n thin", thick_n_thin_img)
+
+
+thick_remove = noise_removal(thick_img)
+cv_display("Thick removal", thick_remove)
