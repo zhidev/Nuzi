@@ -24,4 +24,5 @@ Spitballing ideas...
 - [ ] Gui Elements
   -[ ] Trainer drop down box
   -[ ] Split Data
+  -[ ] Extract Data from Trainer Documentation on Google Sheets
   -[ ] others

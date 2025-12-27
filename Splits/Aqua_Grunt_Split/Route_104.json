@@ -1,0 +1,474 @@
+[
+  {
+    "trainer": "Youngster Calvin",
+    "pokemon_list": [
+      {
+        "pokemon": "Poochyena",
+        "item": "a",
+        "moves": [
+          "Bite",
+          "Quick Attack",
+          "Sand Attack"
+        ],
+        "ability": "Rattled"
+      },
+      {
+        "pokemon": "Lillipup",
+        "item": "a",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Sand Attack"
+        ],
+        "ability": "Vital Spirit"
+      },
+      {
+        "pokemon": "Rookidee",
+        "item": "a",
+        "moves": [
+          "Wing Attack",
+          "Sand Attack",
+          "Swagger"
+        ],
+        "ability": "Keen Eye"
+      },
+      {
+        "pokemon": "Grubbin",
+        "item": "Oran Berry",
+        "moves": [
+          "Bug Bite",
+          "Spark",
+          "Vice Grip"
+        ],
+        "ability": "Swarm"
+      },
+      {
+        "pokemon": "Pineco",
+        "item": "Oran Berry",
+        "moves": [
+          "Pin Missile",
+          "Iron Defense"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Sizzlipede",
+        "item": "Oran Berry",
+        "moves": [
+          "Bug Bite",
+          "Ember",
+          "Wrap"
+        ],
+        "ability": "Flash Fire"
+      },
+      {
+        "pokemon": "Skiddo",
+        "item": "Lum Berry",
+        "moves": [
+          "Vine Whip",
+          "Tackle",
+          "Synthesis"
+        ],
+        "ability": "Sap Sipper"
+      },
+      {
+        "pokemon": "Litleo",
+        "item": "Oran Berry",
+        "moves": [
+          "Headbutt",
+          "Ember",
+          "Work Up"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Psyduck",
+        "item": "Oran Berry",
+        "moves": [
+          "Bubble Beam",
+          "Psywave"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Swirlix",
+        "item": "Berry Juice",
+        "moves": [
+          "Fairy Wind",
+          "Metronome"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Spinda",
+        "item": "Berry Juice",
+        "moves": [
+          "Fake Out",
+          "Metronome"
+        ],
+        "ability": "Own Tempo"
+      }
+    ],
+    "clear_party": {
+      "party": [],
+      "party_health": [],
+      "riskless": true,
+      "deaths": 0,
+      "comments": ""
+    }
+  },
+  {
+    "trainer": "Bug Catcher Rick",
+    "pokemon_list": [
+      {
+        "pokemon": "Poochyena",
+        "item": "a",
+        "moves": [
+          "Bite",
+          "Quick Attack",
+          "Sand Attack"
+        ],
+        "ability": "Rattled"
+      },
+      {
+        "pokemon": "Lillipup",
+        "item": "a",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Sand Attack"
+        ],
+        "ability": "Vital Spirit"
+      },
+      {
+        "pokemon": "Rookidee",
+        "item": "a",
+        "moves": [
+          "Wing Attack",
+          "Sand Attack",
+          "Swagger"
+        ],
+        "ability": "Keen Eye"
+      },
+      {
+        "pokemon": "Grubbin",
+        "item": "Oran Berry",
+        "moves": [
+          "Bug Bite",
+          "Spark",
+          "Vice Grip"
+        ],
+        "ability": "Swarm"
+      },
+      {
+        "pokemon": "Pineco",
+        "item": "Oran Berry",
+        "moves": [
+          "Pin Missile",
+          "Iron Defense"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Sizzlipede",
+        "item": "Oran Berry",
+        "moves": [
+          "Bug Bite",
+          "Ember",
+          "Wrap"
+        ],
+        "ability": "Flash Fire"
+      },
+      {
+        "pokemon": "Skiddo",
+        "item": "Lum Berry",
+        "moves": [
+          "Vine Whip",
+          "Tackle",
+          "Synthesis"
+        ],
+        "ability": "Sap Sipper"
+      },
+      {
+        "pokemon": "Litleo",
+        "item": "Oran Berry",
+        "moves": [
+          "Headbutt",
+          "Ember",
+          "Work Up"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Psyduck",
+        "item": "Oran Berry",
+        "moves": [
+          "Bubble Beam",
+          "Psywave"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Swirlix",
+        "item": "Berry Juice",
+        "moves": [
+          "Fairy Wind",
+          "Metronome"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Spinda",
+        "item": "Berry Juice",
+        "moves": [
+          "Fake Out",
+          "Metronome"
+        ],
+        "ability": "Own Tempo"
+      }
+    ],
+    "clear_party": {
+      "party": [],
+      "party_health": [],
+      "riskless": true,
+      "deaths": 0,
+      "comments": ""
+    }
+  },
+  {
+    "trainer": "Youngster Allen",
+    "pokemon_list": [
+      {
+        "pokemon": "Poochyena",
+        "item": "a",
+        "moves": [
+          "Bite",
+          "Quick Attack",
+          "Sand Attack"
+        ],
+        "ability": "Rattled"
+      },
+      {
+        "pokemon": "Lillipup",
+        "item": "a",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Sand Attack"
+        ],
+        "ability": "Vital Spirit"
+      },
+      {
+        "pokemon": "Rookidee",
+        "item": "a",
+        "moves": [
+          "Wing Attack",
+          "Sand Attack",
+          "Swagger"
+        ],
+        "ability": "Keen Eye"
+      },
+      {
+        "pokemon": "Grubbin",
+        "item": "Oran Berry",
+        "moves": [
+          "Bug Bite",
+          "Spark",
+          "Vice Grip"
+        ],
+        "ability": "Swarm"
+      },
+      {
+        "pokemon": "Pineco",
+        "item": "Oran Berry",
+        "moves": [
+          "Pin Missile",
+          "Iron Defense"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Sizzlipede",
+        "item": "Oran Berry",
+        "moves": [
+          "Bug Bite",
+          "Ember",
+          "Wrap"
+        ],
+        "ability": "Flash Fire"
+      },
+      {
+        "pokemon": "Skiddo",
+        "item": "Lum Berry",
+        "moves": [
+          "Vine Whip",
+          "Tackle",
+          "Synthesis"
+        ],
+        "ability": "Sap Sipper"
+      },
+      {
+        "pokemon": "Litleo",
+        "item": "Oran Berry",
+        "moves": [
+          "Headbutt",
+          "Ember",
+          "Work Up"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Psyduck",
+        "item": "Oran Berry",
+        "moves": [
+          "Bubble Beam",
+          "Psywave"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Swirlix",
+        "item": "Berry Juice",
+        "moves": [
+          "Fairy Wind",
+          "Metronome"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Spinda",
+        "item": "Berry Juice",
+        "moves": [
+          "Fake Out",
+          "Metronome"
+        ],
+        "ability": "Own Tempo"
+      }
+    ],
+    "clear_party": {
+      "party": [],
+      "party_health": [],
+      "riskless": true,
+      "deaths": 0,
+      "comments": ""
+    }
+  },
+  {
+    "trainer": "Lass Tiana",
+    "pokemon_list": [
+      {
+        "pokemon": "Poochyena",
+        "item": "a",
+        "moves": [
+          "Bite",
+          "Quick Attack",
+          "Sand Attack"
+        ],
+        "ability": "Rattled"
+      },
+      {
+        "pokemon": "Lillipup",
+        "item": "a",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Sand Attack"
+        ],
+        "ability": "Vital Spirit"
+      },
+      {
+        "pokemon": "Rookidee",
+        "item": "a",
+        "moves": [
+          "Wing Attack",
+          "Sand Attack",
+          "Swagger"
+        ],
+        "ability": "Keen Eye"
+      },
+      {
+        "pokemon": "Grubbin",
+        "item": "Oran Berry",
+        "moves": [
+          "Bug Bite",
+          "Spark",
+          "Vice Grip"
+        ],
+        "ability": "Swarm"
+      },
+      {
+        "pokemon": "Pineco",
+        "item": "Oran Berry",
+        "moves": [
+          "Pin Missile",
+          "Iron Defense"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Sizzlipede",
+        "item": "Oran Berry",
+        "moves": [
+          "Bug Bite",
+          "Ember",
+          "Wrap"
+        ],
+        "ability": "Flash Fire"
+      },
+      {
+        "pokemon": "Skiddo",
+        "item": "Lum Berry",
+        "moves": [
+          "Vine Whip",
+          "Tackle",
+          "Synthesis"
+        ],
+        "ability": "Sap Sipper"
+      },
+      {
+        "pokemon": "Litleo",
+        "item": "Oran Berry",
+        "moves": [
+          "Headbutt",
+          "Ember",
+          "Work Up"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Psyduck",
+        "item": "Oran Berry",
+        "moves": [
+          "Bubble Beam",
+          "Psywave"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Swirlix",
+        "item": "Berry Juice",
+        "moves": [
+          "Fairy Wind",
+          "Metronome"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Spinda",
+        "item": "Berry Juice",
+        "moves": [
+          "Fake Out",
+          "Metronome"
+        ],
+        "ability": "Own Tempo"
+      }
+    ],
+    "clear_party": {
+      "party": [],
+      "party_health": [],
+      "riskless": true,
+      "deaths": 0,
+      "comments": ""
+    }
+  }
+]

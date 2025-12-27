@@ -1,0 +1,136 @@
+import re
+import json
+import pprint
+
+parse_txt = """
+Youngster Calvin
+Poochyena Lv.5 @a: Bite, Quick Attack, Sand Attack [Bashful|Rattled]
+Lillipup Lv.6 @a: Tackle, Bite, Sand Attack [Bashful|Vital Spirit]
+Rookidee Lv.6 @a: Wing Attack, Sand Attack, Swagger [Bashful|Keen Eye]
+
+Bug Catcher Rick
+Grubbin Lv.6 @Oran Berry: Bug Bite, Spark, Vice Grip [Bashful|Swarm]
+Pineco Lv.6 @Oran Berry: Pin Missile, Iron Defense [Bashful|Sturdy]
+Sizzlipede Lv.7 @Oran Berry: Bug Bite, Ember, Wrap [Bashful|Flash Fire]
+
+Youngster Allen
+Skiddo Lv.7 @Lum Berry: Vine Whip, Tackle, Synthesis [Bashful|Sap Sipper]
+Litleo Lv.6 @Oran Berry: Headbutt, Ember, Work Up [Bashful|Unnerve]
+Psyduck Lv.7 @Oran Berry: Bubble Beam, Psywave [Bashful|Swift Swim]
+
+Lass Tiana
+Swirlix Lv.7 @Berry Juice: Fairy Wind, Metronome [Bashful|Unburden]
+Spinda Lv.8 @Berry Juice: Fake Out, Metronome [Bashful|Own Tempo]
+"""
+
+
+trainer_list = []
+pokemon_list = []
+
+is_trainer_name_next = False
+new_data_entry = False
+trainer_name = ""
+#Yes it is neccesarily this long.
+#We create a few capture groups
+#group pokemon: matches any word characters until it meets " Lv.[digits]"
+#group moves: captures the entire moves group, independent of how many moves there are
+#it stops capturing once it hits a [ character
+#group ability: captures the ability of the mon held inside the [nature|ability] format
+pokemon_pattern = re.compile(r"^(?P<pokemon>\w+?) Lv\.\d{1,3} \@(?P<item>.+?): (?P<moves>.*?)\s\[\w+?\|(?P<ability>.*?)]$")
+pattern = re.compile(r"\sLv.[0-9]{1,3}\s")
+
+
+
+# Json example:
+# entry = {
+#     "Youngster_Allen" : {
+#         "trainer" : "Younger_Allen"
+#         "pokemon": [
+#             {
+#                 "Grubbin" : {
+#                 "item" : "Oran Berry",
+#                 "moves" : ['Bug Bite', 'Spark', 'Vice Grip'],
+#                 "ability" : "Swarm"
+#                 }
+#             }
+#         ],
+#         "clear_party": {
+#             "list_of_party": ["ape", "dog", "fish"],
+#             "health_of_party" : ["20/30", "15/21", "50/30"],
+#             "riskless" : True,
+#             "deaths" : 0
+#         }
+#     }
+# }
+
+
+#trainer dict containing trainer name, pokemon list
+
+#pokemon list is array of pokemon dicts
+    # trainer_dict = {
+    #     'trainer' : trainer_name,
+    #     'pokemon_list' : pokemon_list,
+    #     'clear_party' : {
+    #         'party' : [],
+    #         'party_health' : [],
+    #         'riskless' : True,
+    #         'deaths' : 0
+    #         'comments' : ""
+    #     }
+    # }
+
+loop_pokemon_list = []
+
+for line in parse_txt.split('\n'):
+    print("LINE AT THE START,", line)
+    if is_trainer_name_next:
+        trainer_name = line
+        print("TRAINER NAME ADDED", line)
+        is_trainer_name_next = False
+        continue
+
+        #if line == '' that means we're on the next trainer
+    if line == '':
+        print("NEW TRAINER")
+        is_trainer_name_next = True
+        if new_data_entry:
+            trainer_dict = {
+                'trainer' : trainer_name,
+                'pokemon_list' : loop_pokemon_list,
+                'clear_party' : {
+                'party' : [],
+                'party_health' : [],
+                'riskless' : True,
+                'deaths' : 0,
+                'comments' : ""
+                }
+            }
+            trainer_list.append(trainer_dict)
+            new_data_entry = False
+        continue
+
+    match = re.search(pokemon_pattern,line)
+    if match:   
+        pokemon = match.group(1)
+        item = match.group(2)
+        moves = match.group(3)
+        moves = moves.split(", ")
+        ability = match.group(4)
+
+        #create individual pokemon dict to insert to pokemon list
+        pokemon_dict = {
+            'pokemon' : pokemon,
+            'item' : item,
+            'moves' : moves,
+            'ability' : ability
+         }
+        loop_pokemon_list.append(pokemon_dict)
+        new_data_entry = True
+
+    
+
+
+pprint.pprint(trainer_list)
+
+with open('Route_104.json', 'w') as file:
+    file.write(json.dumps(trainer_list, indent=2))
