@@ -1,0 +1,142 @@
+[
+  {
+    "trainer": "Swimmer\u2642 Rodney",
+    "pokemon_list": [
+      {
+        "pokemon": "Mantine",
+        "item": "Water Gem",
+        "moves": [
+          "Hydro Pump",
+          "Hurricane",
+          "Ice Beam",
+          "Roost"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Gourgeist_Small",
+        "item": "Lum Berry",
+        "moves": [
+          "Power Whip",
+          "Poltergeist",
+          "Shadow Sneak",
+          "Explosion"
+        ],
+        "ability": "Insomnia"
+      },
+      {
+        "pokemon": "Drifblim",
+        "item": "Focus Sash",
+        "moves": [
+          "Shadow Ball",
+          "Explosion",
+          "Weather Ball",
+          "Thunder Wave"
+        ],
+        "ability": "Aftermath"
+      },
+      {
+        "pokemon": "Masquerain",
+        "item": "Life Orb",
+        "moves": [
+          "Bug Buzz",
+          "Air Slash",
+          "Hydro Pump",
+          "Stun Spore"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Blastoise",
+        "item": "Leftovers",
+        "moves": [
+          "Scald",
+          "Body Press",
+          "Iron Defense",
+          "Protect"
+        ],
+        "ability": "Rain Dish"
+      },
+      {
+        "pokemon": "Pyukumuku",
+        "item": "Leftovers",
+        "moves": [
+          "Double Team",
+          "Recover",
+          "Soak",
+          "Toxic"
+        ],
+        "ability": "Innards Out"
+      }
+    ]
+  },
+  {
+    "trainer": "Swimmer\u2640 Katie",
+    "pokemon_list": [
+      {
+        "pokemon": "Kingdra",
+        "item": "Dragon Gem",
+        "moves": [
+          "Hydro Pump",
+          "Dragon Pulse",
+          "Hurricane",
+          "Ice Beam"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Rotom_Mow",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Thunder",
+          "Leaf Storm",
+          "Signal Beam",
+          "Nasty Plot"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Toxicroak",
+        "item": "Life Orb",
+        "moves": [
+          "Gunk Shot",
+          "Cross Chop",
+          "Sucker Punch",
+          "Swords Dance"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Goodra",
+        "item": "Leftovers",
+        "moves": [
+          "Breaking Swipe",
+          "Aqua Tail",
+          "Curse",
+          "Rest"
+        ],
+        "ability": "Hydration"
+      },
+      {
+        "pokemon": "Durant",
+        "item": "Bug Gem",
+        "moves": [
+          "First Impression",
+          "Iron Head",
+          "Leech Life",
+          "Rock Slide"
+        ],
+        "ability": "Hustle"
+      },
+      {
+        "pokemon": "Drednaw",
+        "item": "Choice Band",
+        "moves": [
+          "Head Smash",
+          "Liquidation"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  }
+]

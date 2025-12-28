@@ -1,0 +1,77 @@
+[
+  {
+    "trainer": "Team Aqua Grunt [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Murkrow",
+        "item": "Lum Berry",
+        "moves": [
+          "Wing Attack",
+          "Payback",
+          "Night Shade"
+        ],
+        "ability": "Insomnia"
+      },
+      {
+        "pokemon": "Skrelp",
+        "item": "Black Sludge",
+        "moves": [
+          "Water Pulse",
+          "Acid",
+          "Protect",
+          "Toxic"
+        ],
+        "ability": "Poison Point"
+      },
+      {
+        "pokemon": "Tirtouga",
+        "item": "Rindo Berry",
+        "moves": [
+          "Ancient Power",
+          "Brine",
+          "Aqua Jet",
+          "Mud Shot"
+        ],
+        "ability": "Solid Rock"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Mareanie",
+        "item": "Black Sludge",
+        "moves": [
+          "Venoshock",
+          "Baneful Bunker",
+          "Soak",
+          "Toxic"
+        ],
+        "ability": "Merciless"
+      },
+      {
+        "pokemon": "Frillish",
+        "item": "Lum Berry",
+        "moves": [
+          "Hex",
+          "Water Pulse",
+          "Shock Wave",
+          "Recover"
+        ],
+        "ability": "Cursed Body"
+      },
+      {
+        "pokemon": "Whirlipede",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Venoshock",
+          "Poison Tail",
+          "Pin Missile",
+          "Rollout"
+        ],
+        "ability": "Speed Boost"
+      }
+    ]
+  }
+]

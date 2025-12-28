@@ -1,0 +1,144 @@
+[
+  {
+    "trainer": "Old Couple John & Jay [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Whimsicott",
+        "item": "Fairy Gem",
+        "moves": [
+          "Moonblast",
+          "Encore",
+          "Grass Whistle",
+          "Tailwind"
+        ],
+        "ability": "Prankster"
+      },
+      {
+        "pokemon": "Lycanroc_Midnight",
+        "item": "Focus Sash",
+        "moves": [
+          "Stone Edge",
+          "Rock Slide",
+          "Close Combat",
+          "Endeavor"
+        ],
+        "ability": "No Guard"
+      },
+      {
+        "pokemon": "Lilligant",
+        "item": "Leftovers",
+        "moves": [
+          "Energy Ball",
+          "Hidden Power Fire",
+          "Quiver Dance",
+          "Sleep Powder"
+        ],
+        "ability": "Own Tempo"
+      },
+      {
+        "pokemon": "Clefable",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Moonblast",
+          "Fire Blast",
+          "Knock Off",
+          "Follow Me"
+        ],
+        "ability": "Unaware"
+      },
+      {
+        "pokemon": "Heliolisk",
+        "item": "Normal Gem",
+        "moves": [
+          "Thunder",
+          "Electroweb",
+          "Hyper Voice",
+          "Grass Knot"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Nidoqueen",
+        "item": "Life Orb",
+        "moves": [
+          "Sludge Wave",
+          "Earth Power",
+          "Blizzard",
+          "Fire Blast"
+        ],
+        "ability": "Sheer Force"
+      }
+    ]
+  },
+  {
+    "trainer": "Dragon Tamer Nicolas",
+    "pokemon_list": [
+      {
+        "pokemon": "Gyarados",
+        "item": "Wacan Berry",
+        "moves": [
+          "Waterfall",
+          "Power Whip",
+          "Earthquake",
+          "Scale Shot"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Sandaconda",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Glare",
+          "Stealth Rock"
+        ],
+        "ability": "Sand Spit"
+      },
+      {
+        "pokemon": "Metagross",
+        "item": "Lum Berry",
+        "moves": [
+          "Meteor Mash",
+          "Zen Headbutt",
+          "Explosion",
+          "Ice Punch"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Garchomp",
+        "item": "Leftovers",
+        "moves": [
+          "Dual Chop",
+          "Iron Tail",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "ability": "Sand Veil"
+      },
+      {
+        "pokemon": "Goodra_Hisuian",
+        "item": "Assault Vest",
+        "moves": [
+          "Dragon Pulse",
+          "Heavy Slam",
+          "Fire Blast",
+          "Body Press"
+        ],
+        "ability": "Gooey"
+      },
+      {
+        "pokemon": "Latias",
+        "item": "Latiasite",
+        "moves": [
+          "Psychic",
+          "Mystical Fire",
+          "Calm Mind",
+          "Recover"
+        ],
+        "ability": "Levitate"
+      }
+    ]
+  }
+]

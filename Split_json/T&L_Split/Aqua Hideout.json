@@ -1,0 +1,561 @@
+[
+  {
+    "trainer": "Team Aqua Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Persian_Alolan",
+        "item": "Bright Powder",
+        "moves": [
+          "Night Slash",
+          "Gunk Shot",
+          "Play Rough",
+          "Hypnosis"
+        ],
+        "ability": "Fur Coat"
+      },
+      {
+        "pokemon": "Pangoro",
+        "item": "Quick Claw",
+        "moves": [
+          "Close Combat",
+          "Crunch",
+          "Gunk Shot",
+          "Stone Edge"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Bouffalant",
+        "item": "Water Gem",
+        "moves": [
+          "Head Charge",
+          "Surf",
+          "Lash Out",
+          "Work Up"
+        ],
+        "ability": "Sap Sipper"
+      },
+      {
+        "pokemon": "Grapploct",
+        "item": "Assault Vest",
+        "moves": [
+          "Revenge",
+          "Ice Punch",
+          "Payback",
+          "Whirlpool"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Floatzel",
+        "item": "Focus Band",
+        "moves": [
+          "Liquidation",
+          "Crunch",
+          "Ice Punch",
+          "Power Up Punch"
+        ],
+        "ability": "Water Veil"
+      },
+      {
+        "pokemon": "Kingler",
+        "item": "Life Orb",
+        "moves": [
+          "Liquidation",
+          "X Scissor",
+          "Rock Slide",
+          "Agility"
+        ],
+        "ability": "Sheer Force"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Cryogonal",
+        "item": "Focus Band",
+        "moves": [
+          "Ice Beam",
+          "Freeze Dry",
+          "Reflect",
+          "Light Screen"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Hariyama",
+        "item": "Life Orb",
+        "moves": [
+          "Close Combat",
+          "Poison Jab",
+          "Rock Slide",
+          "Thunder Punch"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Serperior",
+        "item": "Bright Powder",
+        "moves": [
+          "Leaf Storm",
+          "Dragon Pulse",
+          "Glare",
+          "Leech Seed"
+        ],
+        "ability": "Contrary"
+      },
+      {
+        "pokemon": "Alomomola",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Scald",
+          "Whirlpool",
+          "Toxic",
+          "Wish"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Eelektross",
+        "item": "Leftovers",
+        "moves": [
+          "Wild Charge",
+          "Aqua Tail",
+          "Knock Off",
+          "Coil"
+        ],
+        "ability": "Levitate"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Omastar",
+        "item": "Focus Sash",
+        "moves": [
+          "Power Gem",
+          "Earth Power",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "ability": "Weak Armor"
+      },
+      {
+        "pokemon": "Escavalier",
+        "item": "Quick Claw",
+        "moves": [
+          "Megahorn",
+          "Iron Head",
+          "Drill Run",
+          "Swords Dance"
+        ],
+        "ability": "Overcoat"
+      },
+      {
+        "pokemon": "Lanturn",
+        "item": "Bright Powder",
+        "moves": [
+          "Hydro Pump",
+          "Thunder",
+          "Confuse Ray",
+          "Thunder Wave"
+        ],
+        "ability": "Volt Absorb"
+      },
+      {
+        "pokemon": "Crobat",
+        "item": "Flying Gem",
+        "moves": [
+          "Acrobatics",
+          "Heat Wave",
+          "Giga Drain",
+          "Super Fang"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Sharpedo",
+        "item": "Focus Band",
+        "moves": [
+          "Waterfall",
+          "Dark Pulse",
+          "Ice Beam",
+          "Earthquake"
+        ],
+        "ability": "Speed Boost"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Ninetales_Alolan",
+        "item": "Light Clay",
+        "moves": [
+          "Moonblast",
+          "Freeze Dry",
+          "Aurora Veil",
+          "Nasty Plot"
+        ],
+        "ability": "Snow Warning"
+      },
+      {
+        "pokemon": "Sandslash_Alolan",
+        "item": "Scope Lens",
+        "moves": [
+          "Iron Head",
+          "Triple Axel",
+          "Earthquake",
+          "Swords Dance"
+        ],
+        "ability": "Slush Rush"
+      },
+      {
+        "pokemon": "Eiscue",
+        "item": "Scope Lens",
+        "moves": [
+          "Icicle Spear",
+          "Head Smash",
+          "Aqua Jet",
+          "Belly Drum"
+        ],
+        "ability": "Ice Face"
+      },
+      {
+        "pokemon": "Walrein",
+        "item": "Bright Powder",
+        "moves": [
+          "Blizzard",
+          "Scald",
+          "Substitute",
+          "Toxic"
+        ],
+        "ability": "Ice Body"
+      },
+      {
+        "pokemon": "Clefable",
+        "item": "Weakness Policy",
+        "moves": [
+          "Moonblast",
+          "Stored Power",
+          "Cosmic Power",
+          "Soft Boiled"
+        ],
+        "ability": "Magic Guard"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Gyarados",
+        "item": "Bright Powder",
+        "moves": [
+          "Waterfall",
+          "Earthquake",
+          "Stone Edge",
+          "Dragon Dance"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Gogoat",
+        "item": "Assault Vest",
+        "moves": [
+          "Horn Leech",
+          "Earthquake",
+          "Iron Tail",
+          "Rock Slide"
+        ],
+        "ability": "Sap Sipper"
+      },
+      {
+        "pokemon": "Raichu_Alolan",
+        "item": "Focus Band",
+        "moves": [
+          "Psychic",
+          "Discharge",
+          "Grass Knot",
+          "Nasty Plot"
+        ],
+        "ability": "Surge Surfer"
+      },
+      {
+        "pokemon": "Cursola",
+        "item": "Power Herb",
+        "moves": [
+          "Shadow Ball",
+          "Meteor Beam",
+          "Hydro Pump",
+          "Trick Room"
+        ],
+        "ability": "Weak Armor"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Politoed",
+        "item": "Water Gem",
+        "moves": [
+          "Ice Beam",
+          "Earth Power",
+          "Weather Ball",
+          "Hypnosis"
+        ],
+        "ability": "Drizzle"
+      },
+      {
+        "pokemon": "Heliolisk",
+        "item": "Bright Powder",
+        "moves": [
+          "Hyper Voice",
+          "Thunderbolt",
+          "Weather Ball",
+          "Glare"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Noivern",
+        "item": "Bright Powder",
+        "moves": [
+          "Hurricane",
+          "Dragon Pulse",
+          "Double Team",
+          "Roost"
+        ],
+        "ability": "Infiltrator"
+      },
+      {
+        "pokemon": "Ferrothorn",
+        "item": "Leftovers",
+        "moves": [
+          "Gyro Ball",
+          "Explosion",
+          "Body Press",
+          "Curse"
+        ],
+        "ability": "Iron Barbs"
+      },
+      {
+        "pokemon": "Poliwrath",
+        "item": "Lum Berry",
+        "moves": [
+          "Liquidation",
+          "Drain Punch",
+          "Darkest Lariat",
+          "Belly Drum"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Carracosta",
+        "item": "Quick Claw",
+        "moves": [
+          "Hydro Pump",
+          "Stone Edge",
+          "Ice Beam",
+          "Stealth Rock"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Octillery",
+        "item": "Quick Claw",
+        "moves": [
+          "Water Spout",
+          "Octazooka",
+          "Energy Ball",
+          "Ice Beam"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Starmie",
+        "item": "Life Orb",
+        "moves": [
+          "Hydro Pump",
+          "Psychic",
+          "Ice Beam",
+          "Thunderbolt"
+        ],
+        "ability": "Analytic"
+      },
+      {
+        "pokemon": "Gliscor",
+        "item": "Toxic Orb",
+        "moves": [
+          "Earthquake",
+          "Dual Wingbeat",
+          "Facade",
+          "Swords Dance"
+        ],
+        "ability": "Poison Heal"
+      },
+      {
+        "pokemon": "Goodra",
+        "item": "Leftovers",
+        "moves": [
+          "Dragon Tail",
+          "Aqua Tail",
+          "Body Press",
+          "Curse"
+        ],
+        "ability": "Gooey"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Rillaboom",
+        "item": "Focus Band",
+        "moves": [
+          "Wood Hammer",
+          "Grassy Glide",
+          "High Horsepower",
+          "Endeavor"
+        ],
+        "ability": "Grassy Surge"
+      },
+      {
+        "pokemon": "Wobbuffet",
+        "item": "Leftovers",
+        "moves": [
+          "Counter",
+          "Mirror Coat",
+          "Destiny Bond",
+          "Encore"
+        ],
+        "ability": "Shadow Tag"
+      },
+      {
+        "pokemon": "Tentacruel",
+        "item": "Black Sludge",
+        "moves": [
+          "Sludge Bomb",
+          "Scald",
+          "Giga Drain",
+          "Toxic Spikes"
+        ],
+        "ability": "Liquid Ooze"
+      },
+      {
+        "pokemon": "Ludicolo",
+        "item": "Grass Gem",
+        "moves": [
+          "Waterfall",
+          "Grassy Glide",
+          "Zen Headbutt",
+          "Swords Dance"
+        ],
+        "ability": "Own Tempo"
+      },
+      {
+        "pokemon": "Ampharos",
+        "item": "Quick Claw",
+        "moves": [
+          "Thunderbolt",
+          "Focus Blast",
+          "Hidden Power Ice",
+          "Counter"
+        ],
+        "ability": "Static"
+      },
+      {
+        "pokemon": "Obstagoon",
+        "item": "Flame Orb",
+        "moves": [
+          "Facade",
+          "Knock Off",
+          "Close Combat",
+          "Obstruct"
+        ],
+        "ability": "Guts"
+      }
+    ]
+  },
+  {
+    "trainer": "Aqua Admin Matt [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Mamoswine",
+        "item": "Focus Sash",
+        "moves": [
+          "Earthquake",
+          "Icicle Crash",
+          "Ice Shard",
+          "Stealth Rock"
+        ],
+        "ability": "Oblivious"
+      },
+      {
+        "pokemon": "Dracovish",
+        "item": "Choice Scarf",
+        "moves": [
+          "Fishious Rend"
+        ],
+        "ability": "Strong Jaw"
+      },
+      {
+        "pokemon": "Dragapult",
+        "item": "Dragon Gem",
+        "moves": [
+          "Shadow Ball",
+          "Dragon Darts",
+          "Fire Blast",
+          "Hydro Pump"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Kartana",
+        "item": "Life Orb",
+        "moves": [
+          "Leaf Blade",
+          "Smart Strike",
+          "Sacred Sword",
+          "Night Slash"
+        ],
+        "ability": "Beast Boost"
+      },
+      {
+        "pokemon": "Raikou",
+        "item": "Water Gem",
+        "moves": [
+          "Thunderbolt",
+          "Scald",
+          "Signal Beam",
+          "Calm Mind"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Gyarados",
+        "item": "Gyaradosite",
+        "moves": [
+          "Crunch",
+          "Waterfall",
+          "Earthquake",
+          "Dragon Dance"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  }
+]

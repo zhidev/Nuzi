@@ -1,5 +1,4 @@
 import ttkbootstrap as tb
-from ttkwidgets.autocomplete import AutocompleteCombobox
 
 level_list = ["Lu83", "Lu30", "Lu35", "Lu33", "Lu93", "Luz"]
 hp_value_list = ["209/205", "130/266", "156/293", "178/255", "199/302", "76/76"]

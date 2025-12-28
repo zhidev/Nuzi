@@ -1,0 +1,476 @@
+[
+  {
+    "trainer": "Cool Trainer Mary",
+    "pokemon_list": [
+      {
+        "pokemon": "Doublade",
+        "item": "Eviolite",
+        "moves": [
+          "Iron Head",
+          "Shadow Claw",
+          "Head Smash",
+          "Sacred Sword"
+        ],
+        "ability": "No Guard"
+      },
+      {
+        "pokemon": "Golurk",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Mega Kick",
+          "Dynamic Punch"
+        ],
+        "ability": "No Guard"
+      },
+      {
+        "pokemon": "Lycanroc_Midnight",
+        "item": "Lum Berry",
+        "moves": [
+          "Stone Edge",
+          "Mega Kick",
+          "Iron Tail",
+          "Fire Fang"
+        ],
+        "ability": "No Guard"
+      },
+      {
+        "pokemon": "Machamp",
+        "item": "Leftovers",
+        "moves": [
+          "Dynamic Punch",
+          "Mega Kick",
+          "Stone Edge",
+          "Bulk Up"
+        ],
+        "ability": "No Guard"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Randall",
+    "pokemon_list": [
+      {
+        "pokemon": "Ninjask",
+        "item": "Power Herb",
+        "moves": [
+          "X Scissor",
+          "Dual Wingbeat",
+          "Dig",
+          "Swords Dance"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Scolipede",
+        "item": "Muscle Band",
+        "moves": [
+          "Megahorn",
+          "Poison Jab",
+          "Aqua Tail",
+          "Rock Slide"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Yanmega",
+        "item": "Wise Glasses",
+        "moves": [
+          "Bug Buzz",
+          "Air Slash",
+          "Giga Drain",
+          "Detect"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Sharpedo",
+        "item": "Life Orb",
+        "moves": [
+          "Liquidation",
+          "Crunch",
+          "Psychic Fangs",
+          "Protect"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Blaziken",
+        "item": "Focus Sash",
+        "moves": [
+          "Blaze Kick",
+          "Reversal",
+          "Thunder Punch",
+          "Night Slash"
+        ],
+        "ability": "Speed Boost"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer George",
+    "pokemon_list": [
+      {
+        "pokemon": "Rillaboom",
+        "item": "Leftovers",
+        "moves": [
+          "Grassy Glide",
+          "Knock Off",
+          "U Turn",
+          "Protect"
+        ],
+        "ability": "Grassy Surge"
+      },
+      {
+        "pokemon": "Arcanine",
+        "item": "Leftovers",
+        "moves": [
+          "Flare Blitz",
+          "Play Rough",
+          "Wild Charge",
+          "Morning Sun"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Starmie",
+        "item": "Leftovers",
+        "moves": [
+          "Psyshock",
+          "Scald",
+          "Grass Knot",
+          "Recover"
+        ],
+        "ability": "Natural Cure"
+      },
+      {
+        "pokemon": "Slowking_Galarian",
+        "item": "Black Sludge",
+        "moves": [
+          "Psychic",
+          "Sludge Bomb",
+          "Protect",
+          "Slack Off"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Clefable",
+        "item": "Leftovers",
+        "moves": [
+          "Moonblast",
+          "Flamethrower",
+          "Calm Mind",
+          "Soft Boiled"
+        ],
+        "ability": "Magic Guard"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Alexia",
+    "pokemon_list": [
+      {
+        "pokemon": "Mudsdale",
+        "item": "Sitrus Berry",
+        "moves": [
+          "High Horsepower",
+          "Body Press",
+          "Iron Defense",
+          "Stealth Rock"
+        ],
+        "ability": "Stamina"
+      },
+      {
+        "pokemon": "Ferrothorn",
+        "item": "Leftovers",
+        "moves": [
+          "Power Whip",
+          "Body Press",
+          "Leech Seed",
+          "Iron Defense"
+        ],
+        "ability": "Iron Barbs"
+      },
+      {
+        "pokemon": "Blastoise",
+        "item": "Leftovers",
+        "moves": [
+          "Scald",
+          "Body Press",
+          "Iron Defense",
+          "Protect"
+        ],
+        "ability": "Torrent"
+      },
+      {
+        "pokemon": "Corviknight",
+        "item": "Lum Berry",
+        "moves": [
+          "Iron Head",
+          "Dual Wingbeat",
+          "Body Press",
+          "Bulk Up"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Claydol",
+        "item": "Weakness Policy",
+        "moves": [
+          "Drill Run",
+          "Stored Power",
+          "Body Press",
+          "Cosmic Power"
+        ],
+        "ability": "Levitate"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Parker",
+    "pokemon_list": [
+      {
+        "pokemon": "Barbaracle",
+        "item": "Scope Lens",
+        "moves": [
+          "Stone Edge",
+          "Razor Shell",
+          "Cross Chop",
+          "Shadow Claw"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Honchkrow",
+        "item": "Scope Lens",
+        "moves": [
+          "Night Slash",
+          "Sucker Punch",
+          "Air Cutter",
+          "Heat Wave"
+        ],
+        "ability": "Super Luck"
+      },
+      {
+        "pokemon": "Inteleon",
+        "item": "Lum Berry",
+        "moves": [
+          "Snipe Shot",
+          "Ice Beam",
+          "Dark Pulse",
+          "Laser Focus"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Octillery",
+        "item": "Scope Lens",
+        "moves": [
+          "Octazooka",
+          "Gunk Shot",
+          "Bullet Seed",
+          "Focus Energy"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Drapion",
+        "item": "Scope Lens",
+        "moves": [
+          "Cross Poison",
+          "Night Slash",
+          "Earthquake",
+          "Aqua Tail"
+        ],
+        "ability": "Sniper"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Berke",
+    "pokemon_list": [
+      {
+        "pokemon": "Floette_Eternal_Flower",
+        "item": "Choice Scarf",
+        "moves": [
+          "Light Of Ruin"
+        ],
+        "ability": "Flower Veil"
+      },
+      {
+        "pokemon": "Lucario",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Steel Beam",
+          "Aura Sphere",
+          "Vacuum Wave",
+          "Stone Edge"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Staraptor",
+        "item": "Lum Berry",
+        "moves": [
+          "Brave Bird",
+          "Double Edge",
+          "Quick Attack",
+          "Endeavor"
+        ],
+        "ability": "Reckless"
+      },
+      {
+        "pokemon": "Bouffalant",
+        "item": "Custap Berry",
+        "moves": [
+          "Head Charge",
+          "Wild Charge",
+          "Lash Out",
+          "Reversal"
+        ],
+        "ability": "Reckless"
+      },
+      {
+        "pokemon": "Emboar",
+        "item": "Choice Scarf",
+        "moves": [
+          "Flare Blitz",
+          "Head Smash",
+          "Double Edge",
+          "Wild Charge"
+        ],
+        "ability": "Reckless"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Jody",
+    "pokemon_list": [
+      {
+        "pokemon": "Rampardos",
+        "item": "Life Orb",
+        "moves": [
+          "Rock Slide",
+          "Crunch",
+          "Zen Headbutt",
+          "Fire Punch"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Slaking",
+        "item": "Choice Band",
+        "moves": [
+          "Giga Impact"
+        ],
+        "ability": "Truant"
+      },
+      {
+        "pokemon": "Medicham",
+        "item": "Focus Sash",
+        "moves": [
+          "High Jump Kick",
+          "Zen Headbutt",
+          "Reversal",
+          "Counter"
+        ],
+        "ability": "Pure Power"
+      },
+      {
+        "pokemon": "Conkeldurr",
+        "item": "Lum Berry",
+        "moves": [
+          "Close Combat",
+          "Mach Punch",
+          "Thunder Punch",
+          "Ice Punch"
+        ],
+        "ability": "Iron Fist"
+      },
+      {
+        "pokemon": "Marowak",
+        "item": "Thick Club",
+        "moves": [
+          "Bonemerang",
+          "Double Edge",
+          "Retaliate",
+          "Knock Off"
+        ],
+        "ability": "Rock Head"
+      }
+    ]
+  },
+  {
+    "trainer": "Leader Norman [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Porygon2",
+        "item": "Eviolite",
+        "moves": [
+          "Tri Attack",
+          "Ice Beam",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "ability": "Download"
+      },
+      {
+        "pokemon": "Azumarill",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Play Rough",
+          "Waterfall",
+          "Aqua Jet",
+          "Body Slam"
+        ],
+        "ability": "Huge Power"
+      },
+      {
+        "pokemon": "Diggersby",
+        "item": "Focus Sash",
+        "moves": [
+          "Earthquake",
+          "Body Slam",
+          "Quick Attack",
+          "Foul Play"
+        ],
+        "ability": "Huge Power"
+      },
+      {
+        "pokemon": "Meloetta",
+        "item": "Lum Berry",
+        "moves": [
+          "Close Combat",
+          "Body Slam",
+          "Zen Headbutt",
+          "Relic Song"
+        ],
+        "ability": "Serene Grace"
+      },
+      {
+        "pokemon": "Cinccino",
+        "item": "Kings Rock",
+        "moves": [
+          "Tail Slap",
+          "Bullet Seed",
+          "Rock Blast",
+          "Triple Axel"
+        ],
+        "ability": "Skill Link"
+      },
+      {
+        "pokemon": "Pidgeot",
+        "item": "Pidgeotite",
+        "moves": [
+          "Hurricane",
+          "Hyper Voice",
+          "Heat Wave",
+          "Hidden Power Grass"
+        ],
+        "ability": "Keen Eye"
+      }
+    ]
+  }
+]

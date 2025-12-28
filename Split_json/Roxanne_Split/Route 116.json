@@ -1,0 +1,316 @@
+[
+  {
+    "trainer": "Youngster Joey",
+    "pokemon_list": [
+      {
+        "pokemon": "Raticate",
+        "item": "Muscle Band",
+        "moves": [
+          "Hyper Fang",
+          "Zen Headbutt",
+          "Brick Break",
+          "Sucker Punch"
+        ],
+        "ability": "Guts"
+      },
+      {
+        "pokemon": "Linoone_Galarian",
+        "item": "Lum Berry",
+        "moves": [
+          "Retaliate",
+          "Slash",
+          "Night Slash",
+          "Seed Bomb"
+        ],
+        "ability": "Quick Feet"
+      },
+      {
+        "pokemon": "Pidgeotto",
+        "item": "Lum Berry",
+        "moves": [
+          "Air Slash",
+          "Swift",
+          "Heat Wave",
+          "Steel Wing"
+        ],
+        "ability": "Keen Eye"
+      }
+    ]
+  },
+  {
+    "trainer": "Lass Janice",
+    "pokemon_list": [
+      {
+        "pokemon": "Oricorio",
+        "item": "Lum Berry",
+        "moves": [
+          "Revelation Dance",
+          "Pluck",
+          "Feather Dance",
+          "Swords Dance"
+        ],
+        "ability": "Dancer"
+      },
+      {
+        "pokemon": "Brionne",
+        "item": "Metronome",
+        "moves": [
+          "Echoed Voice"
+        ],
+        "ability": "Liquid Voice"
+      },
+      {
+        "pokemon": "Whimsicott",
+        "item": "Kebia Berry",
+        "moves": [
+          "Energy Ball",
+          "Dazzling Gleam",
+          "Nature Power",
+          "Grass Whistle"
+        ],
+        "ability": "Prankster"
+      }
+    ]
+  },
+  {
+    "trainer": "Rich Boy Dawson",
+    "pokemon_list": [
+      {
+        "pokemon": "Komala",
+        "item": "Chople Berry",
+        "moves": [
+          "Body Slam",
+          "Wood Hammer",
+          "Brick Break",
+          "Sucker Punch"
+        ],
+        "ability": "Comatose"
+      },
+      {
+        "pokemon": "Gyarados",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Dragon Rage"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  },
+  {
+    "trainer": "School Kid Jerry [Double Battle With Youngster Johnson]",
+    "pokemon_list": [
+      {
+        "pokemon": "Simipour",
+        "item": "Mystic Water",
+        "moves": [
+          "Water Pledge",
+          "Brine",
+          "Icy Wind",
+          "Grass Knot"
+        ],
+        "ability": "Torrent"
+      },
+      {
+        "pokemon": "Masquerain",
+        "item": "Lum Berry",
+        "moves": [
+          "Bug Buzz",
+          "Air Cutter",
+          "Ice Beam",
+          "Giga Drain"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Purugly",
+        "item": "Lum Berry",
+        "moves": [
+          "Fake Out",
+          "Super Fang",
+          "Fake Tears",
+          "Hypnosis"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Sneasel",
+        "item": "Focus Sash",
+        "moves": [
+          "Ice Punch",
+          "Knock Off",
+          "Ice Shard",
+          "Brick Break"
+        ],
+        "ability": "Inner Focus"
+      }
+    ]
+  },
+  {
+    "trainer": "Bug Catcher Jose",
+    "pokemon_list": [
+      {
+        "pokemon": "Pinsir",
+        "item": "Lum Berry",
+        "moves": [
+          "X Scissor",
+          "Rock Slide",
+          "Storm Throw",
+          "Bulk Up"
+        ],
+        "ability": "Hyper Cutter"
+      },
+      {
+        "pokemon": "Durant",
+        "item": "Lum Berry",
+        "moves": [
+          "First Impression",
+          "Iron Head",
+          "X Scissor",
+          "Thunder Fang"
+        ],
+        "ability": "Swarm"
+      },
+      {
+        "pokemon": "Vivillon",
+        "item": "Lum Berry",
+        "moves": [
+          "Bug Buzz",
+          "Air Slash",
+          "Quiver Dance",
+          "Roost"
+        ],
+        "ability": "Shield Dust"
+      }
+    ]
+  },
+  {
+    "trainer": "Lady Sarah",
+    "pokemon_list": [
+      {
+        "pokemon": "Granbull",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Play Rough",
+          "Brick Break",
+          "Crunch",
+          "Bulk Up"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Perrserker",
+        "item": "Electric Gem",
+        "moves": [
+          "Iron Tail",
+          "Bullet Punch",
+          "Thunder",
+          "Hone Claws"
+        ],
+        "ability": "Steely Spirit"
+      }
+    ]
+  },
+  {
+    "trainer": "School Kid Karen",
+    "pokemon_list": [
+      {
+        "pokemon": "Tangela",
+        "item": "Lum Berry",
+        "moves": [
+          "Giga Drain",
+          "Sludge Bomb",
+          "Ancient Power",
+          "Stun Spore"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Cramorant",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Surf",
+          "Drill Peck",
+          "Whirlpool",
+          "Belch"
+        ],
+        "ability": "Gulp Missile"
+      },
+      {
+        "pokemon": "Raichu",
+        "item": "Lum Berry",
+        "moves": [
+          "Discharge",
+          "Surf",
+          "Grass Knot",
+          "Extreme Speed"
+        ],
+        "ability": "Lightning Rod"
+      }
+    ]
+  },
+  {
+    "trainer": "Hiker Clark",
+    "pokemon_list": [
+      {
+        "pokemon": "Dugtrio",
+        "item": "Soft Sand",
+        "moves": [
+          "Earthquake",
+          "Night Slash",
+          "Slash",
+          "Double Team"
+        ],
+        "ability": "Arena Trap"
+      },
+      {
+        "pokemon": "Dugtrio_Alolan",
+        "item": "Focus Sash",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Stone Edge",
+          "Reversal"
+        ],
+        "ability": "Tangling Hair"
+      }
+    ]
+  },
+  {
+    "trainer": "Hiker Devan",
+    "pokemon_list": [
+      {
+        "pokemon": "Primeape",
+        "item": "Lum Berry",
+        "moves": [
+          "Cross Chop",
+          "Stone Edge",
+          "Night Slash",
+          "Focus Energy"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Drednaw",
+        "item": "Lum Berry",
+        "moves": [
+          "Razor Shell",
+          "Rock Slide",
+          "Crunch",
+          "Rock Polish"
+        ],
+        "ability": "Strong Jaw"
+      },
+      {
+        "pokemon": "Gligar",
+        "item": "Flying Gem",
+        "moves": [
+          "Stomping Tantrum",
+          "Acrobatics",
+          "Sky Uppercut",
+          "Knock Off"
+        ],
+        "ability": "Hyper Cutter"
+      }
+    ]
+  }
+]

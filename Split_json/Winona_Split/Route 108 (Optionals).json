@@ -1,0 +1,73 @@
+[
+  {
+    "trainer": "Cool Trainer Carolina [Double Battle With Sailor Cory]",
+    "pokemon_list": [
+      {
+        "pokemon": "Lopunny",
+        "item": "Lopunnite",
+        "moves": [
+          "Return",
+          "Facade",
+          "Fake Out",
+          "Close Combat"
+        ],
+        "ability": "Cute Charm"
+      },
+      {
+        "pokemon": "Tsareena",
+        "item": "Focus Sash",
+        "moves": [
+          "Power Whip",
+          "Zen Headbutt",
+          "Low Kick",
+          "Flail"
+        ],
+        "ability": "Queenly Majesty"
+      },
+      {
+        "pokemon": "Gyarados",
+        "item": "Wacan Berry",
+        "moves": [
+          "Waterfall",
+          "Power Whip",
+          "Ice Fang",
+          "Dragon Dance"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Milotic",
+        "item": "Leftovers",
+        "moves": [
+          "Hydro Pump",
+          "Muddy Water",
+          "Ice Beam",
+          "Hypnosis"
+        ],
+        "ability": "Competitive"
+      },
+      {
+        "pokemon": "Avalugg_Hisuian",
+        "item": "Rock Gem",
+        "moves": [
+          "Avalanche",
+          "Rock Slide",
+          "High Horsepower",
+          "Protect"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Overqwil",
+        "item": "Assault Vest",
+        "moves": [
+          "Gunk Shot",
+          "Throat Chop",
+          "Liquidation",
+          "Icy Wind"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  }
+]

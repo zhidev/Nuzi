@@ -1,0 +1,73 @@
+[
+  {
+    "trainer": "Bird Keeper Camden [Double Battle With Battle Girl Donny]",
+    "pokemon_list": [
+      {
+        "pokemon": "Staraptor",
+        "item": "Focus Sash",
+        "moves": [
+          "Return",
+          "Dual Wingbeat",
+          "Endeavor",
+          "Tailwind"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Vikavolt",
+        "item": "Lum Berry",
+        "moves": [
+          "Thunderbolt",
+          "Bug Buzz",
+          "Electroweb",
+          "Roost"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Hydreigon",
+        "item": "Dark Gem",
+        "moves": [
+          "Dragon Pulse",
+          "Dark Pulse",
+          "Aura Sphere",
+          "Roost"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Lucario",
+        "item": "Life Orb",
+        "moves": [
+          "Aura Sphere",
+          "Flash Cannon",
+          "Dark Pulse",
+          "Detect"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Toxicroak",
+        "item": "Black Sludge",
+        "moves": [
+          "Sludge Bomb",
+          "Aura Sphere",
+          "Fake Out",
+          "Detect"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Infernape",
+        "item": "Focus Sash",
+        "moves": [
+          "Close Combat",
+          "Overheat",
+          "Poison Jab",
+          "Fake Out"
+        ],
+        "ability": "Blaze"
+      }
+    ]
+  }
+]

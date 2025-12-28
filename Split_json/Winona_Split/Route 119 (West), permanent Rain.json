@@ -1,0 +1,570 @@
+[
+  {
+    "trainer": "Bug Maniac Taylor",
+    "pokemon_list": [
+      {
+        "pokemon": "Escavalier",
+        "item": "Assault Vest",
+        "moves": [
+          "Megahorn",
+          "Close Combat",
+          "Razor Shell",
+          "Metal Burst"
+        ],
+        "ability": "Shell Armor"
+      },
+      {
+        "pokemon": "Parasect",
+        "item": "Bright Powder",
+        "moves": [
+          "Leech Life",
+          "Knock Off",
+          "Double Team",
+          "Spore"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Shiinotic",
+        "item": "Kebia Berry",
+        "moves": [
+          "Moonblast",
+          "Pollen Puff",
+          "Spore",
+          "Strength Sap"
+        ],
+        "ability": "Rain Dish"
+      },
+      {
+        "pokemon": "Kabutops",
+        "item": "Bug Gem",
+        "moves": [
+          "Stone Edge",
+          "Liquidation",
+          "Aqua Jet",
+          "Leech Life"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Bug Catcher Doug",
+    "pokemon_list": [
+      {
+        "pokemon": "Shuckle",
+        "item": "Custap Berry",
+        "moves": [
+          "Rock Tomb",
+          "Final Gambit",
+          "Sticky Web"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Mothim",
+        "item": "Flying Gem",
+        "moves": [
+          "Bug Buzz",
+          "Acrobatics",
+          "Giga Drain",
+          "Infestation"
+        ],
+        "ability": "Tinted Lens"
+      },
+      {
+        "pokemon": "Illumise",
+        "item": "Choice Specs",
+        "moves": [
+          "Bug Buzz"
+        ],
+        "ability": "Tinted Lens"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Phil",
+    "pokemon_list": [
+      {
+        "pokemon": "Luvdisc",
+        "item": "Mystic Water",
+        "moves": [
+          "Hydro Pump",
+          "Sweet Kiss"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Luvdisc",
+        "item": "Mystic Water",
+        "moves": [
+          "Hydro Pump",
+          "Sweet Kiss"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Luvdisc",
+        "item": "Mystic Water",
+        "moves": [
+          "Hydro Pump"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Ranger Lydian",
+    "pokemon_list": [
+      {
+        "pokemon": "Kingdra",
+        "item": "Lum Berry",
+        "moves": [
+          "Liquidation",
+          "Dragon Pulse",
+          "Octazooka",
+          "Hurricane"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Milotic",
+        "item": "Leftovers",
+        "moves": [
+          "Scald",
+          "Flip Turn",
+          "Hypnosis",
+          "Recover"
+        ],
+        "ability": "Marvel Scale"
+      },
+      {
+        "pokemon": "Heliolisk",
+        "item": "Expert Belt",
+        "moves": [
+          "Thunder",
+          "Dragon Pulse",
+          "Weather Ball",
+          "Grass Knot"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Dragalge",
+        "item": "White Herb",
+        "moves": [
+          "Draco Meteor",
+          "Sludge Wave",
+          "Hydro Pump",
+          "Flip Turn"
+        ],
+        "ability": "Adaptability"
+      }
+    ]
+  },
+  {
+    "trainer": "Bug Catcher Greg",
+    "pokemon_list": [
+      {
+        "pokemon": "Galvantula",
+        "item": "Bug Gem",
+        "moves": [
+          "Thunder",
+          "Bug Buzz",
+          "Disable",
+          "Sticky Web"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Frosmoth",
+        "item": "Leftovers",
+        "moves": [
+          "Ice Beam",
+          "Hurricane",
+          "Weather Ball",
+          "Substitute"
+        ],
+        "ability": "Ice Scales"
+      },
+      {
+        "pokemon": "Beedrill",
+        "item": "Scope Lens",
+        "moves": [
+          "X Scissor",
+          "Drill Run",
+          "Knock Off",
+          "Focus Energy"
+        ],
+        "ability": "Sniper"
+      }
+    ]
+  },
+  {
+    "trainer": "Bug Maniac Brent",
+    "pokemon_list": [
+      {
+        "pokemon": "Wormadam",
+        "item": "White Herb",
+        "moves": [
+          "Leaf Storm",
+          "Bug Buzz",
+          "Psychic",
+          "Giga Drain"
+        ],
+        "ability": "Overcoat"
+      },
+      {
+        "pokemon": "Wormadam_Trash_Cloak",
+        "item": "Leftovers",
+        "moves": [
+          "Iron Head",
+          "Infestation",
+          "Protect",
+          "Metal Burst"
+        ],
+        "ability": "Overcoat"
+      },
+      {
+        "pokemon": "Wormadam_Sandy_Cloak",
+        "item": "Rock Gem",
+        "moves": [
+          "Earthquake",
+          "Rock Blast",
+          "Infestation",
+          "Fissure"
+        ],
+        "ability": "Overcoat"
+      }
+    ]
+  },
+  {
+    "trainer": "Expert Donald",
+    "pokemon_list": [
+      {
+        "pokemon": "Ludicolo",
+        "item": "Focus Sash",
+        "moves": [
+          "Energy Ball",
+          "Weather Ball",
+          "Flail",
+          "Counter"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Turtonator",
+        "item": "Air Balloon",
+        "moves": [
+          "Dragon Claw",
+          "Explosion",
+          "Heavy Slam",
+          "Curse"
+        ],
+        "ability": "Shell Armor"
+      },
+      {
+        "pokemon": "Sceptile",
+        "item": "Dragon Gem",
+        "moves": [
+          "Leaf Blade",
+          "Earthquake",
+          "Dual Chop",
+          "Swords Dance"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Excadrill",
+        "item": "Scope Lens",
+        "moves": [
+          "High Horsepower",
+          "Iron Head",
+          "Rock Slide",
+          "Rock Polish"
+        ],
+        "ability": "Mold Breaker"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Ranger Catherine",
+    "pokemon_list": [
+      {
+        "pokemon": "Mr_Mime_Galarian",
+        "item": "Light Clay",
+        "moves": [
+          "Freeze Dry",
+          "Hypnosis",
+          "Light Screen",
+          "Reflect"
+        ],
+        "ability": "Vital Spirit"
+      },
+      {
+        "pokemon": "Linoone",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Extreme Speed",
+          "Stomping Tantrum",
+          "Throat Chop",
+          "Belly Drum"
+        ],
+        "ability": "Quick Feet"
+      },
+      {
+        "pokemon": "Decidueye",
+        "item": "Dark Gem",
+        "moves": [
+          "Poltergeist",
+          "Leaf Blade",
+          "Sucker Punch",
+          "Swords Dance"
+        ],
+        "ability": "Overgrow"
+      },
+      {
+        "pokemon": "Sylveon",
+        "item": "Water Gem",
+        "moves": [
+          "Hyper Voice",
+          "Psyshock",
+          "Weather Ball",
+          "Quick Attack"
+        ],
+        "ability": "Pixilate"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Ranger Jackson",
+    "pokemon_list": [
+      {
+        "pokemon": "Morpeko",
+        "item": "Shuca Berry",
+        "moves": [
+          "Aura Wheel",
+          "Seed Bomb",
+          "Stomping Tantrum",
+          "Super Fang"
+        ],
+        "ability": "Hunger Switch"
+      },
+      {
+        "pokemon": "Ambipom",
+        "item": "Silk Scarf",
+        "moves": [
+          "Tail Slap",
+          "Low Kick",
+          "Covet",
+          "Fake Out"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Kingler",
+        "item": "Assault Vest",
+        "moves": [
+          "Crabhammer",
+          "High Horsepower",
+          "X Scissor",
+          "Knock Off"
+        ],
+        "ability": "Hyper Cutter"
+      }
+    ]
+  },
+  {
+    "trainer": "Bug Catcher Kent",
+    "pokemon_list": [
+      {
+        "pokemon": "Beautifly",
+        "item": "Focus Sash",
+        "moves": [
+          "Bug Buzz",
+          "Air Slash",
+          "Quiver Dance",
+          "Stun Spore"
+        ],
+        "ability": "Swarm"
+      },
+      {
+        "pokemon": "Araquanid",
+        "item": "Leftovers",
+        "moves": [
+          "Scald",
+          "Iron Defense",
+          "Protect",
+          "Mirror Coat"
+        ],
+        "ability": "Water Bubble"
+      },
+      {
+        "pokemon": "Scizor",
+        "item": "Steel Gem",
+        "moves": [
+          "Bullet Punch",
+          "Dual Wingbeat",
+          "Roost",
+          "Swords Dance"
+        ],
+        "ability": "Technician"
+      }
+    ]
+  },
+  {
+    "trainer": "Ninja Boy Takashi [Double Battle With Psychic Dayton]",
+    "pokemon_list": [
+      {
+        "pokemon": "Shiftry",
+        "item": "Silk Scarf",
+        "moves": [
+          "Explosion",
+          "Fake Out"
+        ],
+        "ability": "Early Bird"
+      },
+      {
+        "pokemon": "Wailord",
+        "item": "Life Orb",
+        "moves": [
+          "Water Spout",
+          "Surf",
+          "Explosion"
+        ],
+        "ability": "Oblivious"
+      },
+      {
+        "pokemon": "Oranguru",
+        "item": "Colbur Berry",
+        "moves": [
+          "Psychic",
+          "Focus Blast",
+          "Thunder",
+          "Trick Room"
+        ],
+        "ability": "Telepathy"
+      },
+      {
+        "pokemon": "Gardevoir",
+        "item": "Fairy Gem",
+        "moves": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Energy Ball",
+          "Trick Room"
+        ],
+        "ability": "Telepathy"
+      }
+    ]
+  },
+  {
+    "trainer": "Bird Keeper Hugh",
+    "pokemon_list": [
+      {
+        "pokemon": "Skarmory",
+        "item": "Custap Berry",
+        "moves": [
+          "Brave Bird",
+          "Whirlwind",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Mantine",
+        "item": "Sharp Beak",
+        "moves": [
+          "Hurricane",
+          "Scald",
+          "Hidden Power Grass",
+          "Roost"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Flapple",
+        "item": "Liechi Berry",
+        "moves": [
+          "Dragon Rush",
+          "Grav Apple",
+          "Dragon Dance",
+          "Substitute"
+        ],
+        "ability": "Ripen"
+      },
+      {
+        "pokemon": "Pikachu",
+        "item": "Light Ball",
+        "moves": [
+          "Thunder",
+          "Fly",
+          "Surf",
+          "Knock Off"
+        ],
+        "ability": "Lightning Rod"
+      }
+    ]
+  },
+  {
+    "trainer": "Parasol Lady Koko",
+    "pokemon_list": [
+      {
+        "pokemon": "Barraskewda",
+        "item": "Mystic Water",
+        "moves": [
+          "Liquidation",
+          "Flip Turn",
+          "Close Combat",
+          "Psychic Fangs"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Roserade",
+        "item": "Black Sludge",
+        "moves": [
+          "Sludge Bomb",
+          "Grass Knot",
+          "Weather Ball",
+          "Sleep Powder"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Rotom_Wash",
+        "item": "Lum Berry",
+        "moves": [
+          "Hydro Pump",
+          "Thunder",
+          "Volt Switch",
+          "Will O Wisp"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Jynx",
+        "item": "Life Orb",
+        "moves": [
+          "Psychic",
+          "Freeze Dry",
+          "Lovely Kiss",
+          "Substitute"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Goodra",
+        "item": "Leftovers",
+        "moves": [
+          "Dragon Claw",
+          "Aqua Tail",
+          "Curse",
+          "Rest"
+        ],
+        "ability": "Hydration"
+      }
+    ]
+  }
+]

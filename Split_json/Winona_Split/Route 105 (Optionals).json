@@ -1,0 +1,73 @@
+[
+  {
+    "trainer": "Bird Keeper Josue [Double Battle With Ruin Maniac Andres]",
+    "pokemon_list": [
+      {
+        "pokemon": "Hawlucha",
+        "item": "Focus Sash",
+        "moves": [
+          "Close Combat",
+          "Dual Wingbeat",
+          "Reversal",
+          "Endeavor"
+        ],
+        "ability": "Mold Breaker"
+      },
+      {
+        "pokemon": "Gliscor",
+        "item": "Yache Berry",
+        "moves": [
+          "High Horsepower",
+          "Dual Wingbeat",
+          "Rock Slide",
+          "Swords Dance"
+        ],
+        "ability": "Hyper Cutter"
+      },
+      {
+        "pokemon": "Beedrill",
+        "item": "Beedrillite",
+        "moves": [
+          "Poison Jab",
+          "X Scissor",
+          "Drill Run",
+          "Protect"
+        ],
+        "ability": "Swarm"
+      },
+      {
+        "pokemon": "Aurorus",
+        "item": "Power Herb",
+        "moves": [
+          "Meteor Beam",
+          "Hyper Voice",
+          "Freeze Dry",
+          "Icy Wind"
+        ],
+        "ability": "Refrigerate"
+      },
+      {
+        "pokemon": "Wyrdeer",
+        "item": "Light Clay",
+        "moves": [
+          "Psychic",
+          "Hyper Voice",
+          "Light Screen",
+          "Reflect"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Gastrodon",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Earth Power",
+          "Muddy Water",
+          "Ice Beam",
+          "Recover"
+        ],
+        "ability": "Storm Drain"
+      }
+    ]
+  }
+]

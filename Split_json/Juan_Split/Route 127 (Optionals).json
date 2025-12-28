@@ -1,0 +1,144 @@
+[
+  {
+    "trainer": "Bird Keeper Aidan [Double Battle With Cool Trainer Athena]",
+    "pokemon_list": [
+      {
+        "pokemon": "Bruxish",
+        "item": "Assault Vest",
+        "moves": [
+          "Liquidation",
+          "Psychic Fangs",
+          "Icy Wind",
+          "Super Fang"
+        ],
+        "ability": "Dazzling"
+      },
+      {
+        "pokemon": "Samurott_Hisuian",
+        "item": "Life Orb",
+        "moves": [
+          "Liquidation",
+          "Crunch",
+          "Sucker Punch",
+          "Grass Knot"
+        ],
+        "ability": "Torrent"
+      },
+      {
+        "pokemon": "Hitmonlee",
+        "item": "Normal Gem",
+        "moves": [
+          "Close Combat",
+          "Retaliate",
+          "Acrobatics",
+          "Fake Out"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Incineroar",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Flare Blitz",
+          "Throat Chop",
+          "Low Kick",
+          "Fake Out"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Pinsir",
+        "item": "Pinsirite",
+        "moves": [
+          "Close Combat",
+          "Return",
+          "Feint",
+          "Swords Dance"
+        ],
+        "ability": "Hyper Cutter"
+      },
+      {
+        "pokemon": "Cinderace",
+        "item": "Focus Sash",
+        "moves": [
+          "Pyro Ball",
+          "Gunk Shot",
+          "Zen Headbutt",
+          "Coaching"
+        ],
+        "ability": "Libero"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Roger [Double Battle With Black Belt Koji]",
+    "pokemon_list": [
+      {
+        "pokemon": "Banette",
+        "item": "Banettite",
+        "moves": [
+          "Shadow Claw",
+          "Foul Play",
+          "Swagger",
+          "Thunder Wave"
+        ],
+        "ability": "Insomnia"
+      },
+      {
+        "pokemon": "Grimmsnarl",
+        "item": "Lum Berry",
+        "moves": [
+          "Foul Play",
+          "Fake Out",
+          "Swagger",
+          "Thunder Wave"
+        ],
+        "ability": "Prankster"
+      },
+      {
+        "pokemon": "Spiritomb",
+        "item": "Leftovers",
+        "moves": [
+          "Foul Play",
+          "Hex",
+          "Psychic",
+          "Hypnosis"
+        ],
+        "ability": "Pressure"
+      },
+      {
+        "pokemon": "Ursaluna",
+        "item": "Leftovers",
+        "moves": [
+          "High Horsepower",
+          "Body Slam",
+          "Body Press",
+          "Bulk Up"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Corviknight",
+        "item": "Weakness Policy",
+        "moves": [
+          "Dual Wingbeat",
+          "Body Press",
+          "Bulk Up",
+          "Roost"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Haxorus",
+        "item": "Dragon Gem",
+        "moves": [
+          "Dual Chop",
+          "Earthquake",
+          "Aqua Tail",
+          "Swords Dance"
+        ],
+        "ability": "Unnerve"
+      }
+    ]
+  }
+]

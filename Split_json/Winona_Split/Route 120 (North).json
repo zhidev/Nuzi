@@ -1,0 +1,76 @@
+[
+  {
+    "trainer": "Parasol Lady Clarissa",
+    "pokemon_list": [
+      {
+        "pokemon": "Greedent",
+        "item": "Custap Berry",
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Crunch",
+          "Swords Dance"
+        ],
+        "ability": "Gluttony"
+      },
+      {
+        "pokemon": "Amoonguss",
+        "item": "Black Sludge",
+        "moves": [
+          "Energy Ball",
+          "Sludge Bomb",
+          "Foul Play",
+          "Spore"
+        ],
+        "ability": "Effect Spore"
+      },
+      {
+        "pokemon": "Hatterene",
+        "item": "Leftovers",
+        "moves": [
+          "Psychic",
+          "Draining Kiss",
+          "Calm Mind",
+          "Protect"
+        ],
+        "ability": "Magic Bounce"
+      }
+    ]
+  },
+  {
+    "trainer": "Bird Keeper Robert",
+    "pokemon_list": [
+      {
+        "pokemon": "Vikavolt",
+        "item": "Power Herb",
+        "moves": [
+          "Bug Buzz",
+          "Thunderbolt",
+          "Solar Beam",
+          "Guillotine"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Tropius",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Air Slash",
+          "Earthquake",
+          "Leech Seed",
+          "Substitute"
+        ],
+        "ability": "Harvest"
+      },
+      {
+        "pokemon": "Delibird",
+        "item": "Choice Band",
+        "moves": [
+          "Dual Wingbeat",
+          "Triple Axel"
+        ],
+        "ability": "Hustle"
+      }
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "trainer": "Swimmer\u2640 Rose [Double Battle With Swimmer\u2642 Deandre]",
+    "pokemon_list": [
+      {
+        "pokemon": "Seaking",
+        "item": "Focus Sash",
+        "moves": [
+          "Waterfall",
+          "Megahorn",
+          "Icy Wind",
+          "Acupressure"
+        ],
+        "ability": "Lightning Rod"
+      },
+      {
+        "pokemon": "Dewgong",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Hydro Pump",
+          "Freeze Dry",
+          "Drill Run",
+          "Fake Out"
+        ],
+        "ability": "Thick Fat"
+      },
+      {
+        "pokemon": "Whiscash",
+        "item": "Lum Berry",
+        "moves": [
+          "Aqua Tail",
+          "Stomping Tantrum",
+          "Zen Headbutt",
+          "Dragon Dance"
+        ],
+        "ability": "Oblivious"
+      },
+      {
+        "pokemon": "Gyarados",
+        "item": "Flying Gem",
+        "moves": [
+          "Hurricane",
+          "Waterfall",
+          "Crunch",
+          "Ice Fang"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Samurott",
+        "item": "Bug Gem",
+        "moves": [
+          "Liquidation",
+          "Aqua Jet",
+          "Megahorn",
+          "Retaliate"
+        ],
+        "ability": "Torrent"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Wade",
+    "pokemon_list": [
+      {
+        "pokemon": "Starmie",
+        "item": "Light Clay",
+        "moves": [
+          "Hydro Pump",
+          "Psychic",
+          "Light Screen",
+          "Reflect"
+        ],
+        "ability": "Analytic"
+      },
+      {
+        "pokemon": "Gorebyss",
+        "item": "Rindo Berry",
+        "moves": [
+          "Surf",
+          "Ice Beam",
+          "Psychic",
+          "Shell Smash"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Huntail",
+        "item": "Wacan Berry",
+        "moves": [
+          "Aqua Tail",
+          "Crunch",
+          "Ice Fang",
+          "Shell Smash"
+        ],
+        "ability": "Water Veil"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Barny",
+    "pokemon_list": [
+      {
+        "pokemon": "Pelipper",
+        "item": "Focus Sash",
+        "moves": [
+          "Hurricane",
+          "U Turn",
+          "Knock Off",
+          "Weather Ball"
+        ],
+        "ability": "Drizzle"
+      },
+      {
+        "pokemon": "Basculin",
+        "item": "Choice Band",
+        "moves": [
+          "Liquidation",
+          "Flip Turn"
+        ],
+        "ability": "Adaptability"
+      },
+      {
+        "pokemon": "Beartic",
+        "item": "Lum Berry",
+        "moves": [
+          "Icicle Crash",
+          "Liquidation",
+          "Low Kick",
+          "Swords Dance"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Guitarist Dalton",
+    "pokemon_list": [
+      {
+        "pokemon": "Rillaboom",
+        "item": "Choice Band",
+        "moves": [
+          "Wood Hammer",
+          "Grassy Glide",
+          "U Turn"
+        ],
+        "ability": "Grassy Surge"
+      },
+      {
+        "pokemon": "Toxtricity",
+        "item": "Black Sludge",
+        "moves": [
+          "Overdrive",
+          "Nuzzle",
+          "Hidden Power Grass",
+          "Substitute"
+        ],
+        "ability": "Punk Rock"
+      },
+      {
+        "pokemon": "Swellow",
+        "item": "Toxic Orb",
+        "moves": [
+          "Brave Bird",
+          "Facade",
+          "Endeavor",
+          "Protect"
+        ],
+        "ability": "Guts"
+      }
+    ]
+  },
+  {
+    "trainer": "Bird Keeper Perry [Double Battle With Bird Keeper Chester]",
+    "pokemon_list": [
+      {
+        "pokemon": "Vikavolt",
+        "item": "Charti Berry",
+        "moves": [
+          "Thunderbolt",
+          "Bug Buzz",
+          "Electroweb",
+          "Energy Ball"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Flygon",
+        "item": "Yache Berry",
+        "moves": [
+          "Earthquake",
+          "Dragon Claw",
+          "Dragon Dance",
+          "Roost"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Fearow",
+        "item": "Scope Lens",
+        "moves": [
+          "Double Edge",
+          "Brave Bird",
+          "Drill Run",
+          "Focus Energy"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Honchkrow",
+        "item": "Scope Lens",
+        "moves": [
+          "Brave Bird",
+          "Night Slash",
+          "Sucker Punch",
+          "Superpower"
+        ],
+        "ability": "Super Luck"
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "trainer": "Winstrate Victor",
+    "pokemon_list": [
+      {
+        "pokemon": "Toucannon",
+        "item": "Lum Berry",
+        "moves": [
+          "Boomburst",
+          "Drill Peck",
+          "Bullet Seed",
+          "Supersonic"
+        ],
+        "ability": "Skill Link"
+      },
+      {
+        "pokemon": "Emolga",
+        "item": "Lum Berry",
+        "moves": [
+          "Thunderbolt",
+          "Dual Wingbeat",
+          "Iron Tail",
+          "Roost"
+        ],
+        "ability": "Motor Drive"
+      }
+    ]
+  },
+  {
+    "trainer": "Winstrate Victoria",
+    "pokemon_list": [
+      {
+        "pokemon": "Abomasnow",
+        "item": "Lum Berry",
+        "moves": [
+          "Wood Hammer",
+          "Ice Beam",
+          "Ice Shard",
+          "Earthquake"
+        ],
+        "ability": "Soundproof"
+      },
+      {
+        "pokemon": "Centiskorch",
+        "item": "Leftovers",
+        "moves": [
+          "Fire Lash",
+          "Skitter Smack",
+          "Coil",
+          "Protect"
+        ],
+        "ability": "White Smoke"
+      },
+      {
+        "pokemon": "Seismitoad",
+        "item": "Lum Berry",
+        "moves": [
+          "Earth Power",
+          "Muddy Water",
+          "Venoshock",
+          "Toxic"
+        ],
+        "ability": "Water Absorb"
+      }
+    ]
+  },
+  {
+    "trainer": "Winstrate Vivi",
+    "pokemon_list": [
+      {
+        "pokemon": "Ribombee",
+        "item": "Focus Sash",
+        "moves": [
+          "Dazzling Gleam",
+          "Signal Beam",
+          "Energy Ball",
+          "Stun Spore"
+        ],
+        "ability": "Shield Dust"
+      },
+      {
+        "pokemon": "Flygon",
+        "item": "Lum Berry",
+        "moves": [
+          "Dragon Claw",
+          "Scorching Sands",
+          "Flamethrower",
+          "Roost"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Sudowoodo",
+        "item": "Lum Berry",
+        "moves": [
+          "Head Smash",
+          "Double Edge",
+          "Wood Hammer",
+          "Submission"
+        ],
+        "ability": "Rock Head"
+      }
+    ]
+  },
+  {
+    "trainer": "Winstrate Vicky",
+    "pokemon_list": [
+      {
+        "pokemon": "Medicham",
+        "item": "Medichamite",
+        "moves": [
+          "High Jump Kick",
+          "Zen Headbutt",
+          "Thunder Punch",
+          "Fake Out"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Krookodile",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Crunch",
+          "Pursuit",
+          "Aqua Tail"
+        ],
+        "ability": "Moxie"
+      }
+    ]
+  }
+]

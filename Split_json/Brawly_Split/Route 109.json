@@ -1,0 +1,224 @@
+[
+  {
+    "trainer": "Tuber Chandler",
+    "pokemon_list": [
+      {
+        "pokemon": "Smoochum",
+        "item": "Never Melt Ice",
+        "moves": [
+          "Aurora Beam",
+          "Psybeam",
+          "Lovely Kiss"
+        ],
+        "ability": "Hydration"
+      },
+      {
+        "pokemon": "Elekid",
+        "item": "Magnet",
+        "moves": [
+          "Shock Wave",
+          "Fire Punch",
+          "Ice Punch",
+          "Quick Attack"
+        ],
+        "ability": "Vital Spirit"
+      },
+      {
+        "pokemon": "Magby",
+        "item": "Charcoal",
+        "moves": [
+          "Incinerate",
+          "Brick Break",
+          "Mach Punch",
+          "Confuse Ray"
+        ],
+        "ability": "Flame Body"
+      }
+    ]
+  },
+  {
+    "trainer": "Tuber Lola",
+    "pokemon_list": [
+      {
+        "pokemon": "Fletchinder",
+        "item": "Lum Berry",
+        "moves": [
+          "Aerial Ace",
+          "Flame Charge",
+          "Steel Wing"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Herdier",
+        "item": "Lum Berry",
+        "moves": [
+          "Headbutt",
+          "Bite",
+          "Ice Fang",
+          "Rock Smash"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  },
+  {
+    "trainer": "Sailor Edmond",
+    "pokemon_list": [
+      {
+        "pokemon": "Wingull",
+        "item": "Oran Berry",
+        "moves": [
+          "Water Pulse",
+          "Air Cutter",
+          "Shock Wave",
+          "Rain Dance"
+        ],
+        "ability": "Hydration"
+      },
+      {
+        "pokemon": "Buizel",
+        "item": "Rindo Berry",
+        "moves": [
+          "Water Pulse",
+          "Aqua Jet",
+          "Pursuit",
+          "Sonic Boom"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Palpitoad",
+        "item": "Lum Berry",
+        "moves": [
+          "Bubble Beam",
+          "Mud Shot",
+          "Sludge",
+          "Rain Dance"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Bill",
+    "pokemon_list": [
+      {
+        "pokemon": "Caterpie",
+        "item": "Choice Band",
+        "moves": [
+          "Bug Bite"
+        ],
+        "ability": "Shield Dust"
+      },
+      {
+        "pokemon": "Weedle",
+        "item": "Choice Band",
+        "moves": [
+          "Bug Bite"
+        ],
+        "ability": "Shield Dust"
+      },
+      {
+        "pokemon": "Wurmple",
+        "item": "Choice Band",
+        "moves": [
+          "Bug Bite"
+        ],
+        "ability": "Shield Dust"
+      },
+      {
+        "pokemon": "Scatterbug",
+        "item": "Choice Band",
+        "moves": [
+          "Bug Bite"
+        ],
+        "ability": "Shield Dust"
+      },
+      {
+        "pokemon": "Blipbug",
+        "item": "Choice Specs",
+        "moves": [
+          "Struggle Bug"
+        ],
+        "ability": "Swarm"
+      }
+    ]
+  },
+  {
+    "trainer": "Tuber Ricky",
+    "pokemon_list": [
+      {
+        "pokemon": "Aipom",
+        "item": "Silk Scarf",
+        "moves": [
+          "Double Hit",
+          "Fake Out",
+          "Aerial Ace",
+          "Sand Attack"
+        ],
+        "ability": "Run Away"
+      },
+      {
+        "pokemon": "Nidorino",
+        "item": "Black Sludge",
+        "moves": [
+          "Venoshock",
+          "Poison Tail",
+          "Double Kick",
+          "Sand Attack"
+        ],
+        "ability": "Poison Point"
+      },
+      {
+        "pokemon": "Luxio",
+        "item": "Lum Berry",
+        "moves": [
+          "Spark",
+          "Double Kick",
+          "Bite",
+          "Howl"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  },
+  {
+    "trainer": "Tuber Hailey",
+    "pokemon_list": [
+      {
+        "pokemon": "Mienfoo",
+        "item": "Black Belt",
+        "moves": [
+          "Force Palm",
+          "Reversal",
+          "Rock Tomb",
+          "Helping Hand"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Nidorina",
+        "item": "Lum Berry",
+        "moves": [
+          "Venoshock",
+          "Water Pulse",
+          "Shock Wave",
+          "Toxic"
+        ],
+        "ability": "Poison Point"
+      },
+      {
+        "pokemon": "Flaaffy",
+        "item": "Magnet",
+        "moves": [
+          "Shock Wave",
+          "Fire Punch",
+          "Confuse Ray",
+          "Thunder Wave"
+        ],
+        "ability": "Static"
+      }
+    ]
+  }
+]

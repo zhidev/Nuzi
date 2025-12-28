@@ -1,0 +1,491 @@
+[
+  {
+    "trainer": "Bird Keeper Colin",
+    "pokemon_list": [
+      {
+        "pokemon": "Aerodactyl",
+        "item": "Passho Berry",
+        "moves": [
+          "Stone Edge",
+          "Aqua Tail",
+          "Substitute",
+          "Swagger"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Charizard",
+        "item": "Focus Sash",
+        "moves": [
+          "Burn Up",
+          "Hurricane",
+          "Weather Ball",
+          "Counter"
+        ],
+        "ability": "Blaze"
+      },
+      {
+        "pokemon": "Empoleon",
+        "item": "Water Gem",
+        "moves": [
+          "Iron Head",
+          "Aqua Jet",
+          "Drill Peck",
+          "Swords Dance"
+        ],
+        "ability": "Defiant"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Gian",
+    "pokemon_list": [
+      {
+        "pokemon": "Drifblim",
+        "item": "Colbur Berry",
+        "moves": [
+          "Air Slash",
+          "Explosion",
+          "Thunder",
+          "Weather Ball"
+        ],
+        "ability": "Aftermath"
+      },
+      {
+        "pokemon": "Swampert",
+        "item": "Rindo Berry",
+        "moves": [
+          "Liquidation",
+          "Flip Turn",
+          "Earthquake",
+          "Stealth Rock"
+        ],
+        "ability": "Torrent"
+      },
+      {
+        "pokemon": "Duraludon",
+        "item": "Leftovers",
+        "moves": [
+          "Draco Meteor",
+          "Dragon Tail",
+          "Heavy Slam",
+          "Body Press"
+        ],
+        "ability": "Heavy Metal"
+      },
+      {
+        "pokemon": "Alakazam",
+        "item": "Focus Sash",
+        "moves": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Signal Beam",
+          "Counter"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Alcremie",
+        "item": "Babiri Berry",
+        "moves": [
+          "Draining Kiss",
+          "Stored Power",
+          "Acid Armor",
+          "Calm Mind"
+        ],
+        "ability": "Sweet Veil"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Jennifer [Double Battle With Battle Girl Callie]",
+    "pokemon_list": [
+      {
+        "pokemon": "Metagross",
+        "item": "Assault Vest",
+        "moves": [
+          "Meteor Mash",
+          "Zen Headbutt",
+          "Thunder Punch",
+          "Icy Wind"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Ursaring",
+        "item": "Toxic Orb",
+        "moves": [
+          "Facade",
+          "Retaliate",
+          "Gunk Shot",
+          "High Horsepower"
+        ],
+        "ability": "Quick Feet"
+      },
+      {
+        "pokemon": "Zebstrika",
+        "item": "Life Orb",
+        "moves": [
+          "Zing Zap",
+          "High Horsepower",
+          "Low Kick",
+          "Magnet Rise"
+        ],
+        "ability": "Lightning Rod"
+      },
+      {
+        "pokemon": "Sawk",
+        "item": "Lum Berry",
+        "moves": [
+          "Close Combat",
+          "Throat Chop",
+          "Coaching",
+          "Protect"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Poliwrath",
+        "item": "Lum Berry",
+        "moves": [
+          "Close Combat",
+          "Hydro Pump",
+          "Coaching",
+          "Hypnosis"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Parasol Lady Angelica",
+    "pokemon_list": [
+      {
+        "pokemon": "Stunfisk",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Discharge",
+          "Scald",
+          "Stealth Rock"
+        ],
+        "ability": "Static"
+      },
+      {
+        "pokemon": "Chansey",
+        "item": "Eviolite",
+        "moves": [
+          "Seismic Toss",
+          "Counter",
+          "Soft Boiled",
+          "Toxic"
+        ],
+        "ability": "Natural Cure"
+      },
+      {
+        "pokemon": "Mismagius",
+        "item": "Ghost Gem",
+        "moves": [
+          "Shadow Ball",
+          "Dazzling Gleam",
+          "Mystical Fire",
+          "Nasty Plot"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Musharna",
+        "item": "Colbur Berry",
+        "moves": [
+          "Psychic",
+          "Moonblast",
+          "Calm Mind",
+          "Dark Void"
+        ],
+        "ability": "Synchronize"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Ranger Jenna",
+    "pokemon_list": [
+      {
+        "pokemon": "Dragalge",
+        "item": "Shuca Berry",
+        "moves": [
+          "Sludge Wave",
+          "Dragon Pulse",
+          "Scald",
+          "Toxic Spikes"
+        ],
+        "ability": "Adaptability"
+      },
+      {
+        "pokemon": "Pangoro",
+        "item": "Eject Pack",
+        "moves": [
+          "Close Combat",
+          "Knock Off",
+          "Gunk Shot"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Gothitelle",
+        "item": "Focus Sash",
+        "moves": [
+          "Psychic",
+          "Thunderbolt",
+          "Mystical Fire",
+          "Grass Knot"
+        ],
+        "ability": "Shadow Tag"
+      },
+      {
+        "pokemon": "Lilligant",
+        "item": "Leftovers",
+        "moves": [
+          "Petal Dance",
+          "Sleep Powder",
+          "Synthesis",
+          "Quiver Dance"
+        ],
+        "ability": "Own Tempo"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Ranger Lorenzo",
+    "pokemon_list": [
+      {
+        "pokemon": "Golisopod",
+        "item": "Bug Gem",
+        "moves": [
+          "First Impression",
+          "Liquidation",
+          "Leech Life",
+          "Knock Off"
+        ],
+        "ability": "Emergency Exit"
+      },
+      {
+        "pokemon": "Appletun",
+        "item": "Lum Berry",
+        "moves": [
+          "Apple Acid",
+          "Body Press",
+          "Iron Defense",
+          "Recover"
+        ],
+        "ability": "Thick Fat"
+      },
+      {
+        "pokemon": "Miltank",
+        "item": "White Herb",
+        "moves": [
+          "Body Slam",
+          "Body Press",
+          "Zen Headbutt",
+          "Curse"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Mr_Mime",
+        "item": "Life Orb",
+        "moves": [
+          "Moonblast",
+          "Psychic",
+          "Mystical Fire",
+          "Grass Knot"
+        ],
+        "ability": "Filter"
+      }
+    ]
+  },
+  {
+    "trainer": "Bug Maniac Jeffrey",
+    "pokemon_list": [
+      {
+        "pokemon": "Vivillon_Elegant",
+        "item": "Focus Sash",
+        "moves": [
+          "Air Slash",
+          "Energy Ball",
+          "Electroweb",
+          "Endeavor"
+        ],
+        "ability": "Shield Dust"
+      },
+      {
+        "pokemon": "Vivillon_Modern",
+        "item": "Focus Sash",
+        "moves": [
+          "Bug Buzz",
+          "Air Slash",
+          "Psychic",
+          "Quiver Dance"
+        ],
+        "ability": "Shield Dust"
+      },
+      {
+        "pokemon": "Vivillon_Sun",
+        "item": "Life Orb",
+        "moves": [
+          "Hurricane",
+          "Bug Buzz",
+          "Quiver Dance",
+          "Sleep Powder"
+        ],
+        "ability": "Compound Eyes"
+      }
+    ]
+  },
+  {
+    "trainer": "Ruin Maniac Chip",
+    "pokemon_list": [
+      {
+        "pokemon": "Armaldo",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Leech Life",
+          "Rock Tomb",
+          "Knock Off",
+          "Stealth Rock"
+        ],
+        "ability": "Battle Armor"
+      },
+      {
+        "pokemon": "Cradily",
+        "item": "Leftovers",
+        "moves": [
+          "Power Whip",
+          "Rock Slide",
+          "Curse",
+          "Rest"
+        ],
+        "ability": "Suction Cups"
+      },
+      {
+        "pokemon": "Tyrantrum",
+        "item": "Dragon Gem",
+        "moves": [
+          "Head Smash",
+          "Scale Shot",
+          "Earthquake",
+          "Substitute"
+        ],
+        "ability": "Rock Head"
+      },
+      {
+        "pokemon": "Aurorus",
+        "item": "Ice Gem",
+        "moves": [
+          "Hyper Voice",
+          "Freeze Dry",
+          "Earth Power",
+          "Substitute"
+        ],
+        "ability": "Refrigerate"
+      }
+    ]
+  },
+  {
+    "trainer": "Ninja Boy Keigo",
+    "pokemon_list": [
+      {
+        "pokemon": "Lickilicky",
+        "item": "Chople Berry",
+        "moves": [
+          "Explosion",
+          "Body Slam",
+          "Power Whip",
+          "Knock Off"
+        ],
+        "ability": "Own Tempo"
+      },
+      {
+        "pokemon": "Cursola",
+        "item": "Custap Berry",
+        "moves": [
+          "Shadow Ball",
+          "Explosion",
+          "Hydro Pump",
+          "Endure"
+        ],
+        "ability": "Perish Body"
+      },
+      {
+        "pokemon": "Glalie",
+        "item": "Leftovers",
+        "moves": [
+          "Freeze Dry",
+          "Icy Wind",
+          "Explosion",
+          "Protect"
+        ],
+        "ability": "Moody"
+      },
+      {
+        "pokemon": "Zoroark",
+        "item": "Dark Gem",
+        "moves": [
+          "Night Daze",
+          "Flamethrower",
+          "Aura Sphere",
+          "Nasty Plot"
+        ],
+        "ability": "Illusion"
+      }
+    ]
+  },
+  {
+    "trainer": "Ninja Boy Riley",
+    "pokemon_list": [
+      {
+        "pokemon": "Greninja",
+        "item": "Life Orb",
+        "moves": [
+          "Hydro Pump",
+          "Gunk Shot",
+          "Ice Beam",
+          "Extrasensory"
+        ],
+        "ability": "Protean"
+      },
+      {
+        "pokemon": "Dugtrio",
+        "item": "Ground Gem",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Final Gambit",
+          "Memento"
+        ],
+        "ability": "Arena Trap"
+      },
+      {
+        "pokemon": "Bisharp",
+        "item": "Black Glasses",
+        "moves": [
+          "Iron Head",
+          "Sucker Punch",
+          "Pursuit",
+          "Zen Headbutt"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Durant",
+        "item": "Focus Sash",
+        "moves": [
+          "X Scissor",
+          "Rock Slide",
+          "Superpower",
+          "Swords Dance"
+        ],
+        "ability": "Swarm"
+      }
+    ]
+  }
+]

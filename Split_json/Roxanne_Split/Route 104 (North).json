@@ -1,0 +1,157 @@
+[
+  {
+    "trainer": "Rich Boy Winston",
+    "pokemon_list": [
+      {
+        "pokemon": "Furfrou",
+        "item": "Leftovers",
+        "moves": [
+          "Headbutt",
+          "Covet",
+          "Rock Smash"
+        ],
+        "ability": "Fur Coat"
+      },
+      {
+        "pokemon": "Mightyena",
+        "item": "Leftovers",
+        "moves": [
+          "Crunch",
+          "Ice Fang",
+          "Fire Fang",
+          "Covet"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Ivan",
+    "pokemon_list": [
+      {
+        "pokemon": "Qwilfish",
+        "item": "Black Sludge",
+        "moves": [
+          "Dive",
+          "Venoshock",
+          "Toxic",
+          "Protect"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Seadra",
+        "item": "Lum Berry",
+        "moves": [
+          "Brine",
+          "Headbutt",
+          "Aurora Beam",
+          "Focus Energy"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Sealeo",
+        "item": "Lum Berry",
+        "moves": [
+          "Aurora Beam",
+          "Whirlpool",
+          "Hail",
+          "Protect"
+        ],
+        "ability": "Ice Body"
+      }
+    ]
+  },
+  {
+    "trainer": "Twins Gina & Mia [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Dedenne",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Dazzling Gleam",
+          "Electroweb"
+        ],
+        "ability": "Cheek Pouch"
+      },
+      {
+        "pokemon": "Clefairy",
+        "item": "Eviolite",
+        "moves": [
+          "Follow Me",
+          "Helping Hand"
+        ],
+        "ability": "Friend Guard"
+      },
+      {
+        "pokemon": "Abra",
+        "item": "Lum Berry",
+        "moves": [
+          "Psybeam",
+          "Dazzling Gleam"
+        ],
+        "ability": "Magic Guard"
+      },
+      {
+        "pokemon": "Togedemaru",
+        "item": "Lum Berry",
+        "moves": [
+          "Iron Head",
+          "Zing Zap",
+          "Fake Out",
+          "Helping Hand"
+        ],
+        "ability": "Sturdy"
+      }
+    ]
+  },
+  {
+    "trainer": "Lass Haley",
+    "pokemon_list": [
+      {
+        "pokemon": "Lumineon",
+        "item": "Lum Berry",
+        "moves": [
+          "Surf",
+          "Air Slash",
+          "Icy Wind"
+        ],
+        "ability": "Water Veil"
+      },
+      {
+        "pokemon": "Gloom",
+        "item": "Lum Berry",
+        "moves": [
+          "Sludge",
+          "Magical Leaf",
+          "Sleep Powder",
+          "Strength Sap"
+        ],
+        "ability": "Stench"
+      },
+      {
+        "pokemon": "Staravia",
+        "item": "Fighting Gem",
+        "moves": [
+          "Dual Wingbeat",
+          "Quick Attack",
+          "Steel Wing",
+          "Rock Smash"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Numel",
+        "item": "Passho Berry",
+        "moves": [
+          "Earth Power",
+          "Lava Plume",
+          "Flame Charge",
+          "Ancient Power"
+        ],
+        "ability": "Simple"
+      }
+    ]
+  }
+]

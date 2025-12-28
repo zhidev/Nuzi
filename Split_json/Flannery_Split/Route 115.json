@@ -1,0 +1,143 @@
+[
+  {
+    "trainer": "Black Belt Nob",
+    "pokemon_list": [
+      {
+        "pokemon": "Mienshao",
+        "item": "Life Orb",
+        "moves": [
+          "High Jump Kick",
+          "Stone Edge",
+          "Poison Jab",
+          "Grass Knot"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Bewear",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Hammer Arm",
+          "Body Slam",
+          "Retaliate",
+          "Counter"
+        ],
+        "ability": "Fluffy"
+      }
+    ]
+  },
+  {
+    "trainer": "Battle Girl Cyndy",
+    "pokemon_list": [
+      {
+        "pokemon": "Grapploct",
+        "item": "Leftovers",
+        "moves": [
+          "Drain Punch",
+          "Skitter Smack",
+          "Octolock",
+          "Protect"
+        ],
+        "ability": "Limber"
+      },
+      {
+        "pokemon": "Breloom",
+        "item": "Toxic Orb",
+        "moves": [
+          "Drain Punch",
+          "Facade",
+          "Bulk Up",
+          "Protect"
+        ],
+        "ability": "Poison Heal"
+      },
+      {
+        "pokemon": "Hitmontop",
+        "item": "Life Orb",
+        "moves": [
+          "Mach Punch",
+          "Bullet Punch",
+          "Fake Out",
+          "Triple Axel"
+        ],
+        "ability": "Technician"
+      }
+    ]
+  },
+  {
+    "trainer": "Psychic Marlene",
+    "pokemon_list": [
+      {
+        "pokemon": "Mr_Rime",
+        "item": "Lum Berry",
+        "moves": [
+          "Ice Beam",
+          "Psyshock",
+          "Teeter Dance",
+          "Thunder Wave"
+        ],
+        "ability": "Screen Cleaner"
+      },
+      {
+        "pokemon": "Cofagrigus",
+        "item": "Leftovers",
+        "moves": [
+          "Hex",
+          "Body Press",
+          "Will O Wisp",
+          "Rest"
+        ],
+        "ability": "Mummy"
+      }
+    ]
+  },
+  {
+    "trainer": "Collector Hector",
+    "pokemon_list": [
+      {
+        "pokemon": "Heatmor",
+        "item": "Expert Belt",
+        "moves": [
+          "Flare Blitz",
+          "Focus Blast",
+          "Thunder Punch",
+          "Grass Knot"
+        ],
+        "ability": "White Smoke"
+      },
+      {
+        "pokemon": "Durant",
+        "item": "Lum Berry",
+        "moves": [
+          "Iron Head",
+          "X Scissor",
+          "Rock Slide",
+          "Hone Claws"
+        ],
+        "ability": "Hustle"
+      },
+      {
+        "pokemon": "Slowking",
+        "item": "Leftovers",
+        "moves": [
+          "Psychic",
+          "Surf",
+          "Slack Off",
+          "Toxic"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Zangoose",
+        "item": "Toxic Orb",
+        "moves": [
+          "Facade",
+          "Close Combat",
+          "Night Slash",
+          "Detect"
+        ],
+        "ability": "Toxic Boost"
+      }
+    ]
+  }
+]

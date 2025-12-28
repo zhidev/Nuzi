@@ -1,0 +1,71 @@
+[
+  {
+    "trainer": "Sis And Bro Lila & Roy [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Ludicolo",
+        "item": "Focus Sash",
+        "moves": [
+          "Energy Ball",
+          "Scald",
+          "Icy Wind",
+          "Fake Out"
+        ],
+        "ability": "Own Tempo"
+      },
+      {
+        "pokemon": "Starmie",
+        "item": "Life Orb",
+        "moves": [
+          "Hydro Pump",
+          "Blizzard",
+          "Thunder",
+          "Grass Knot"
+        ],
+        "ability": "Analytic"
+      },
+      {
+        "pokemon": "Dragonite",
+        "item": "Lum Berry",
+        "moves": [
+          "Dragon Rush",
+          "Dual Wingbeat",
+          "Aqua Tail",
+          "Thunder Wave"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Stoutland",
+        "item": "Normal Gem",
+        "moves": [
+          "Last Resort",
+          "Retaliate"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Lanturn",
+        "item": "Life Orb",
+        "moves": [
+          "Hydro Pump",
+          "Thunder",
+          "Ice Beam",
+          "Protect"
+        ],
+        "ability": "Volt Absorb"
+      },
+      {
+        "pokemon": "Blastoise",
+        "item": "Lum Berry",
+        "moves": [
+          "Muddy Water",
+          "Focus Blast",
+          "Icy Wind",
+          "Fake Out"
+        ],
+        "ability": "Torrent"
+      }
+    ]
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "trainer": "Pokemon Trainer May [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Garchomp",
+        "item": "Yache Berry",
+        "moves": [
+          "Earthquake",
+          "Dual Chop",
+          "Fire Blast",
+          "Stealth Rock"
+        ],
+        "ability": "Rough Skin"
+      },
+      {
+        "pokemon": "Machamp",
+        "item": "Leftovers",
+        "moves": [
+          "Dynamic Punch",
+          "Stone Edge",
+          "Knock Off",
+          "Substitute"
+        ],
+        "ability": "No Guard"
+      },
+      {
+        "pokemon": "Alakazam",
+        "item": "Focus Sash",
+        "moves": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Shadow Ball",
+          "Nasty Plot"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Melmetal",
+        "item": "Assault Vest",
+        "moves": [
+          "Double Iron Bash",
+          "Body Press",
+          "Ice Punch",
+          "Thunder Punch"
+        ],
+        "ability": "Iron Fist"
+      },
+      {
+        "pokemon": "Moltres_Galarian",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Hurricane",
+          "Fiery Wrath",
+          "Heat Wave",
+          "Agility"
+        ],
+        "ability": "Berserk"
+      },
+      {
+        "pokemon": "Sceptile",
+        "item": "Sceptilite",
+        "moves": [
+          "Leaf Blade",
+          "Dragon Claw",
+          "Earthquake",
+          "Swords Dance"
+        ],
+        "ability": "Overgrow"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Trainer May [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Garchomp",
+        "item": "Yache Berry",
+        "moves": [
+          "Earthquake",
+          "Dual Chop",
+          "Fire Blast",
+          "Stealth Rock"
+        ],
+        "ability": "Rough Skin"
+      },
+      {
+        "pokemon": "Machamp",
+        "item": "Leftovers",
+        "moves": [
+          "Dynamic Punch",
+          "Stone Edge",
+          "Knock Off",
+          "Substitute"
+        ],
+        "ability": "No Guard"
+      },
+      {
+        "pokemon": "Weavile",
+        "item": "Life Orb",
+        "moves": [
+          "Knock Off",
+          "Ice Shard",
+          "Pursuit",
+          "Triple Axel"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Melmetal",
+        "item": "Assault Vest",
+        "moves": [
+          "Double Iron Bash",
+          "Body Press",
+          "Ice Punch",
+          "Thunder Punch"
+        ],
+        "ability": "Iron Fist"
+      },
+      {
+        "pokemon": "Articuno_Galarian",
+        "item": "Lum Berry",
+        "moves": [
+          "Hurricane",
+          "Freezing Glare",
+          "Calm Mind",
+          "Recover"
+        ],
+        "ability": "Competitive"
+      },
+      {
+        "pokemon": "Blaziken",
+        "item": "Blazikenite",
+        "moves": [
+          "Close Combat",
+          "Flare Blitz",
+          "Knock Off",
+          "Swords Dance"
+        ],
+        "ability": "Blaze"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Trainer May [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Garchomp",
+        "item": "Yache Berry",
+        "moves": [
+          "Earthquake",
+          "Dual Chop",
+          "Fire Blast",
+          "Stealth Rock"
+        ],
+        "ability": "Rough Skin"
+      },
+      {
+        "pokemon": "Alakazam",
+        "item": "Focus Sash",
+        "moves": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Shadow Ball",
+          "Nasty Plot"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Weavile",
+        "item": "Life Orb",
+        "moves": [
+          "Knock Off",
+          "Ice Shard",
+          "Pursuit",
+          "Triple Axel"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Melmetal",
+        "item": "Assault Vest",
+        "moves": [
+          "Double Iron Bash",
+          "Body Press",
+          "Ice Punch",
+          "Thunder Punch"
+        ],
+        "ability": "Iron Fist"
+      },
+      {
+        "pokemon": "Zapdos_Galarian",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Brave Bird",
+          "Thunderous Kick",
+          "Throat Chop",
+          "Bulk Up"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Swampert",
+        "item": "Swampertite",
+        "moves": [
+          "Earthquake",
+          "Liquidation",
+          "Ice Punch",
+          "Power Up Punch"
+        ],
+        "ability": "Torrent"
+      }
+    ]
+  }
+]

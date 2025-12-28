@@ -1,0 +1,321 @@
+[
+  {
+    "trainer": "Pokemon Trainer May [Double] [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Sceptile",
+        "item": "Sceptilite",
+        "moves": [
+          "Energy Ball",
+          "Dragon Pulse",
+          "Earthquake",
+          "Aura Sphere"
+        ],
+        "ability": "Overgrow"
+      },
+      {
+        "pokemon": "Mantine",
+        "item": "Life Orb",
+        "moves": [
+          "Hydro Pump",
+          "Hurricane",
+          "Surf",
+          "Helping Hand"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Goodra",
+        "item": "Leftovers",
+        "moves": [
+          "Dragon Pulse",
+          "Thunder",
+          "Muddy Water",
+          "Rest"
+        ],
+        "ability": "Hydration"
+      },
+      {
+        "pokemon": "Raichu_Alolan",
+        "item": "Focus Sash",
+        "moves": [
+          "Thunder",
+          "Psychic",
+          "Endeavor",
+          "Fake Out"
+        ],
+        "ability": "Surge Surfer"
+      },
+      {
+        "pokemon": "Lucario",
+        "item": "Fighting Gem",
+        "moves": [
+          "Close Combat",
+          "Flash Cannon",
+          "Vacuum Wave",
+          "Terrain Pulse"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Gastrodon",
+        "item": "Rindo Berry",
+        "moves": [
+          "Earth Power",
+          "Muddy Water",
+          "Icy Wind",
+          "Recover"
+        ],
+        "ability": "Storm Drain"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Trainer May [Double] [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Blaziken",
+        "item": "Blazikenite",
+        "moves": [
+          "Close Combat",
+          "Brave Bird",
+          "Thunder Punch",
+          "Swords Dance"
+        ],
+        "ability": "Blaze"
+      },
+      {
+        "pokemon": "Ludicolo",
+        "item": "Life Orb",
+        "moves": [
+          "Energy Ball",
+          "Zen Headbutt",
+          "Weather Ball",
+          "Fake Out"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Salamence",
+        "item": "Flying Gem",
+        "moves": [
+          "Hurricane",
+          "Dragon Pulse",
+          "Hydro Pump",
+          "Roost"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Heliolisk",
+        "item": "Focus Sash",
+        "moves": [
+          "Thunder",
+          "Hyper Voice",
+          "Weather Ball",
+          "Grass Knot"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Metagross",
+        "item": "Assault Vest",
+        "moves": [
+          "Meteor Mash",
+          "Zen Headbutt",
+          "Bullet Punch",
+          "Thunder Punch"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Blastoise",
+        "item": "Leftovers",
+        "moves": [
+          "Muddy Water",
+          "Terrain Pulse",
+          "Fake Out",
+          "Protect"
+        ],
+        "ability": "Rain Dish"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Trainer May [Double] [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Swampert",
+        "item": "Swampertite",
+        "moves": [
+          "Earthquake",
+          "High Horsepower",
+          "Liquidation",
+          "Stone Edge"
+        ],
+        "ability": "Torrent"
+      },
+      {
+        "pokemon": "Gyarados",
+        "item": "Life Orb",
+        "moves": [
+          "Hurricane",
+          "Muddy Water",
+          "Waterfall",
+          "Thunder"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Dragapult",
+        "item": "Dragon Gem",
+        "moves": [
+          "Shadow Ball",
+          "Breaking Swipe",
+          "Hydro Pump",
+          "Thunder"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Magnezone",
+        "item": "Custap Berry",
+        "moves": [
+          "Thunder",
+          "Flash Cannon",
+          "Electroweb",
+          "Body Press"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Toxicroak",
+        "item": "Focus Sash",
+        "moves": [
+          "Gunk Shot",
+          "Cross Chop",
+          "Vacuum Wave",
+          "Fake Out"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Exeggutor_Alolan",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Wood Hammer",
+          "Dragon Hammer",
+          "Low Kick",
+          "Terrain Pulse"
+        ],
+        "ability": "Harvest"
+      }
+    ]
+  },
+  {
+    "trainer": "Ninja Boy Yasu [Double Battle With Guitarist Fabian]",
+    "pokemon_list": [
+      {
+        "pokemon": "Banette",
+        "item": "Focus Sash",
+        "moves": [
+          "Poltergeist",
+          "Shadow Sneak",
+          "Icy Wind",
+          "Will O Wisp"
+        ],
+        "ability": "Cursed Body"
+      },
+      {
+        "pokemon": "Castform",
+        "item": "Focus Sash",
+        "moves": [
+          "Thunder",
+          "Hurricane",
+          "Weather Ball",
+          "Icy Wind"
+        ],
+        "ability": "Forecast"
+      },
+      {
+        "pokemon": "Jolteon",
+        "item": "Life Orb",
+        "moves": [
+          "Thunder",
+          "Hyper Voice",
+          "Weather Ball",
+          "Detect"
+        ],
+        "ability": "Volt Absorb"
+      },
+      {
+        "pokemon": "Obstagoon",
+        "item": "Normal Gem",
+        "moves": [
+          "Frustration",
+          "Throat Chop",
+          "Retaliate",
+          "Close Combat"
+        ],
+        "ability": "Defiant"
+      }
+    ]
+  },
+  {
+    "trainer": "Ninja Boy Gren",
+    "pokemon_list": [
+      {
+        "pokemon": "Forretress",
+        "item": "Custap Berry",
+        "moves": [
+          "Gyro Ball",
+          "Explosion",
+          "Spikes",
+          "Toxic Spikes"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Dusknoir",
+        "item": "Red Card",
+        "moves": [
+          "Poltergeist",
+          "Shadow Sneak",
+          "Thunder Punch",
+          "Revenge"
+        ],
+        "ability": "Pressure"
+      },
+      {
+        "pokemon": "Ditto",
+        "item": "Quick Claw",
+        "moves": [
+          "Transform"
+        ],
+        "ability": "Imposter"
+      },
+      {
+        "pokemon": "Togedemaru",
+        "item": "Weakness Policy",
+        "moves": [
+          "Steel Roller",
+          "Iron Head",
+          "Zing Zap",
+          "Reversal"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Greninja_Battle_Bond",
+        "item": "Mystic Water",
+        "moves": [
+          "Surf",
+          "Dark Pulse",
+          "Water Shuriken",
+          "Extrasensory"
+        ],
+        "ability": "Battle Bond"
+      }
+    ]
+  }
+]

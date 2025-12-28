@@ -1,0 +1,173 @@
+[
+  {
+    "trainer": "Hiker Eric [Double Battle With Picnicker Autumn]",
+    "pokemon_list": [
+      {
+        "pokemon": "Gliscor",
+        "item": "Flying Gem",
+        "moves": [
+          "High Horsepower",
+          "Acrobatics",
+          "Knock Off",
+          "Roost"
+        ],
+        "ability": "Hyper Cutter"
+      },
+      {
+        "pokemon": "Stonjourner",
+        "item": "Focus Sash",
+        "moves": [
+          "Stone Edge",
+          "Rock Slide",
+          "Stomping Tantrum",
+          "Protect"
+        ],
+        "ability": "Power Spot"
+      },
+      {
+        "pokemon": "Ferrothorn",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Power Whip",
+          "Gyro Ball",
+          "Thunder Wave",
+          "Stealth Rock"
+        ],
+        "ability": "Iron Barbs"
+      },
+      {
+        "pokemon": "Serperior",
+        "item": "Choice Scarf",
+        "moves": [
+          "Leaf Storm"
+        ],
+        "ability": "Contrary"
+      },
+      {
+        "pokemon": "Boltund",
+        "item": "Life Orb",
+        "moves": [
+          "Thunder Fang",
+          "Psychic Fangs",
+          "Crunch",
+          "Snarl"
+        ],
+        "ability": "Strong Jaw"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Julio",
+    "pokemon_list": [
+      {
+        "pokemon": "Zebstrika",
+        "item": "Shuca Berry",
+        "moves": [
+          "Zing Zap",
+          "Overheat",
+          "Low Kick",
+          "Light Screen"
+        ],
+        "ability": "Sap Sipper"
+      },
+      {
+        "pokemon": "Bibarel",
+        "item": "Quick Claw",
+        "moves": [
+          "Body Slam",
+          "Waterfall",
+          "Stomping Tantrum",
+          "Curse"
+        ],
+        "ability": "Simple"
+      },
+      {
+        "pokemon": "Klinklang",
+        "item": "Lum Berry",
+        "moves": [
+          "Gear Grind",
+          "Return",
+          "Wild Charge",
+          "Shift Gear"
+        ],
+        "ability": "Clear Body"
+      }
+    ]
+  },
+  {
+    "trainer": "Camper Ethan",
+    "pokemon_list": [
+      {
+        "pokemon": "Bouffalant",
+        "item": "Chople Berry",
+        "moves": [
+          "Head Charge",
+          "Megahorn",
+          "Zen Headbutt",
+          "Revenge"
+        ],
+        "ability": "Reckless"
+      },
+      {
+        "pokemon": "Togekiss",
+        "item": "Scope Lens",
+        "moves": [
+          "Air Cutter",
+          "Dazzling Gleam",
+          "Aura Sphere",
+          "Substitute"
+        ],
+        "ability": "Super Luck"
+      }
+    ]
+  },
+  {
+    "trainer": "Picnicker Diana",
+    "pokemon_list": [
+      {
+        "pokemon": "Rillaboom",
+        "item": "Assault Vest",
+        "moves": [
+          "Wood Hammer",
+          "Grassy Glide",
+          "High Horsepower",
+          "Knock Off"
+        ],
+        "ability": "Grassy Surge"
+      },
+      {
+        "pokemon": "Wigglytuff",
+        "item": "Life Orb",
+        "moves": [
+          "Self Destruct",
+          "Moonblast",
+          "Grass Knot",
+          "Sing"
+        ],
+        "ability": "Competitive"
+      },
+      {
+        "pokemon": "Arcanine",
+        "item": "Leftovers",
+        "moves": [
+          "Flare Blitz",
+          "Wild Charge",
+          "Close Combat",
+          "Howl"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Thievul",
+        "item": "Grassy Seed",
+        "moves": [
+          "Dark Pulse",
+          "Burning Jealousy",
+          "Grass Knot",
+          "Nasty Plot"
+        ],
+        "ability": "Unburden"
+      }
+    ]
+  }
+]

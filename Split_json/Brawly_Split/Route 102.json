@@ -1,0 +1,93 @@
+[
+  {
+    "trainer": "Bug Catcher Rick",
+    "pokemon_list": [
+      {
+        "pokemon": "Grubbin",
+        "item": "Oran Berry",
+        "moves": [
+          "Bug Bite",
+          "Spark",
+          "Vice Grip"
+        ],
+        "ability": "Swarm"
+      },
+      {
+        "pokemon": "Pineco",
+        "item": "Oran Berry",
+        "moves": [
+          "Pin Missile",
+          "Iron Defense"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Sizzlipede",
+        "item": "Oran Berry",
+        "moves": [
+          "Bug Bite",
+          "Ember",
+          "Wrap"
+        ],
+        "ability": "Flash Fire"
+      }
+    ]
+  },
+  {
+    "trainer": "Youngster Allen",
+    "pokemon_list": [
+      {
+        "pokemon": "Skiddo",
+        "item": "Lum Berry",
+        "moves": [
+          "Vine Whip",
+          "Tackle",
+          "Synthesis"
+        ],
+        "ability": "Sap Sipper"
+      },
+      {
+        "pokemon": "Litleo",
+        "item": "Oran Berry",
+        "moves": [
+          "Headbutt",
+          "Ember",
+          "Work Up"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Psyduck",
+        "item": "Oran Berry",
+        "moves": [
+          "Bubble Beam",
+          "Psywave"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Lass Tiana",
+    "pokemon_list": [
+      {
+        "pokemon": "Swirlix",
+        "item": "Berry Juice",
+        "moves": [
+          "Fairy Wind",
+          "Metronome"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Spinda",
+        "item": "Berry Juice",
+        "moves": [
+          "Fake Out",
+          "Metronome"
+        ],
+        "ability": "Own Tempo"
+      }
+    ]
+  }
+]

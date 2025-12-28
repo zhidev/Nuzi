@@ -1,0 +1,205 @@
+[
+  {
+    "trainer": "Youngster Josh",
+    "pokemon_list": [
+      {
+        "pokemon": "Tyrunt",
+        "item": "Lum Berry",
+        "moves": [
+          "Rock Slide",
+          "Breaking Swipe",
+          "Stomping Tantrum",
+          "Aerial Ace"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Archen",
+        "item": "Choice Scarf",
+        "moves": [
+          "Rock Slide"
+        ],
+        "ability": "Defeatist"
+      },
+      {
+        "pokemon": "Cranidos",
+        "item": "Lum Berry",
+        "moves": [
+          "Rock Tomb",
+          "Zen Headbutt",
+          "Ice Fang",
+          "Bite"
+        ],
+        "ability": "Mold Breaker"
+      }
+    ]
+  },
+  {
+    "trainer": "Youngster Tommy",
+    "pokemon_list": [
+      {
+        "pokemon": "Sudowoodo",
+        "item": "Lum Berry",
+        "moves": [
+          "Rock Slide",
+          "Take Down",
+          "Submission",
+          "Stomping Tantrum"
+        ],
+        "ability": "Rock Head"
+      },
+      {
+        "pokemon": "Carkol",
+        "item": "Passho Berry",
+        "moves": [
+          "Ancient Power",
+          "Incinerate",
+          "Scorching Sands",
+          "Sand Tomb"
+        ],
+        "ability": "Steam Engine"
+      },
+      {
+        "pokemon": "Lileep",
+        "item": "Leftovers",
+        "moves": [
+          "Giga Drain",
+          "Ancient Power",
+          "Infestation",
+          "Recover"
+        ],
+        "ability": "Storm Drain"
+      },
+      {
+        "pokemon": "Corsola",
+        "item": "Rindo Berry",
+        "moves": [
+          "Scald",
+          "Ancient Power",
+          "Calm Mind",
+          "Recover"
+        ],
+        "ability": "Regenerator"
+      }
+    ]
+  },
+  {
+    "trainer": "Hiker Marc",
+    "pokemon_list": [
+      {
+        "pokemon": "Graveler",
+        "item": "Weakness Policy",
+        "moves": [
+          "Bulldoze",
+          "Rock Tomb",
+          "Stealth Rock"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Graveler_Alolan",
+        "item": "Shuca Berry",
+        "moves": [
+          "Wild Charge",
+          "Rock Tomb",
+          "Take Down",
+          "Submission"
+        ],
+        "ability": "Rock Head"
+      },
+      {
+        "pokemon": "Lairon",
+        "item": "Custap Berry",
+        "moves": [
+          "Iron Tail",
+          "Rock Slide",
+          "Stomping Tantrum",
+          "Reversal"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Boldore",
+        "item": "Leftovers",
+        "moves": [
+          "Rock Slide",
+          "Stomping Tantrum",
+          "Sand Tomb",
+          "Sandstorm"
+        ],
+        "ability": "Solid Rock"
+      }
+    ]
+  },
+  {
+    "trainer": "Leader Roxanne [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Bisharp",
+        "item": "Focus Sash",
+        "moves": [
+          "Iron Head",
+          "Knock Off",
+          "Brick Break",
+          "Grass Knot"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Zygarde_10",
+        "item": "Soft Sand",
+        "moves": [
+          "Thousand Arrows",
+          "Dragon Claw",
+          "Extreme Speed",
+          "Skitter Smack"
+        ],
+        "ability": "Aura Break"
+      },
+      {
+        "pokemon": "Aurorus",
+        "item": "Lum Berry",
+        "moves": [
+          "Body Slam",
+          "Power Gem",
+          "Discharge",
+          "Earth Power"
+        ],
+        "ability": "Refrigerate"
+      },
+      {
+        "pokemon": "Carracosta",
+        "item": "Rindo Berry",
+        "moves": [
+          "Razor Shell",
+          "Ancient Power",
+          "Aqua Jet",
+          "Zen Headbutt"
+        ],
+        "ability": "Solid Rock"
+      },
+      {
+        "pokemon": "Lunatone",
+        "item": "Weakness Policy",
+        "moves": [
+          "Stored Power",
+          "Ancient Power",
+          "Icy Wind",
+          "Hypnosis"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Solrock",
+        "item": "Lum Berry",
+        "moves": [
+          "Rock Slide",
+          "Psycho Cut",
+          "Stomping Tantrum",
+          "Morning Sun"
+        ],
+        "ability": "Levitate"
+      }
+    ]
+  }
+]

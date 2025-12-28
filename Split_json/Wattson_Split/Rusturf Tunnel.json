@@ -1,0 +1,51 @@
+[
+  {
+    "trainer": "Hiker Mike",
+    "pokemon_list": [
+      {
+        "pokemon": "Sandaconda",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Fire Fang",
+          "Glare"
+        ],
+        "ability": "Sand Spit"
+      },
+      {
+        "pokemon": "Probopass",
+        "item": "Leftovers",
+        "moves": [
+          "Power Gem",
+          "Flash Cannon",
+          "Earth Power",
+          "Thunderbolt"
+        ],
+        "ability": "Sand Force"
+      },
+      {
+        "pokemon": "Stoutland",
+        "item": "Lum Berry",
+        "moves": [
+          "Body Slam",
+          "Play Rough",
+          "Submission",
+          "Howl"
+        ],
+        "ability": "Sand Rush"
+      },
+      {
+        "pokemon": "Clefable",
+        "item": "Pixie Plate",
+        "moves": [
+          "Draining Kiss",
+          "Ice Beam",
+          "Thunderbolt",
+          "Mystical Fire"
+        ],
+        "ability": "Magic Guard"
+      }
+    ]
+  }
+]

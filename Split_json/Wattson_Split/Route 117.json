@@ -1,0 +1,460 @@
+[
+  {
+    "trainer": "Pokemon Breeder Lydia",
+    "pokemon_list": [
+      {
+        "pokemon": "Gothitelle",
+        "item": "Leftovers",
+        "moves": [
+          "Psychic",
+          "Draining Kiss",
+          "Calm Mind",
+          "Rest"
+        ],
+        "ability": "Shadow Tag"
+      },
+      {
+        "pokemon": "Hitmonchan",
+        "item": "Lum Berry",
+        "moves": [
+          "Sky Uppercut",
+          "Mach Punch",
+          "Ice Punch",
+          "Shadow Punch"
+        ],
+        "ability": "Iron Fist"
+      },
+      {
+        "pokemon": "Toxtricity",
+        "item": "Lum Berry",
+        "moves": [
+          "Shock Wave",
+          "Drain Punch",
+          "Payback",
+          "Shift Gear"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Sableye",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Foul Play",
+          "Night Shade",
+          "Will O Wisp",
+          "Recover"
+        ],
+        "ability": "Prankster"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Breeder Corgi",
+    "pokemon_list": [
+      {
+        "pokemon": "Arcanine",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Flare Blitz",
+          "Wild Charge",
+          "Extreme Speed",
+          "Will O Wisp"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Furfrou_Heart_Trim",
+        "item": "Leftovers",
+        "moves": [
+          "Return",
+          "Iron Tail",
+          "Play Rough",
+          "Attract"
+        ],
+        "ability": "Fur Coat"
+      },
+      {
+        "pokemon": "Lucario",
+        "item": "Lum Berry",
+        "moves": [
+          "Aura Sphere",
+          "Flash Cannon",
+          "Shadow Ball",
+          "Magnet Rise"
+        ],
+        "ability": "Steadfast"
+      },
+      {
+        "pokemon": "Manectric",
+        "item": "Lum Berry",
+        "moves": [
+          "Thunderbolt",
+          "Flamethrower",
+          "Crunch",
+          "Ice Fang"
+        ],
+        "ability": "Static"
+      },
+      {
+        "pokemon": "Boltund",
+        "item": "Focus Sash",
+        "moves": [
+          "Thunder Fang",
+          "Psychic Fangs",
+          "Crunch",
+          "Howl"
+        ],
+        "ability": "Strong Jaw"
+      }
+    ]
+  },
+  {
+    "trainer": "Psychic Brandi [Double Battle With Battle Girl Aisha]",
+    "pokemon_list": [
+      {
+        "pokemon": "Orbeetle",
+        "item": "Lum Berry",
+        "moves": [
+          "Psychic",
+          "Bug Buzz",
+          "Hypnosis",
+          "Recover"
+        ],
+        "ability": "Compound Eyes"
+      },
+      {
+        "pokemon": "Hypno",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Calm Mind",
+          "Dark Void"
+        ],
+        "ability": "Bad Dreams"
+      },
+      {
+        "pokemon": "Toxicroak",
+        "item": "Payapa Berry",
+        "moves": [
+          "Poison Jab",
+          "Wake Up Slap",
+          "Knock Off",
+          "Fake Out"
+        ],
+        "ability": "Poison Touch"
+      },
+      {
+        "pokemon": "Hariyama",
+        "item": "Lum Berry",
+        "moves": [
+          "Wake Up Slap",
+          "Rock Slide",
+          "Knock Off",
+          "Fake Out"
+        ],
+        "ability": "Thick Fat"
+      }
+    ]
+  },
+  {
+    "trainer": "Battle Girl Luna",
+    "pokemon_list": [
+      {
+        "pokemon": "Electivire",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Discharge",
+          "Cross Chop",
+          "Ice Punch",
+          "Fire Punch"
+        ],
+        "ability": "Motor Drive"
+      },
+      {
+        "pokemon": "Turtonator",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Heat Crash",
+          "Heavy Slam",
+          "Protect",
+          "Will O Wisp"
+        ],
+        "ability": "Shell Armor"
+      },
+      {
+        "pokemon": "Tsareena",
+        "item": "Lum Berry",
+        "moves": [
+          "Trop Kick",
+          "Knock Off",
+          "Low Kick",
+          "Synthesis"
+        ],
+        "ability": "Queenly Majesty"
+      },
+      {
+        "pokemon": "Grapploct",
+        "item": "Lum Berry",
+        "moves": [
+          "Revenge",
+          "Payback",
+          "Liquidation",
+          "Pain Split"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Quagsire",
+        "item": "Rindo Berry",
+        "moves": [
+          "Earthquake",
+          "Ice Punch",
+          "Curse",
+          "Recover"
+        ],
+        "ability": "Water Absorb"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Dylan",
+    "pokemon_list": [
+      {
+        "pokemon": "Accelgor",
+        "item": "Wise Glasses",
+        "moves": [
+          "Bug Buzz",
+          "Sludge Bomb",
+          "Giga Drain",
+          "Water Shuriken"
+        ],
+        "ability": "Sticky Hold"
+      },
+      {
+        "pokemon": "Persian_Alolan",
+        "item": "Black Glasses",
+        "moves": [
+          "Snarl",
+          "Shock Wave",
+          "Icy Wind",
+          "Nasty Plot"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Dodrio",
+        "item": "Lum Berry",
+        "moves": [
+          "Drill Peck",
+          "Double Hit",
+          "Quick Attack",
+          "Drill Run"
+        ],
+        "ability": "Early Bird"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Maria",
+    "pokemon_list": [
+      {
+        "pokemon": "Rapidash",
+        "item": "Lum Berry",
+        "moves": [
+          "Flare Blitz",
+          "Megahorn",
+          "High Horsepower",
+          "Hypnosis"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Cinccino",
+        "item": "Lum Berry",
+        "moves": [
+          "Tail Slap",
+          "Rock Blast",
+          "Triple Axel",
+          "Sing"
+        ],
+        "ability": "Skill Link"
+      },
+      {
+        "pokemon": "Swellow",
+        "item": "Silk Scarf",
+        "moves": [
+          "Brave Bird",
+          "Hyper Voice",
+          "Heat Wave",
+          "Steel Wing"
+        ],
+        "ability": "Guts"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Breeder Isaac",
+    "pokemon_list": [
+      {
+        "pokemon": "Claydol",
+        "item": "Lum Berry",
+        "moves": [
+          "Earth Power",
+          "Extrasensory",
+          "Signal Beam",
+          "Ancient Power"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Klinklang",
+        "item": "Metal Coat",
+        "moves": [
+          "Gear Grind",
+          "Return",
+          "Wild Charge",
+          "Autotomize"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Electrode",
+        "item": "Lum Berry",
+        "moves": [
+          "Electro Ball",
+          "Foul Play",
+          "Flash Cannon",
+          "Hidden Power Ice"
+        ],
+        "ability": "Static"
+      },
+      {
+        "pokemon": "Froslass",
+        "item": "Lum Berry",
+        "moves": [
+          "Ice Beam",
+          "Hex",
+          "Thunder Wave",
+          "Will O Wisp"
+        ],
+        "ability": "Cursed Body"
+      }
+    ]
+  },
+  {
+    "trainer": "Sr. And Jr. Anna & Meg [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Emolga",
+        "item": "Metronome",
+        "moves": [
+          "Discharge"
+        ],
+        "ability": "Motor Drive"
+      },
+      {
+        "pokemon": "Seaking",
+        "item": "Focus Sash",
+        "moves": [
+          "Hydro Pump",
+          "Muddy Water",
+          "Ice Beam",
+          "Flail"
+        ],
+        "ability": "Lightning Rod"
+      },
+      {
+        "pokemon": "Lanturn",
+        "item": "Lum Berry",
+        "moves": [
+          "Discharge",
+          "Brine",
+          "Signal Beam",
+          "Icy Wind"
+        ],
+        "ability": "Volt Absorb"
+      },
+      {
+        "pokemon": "Marowak",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Bone Rush",
+          "Flamethrower",
+          "Ice Beam",
+          "Ancient Power"
+        ],
+        "ability": "Lightning Rod"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Trainer Chelle [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Lapras",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Frost Breath",
+          "Thunderbolt",
+          "Body Press",
+          "Sing"
+        ],
+        "ability": "Water Absorb"
+      },
+      {
+        "pokemon": "Rhydon",
+        "item": "Eviolite",
+        "moves": [
+          "Drill Run",
+          "Rock Slide",
+          "Double Edge",
+          "Stealth Rock"
+        ],
+        "ability": "Rock Head"
+      },
+      {
+        "pokemon": "Togekiss",
+        "item": "Scope Lens",
+        "moves": [
+          "Air Cutter",
+          "Draining Kiss",
+          "Mystical Fire",
+          "Grass Knot"
+        ],
+        "ability": "Super Luck"
+      },
+      {
+        "pokemon": "Vespiquen",
+        "item": "Lum Berry",
+        "moves": [
+          "Attack Order",
+          "Dual Wingbeat",
+          "Power Gem",
+          "Hidden Power Grass"
+        ],
+        "ability": "Pressure"
+      },
+      {
+        "pokemon": "Slowbro_Galarian",
+        "item": "Quick Claw",
+        "moves": [
+          "Poison Jab",
+          "Zen Headbutt",
+          "Whirlpool",
+          "Slack Off"
+        ],
+        "ability": "Quick Draw"
+      },
+      {
+        "pokemon": "Delcatty",
+        "item": "Silk Scarf",
+        "moves": [
+          "Last Resort",
+          "Fake Out"
+        ],
+        "ability": "Normalize"
+      }
+    ]
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "trainer": "Expert Kevin",
+    "pokemon_list": [
+      {
+        "pokemon": "Masquerain",
+        "item": "Focus Sash",
+        "moves": [
+          "Bug Buzz",
+          "Hydro Pump",
+          "Sticky Web",
+          "Stun Spore"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Rotom_Mow",
+        "item": "White Herb",
+        "moves": [
+          "Leaf Storm",
+          "Discharge",
+          "Hidden Power Ground",
+          "Thunder Wave"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Porygon2",
+        "item": "Eviolite",
+        "moves": [
+          "Tri Attack",
+          "Ice Beam",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "ability": "Download"
+      },
+      {
+        "pokemon": "Gyarados",
+        "item": "Wacan Berry",
+        "moves": [
+          "Waterfall",
+          "Earthquake",
+          "Dragon Dance",
+          "Thunder Wave"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Togekiss",
+        "item": "Leftovers",
+        "moves": [
+          "Air Slash",
+          "Flamethrower",
+          "Aura Sphere",
+          "Nasty Plot"
+        ],
+        "ability": "Serene Grace"
+      }
+    ]
+  },
+  {
+    "trainer": "Picnicker Ashley",
+    "pokemon_list": [
+      {
+        "pokemon": "Pelipper",
+        "item": "Choice Scarf",
+        "moves": [
+          "Hurricane",
+          "Weather Ball"
+        ],
+        "ability": "Drizzle"
+      },
+      {
+        "pokemon": "Decidueye",
+        "item": "Starf Berry",
+        "moves": [
+          "Leaf Blade",
+          "Shadow Ball",
+          "Brave Bird",
+          "Substitute"
+        ],
+        "ability": "Overgrow"
+      },
+      {
+        "pokemon": "Scizor",
+        "item": "Flying Gem",
+        "moves": [
+          "Bug Bite",
+          "Bullet Punch",
+          "Acrobatics",
+          "Swords Dance"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Golduck",
+        "item": "Psychic Gem",
+        "moves": [
+          "Surf",
+          "Psyshock",
+          "Ice Beam",
+          "Hypnosis"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Camper Flint [Double Battle With Bird Keeper Edwardo]",
+    "pokemon_list": [
+      {
+        "pokemon": "Ribombee",
+        "item": "Focus Sash",
+        "moves": [
+          "Pollen Puff",
+          "Dazzling Gleam",
+          "Energy Ball",
+          "Quiver Dance"
+        ],
+        "ability": "Shield Dust"
+      },
+      {
+        "pokemon": "Venomoth",
+        "item": "Lum Berry",
+        "moves": [
+          "Bug Buzz",
+          "Sludge Bomb",
+          "Quiver Dance",
+          "Sleep Powder"
+        ],
+        "ability": "Wonder Skin"
+      },
+      {
+        "pokemon": "Oricorio_Pom_Pom",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Revelation Dance",
+          "Air Slash",
+          "Icy Wind",
+          "Feather Dance"
+        ],
+        "ability": "Dancer"
+      },
+      {
+        "pokemon": "Oricorio",
+        "item": "Fire Gem",
+        "moves": [
+          "Revelation Dance",
+          "Air Slash",
+          "Teeter Dance",
+          "Roost"
+        ],
+        "ability": "Dancer"
+      },
+      {
+        "pokemon": "Oricorio_Pau",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Revelation Dance",
+          "Hidden Power Fire",
+          "Teeter Dance",
+          "Calm Mind"
+        ],
+        "ability": "Dancer"
+      }
+    ]
+  },
+  {
+    "trainer": "Bird Keeper Darius",
+    "pokemon_list": [
+      {
+        "pokemon": "Clefable",
+        "item": "Life Orb",
+        "moves": [
+          "Moonblast",
+          "Flamethrower",
+          "Psychic",
+          "Stealth Rock"
+        ],
+        "ability": "Magic Guard"
+      },
+      {
+        "pokemon": "Noivern",
+        "item": "Flying Gem",
+        "moves": [
+          "Hurricane",
+          "Dragon Pulse",
+          "Flamethrower",
+          "Super Fang"
+        ],
+        "ability": "Infiltrator"
+      },
+      {
+        "pokemon": "Crobat",
+        "item": "Scope Lens",
+        "moves": [
+          "Brave Bird",
+          "Cross Poison",
+          "Heat Wave",
+          "Hypnosis"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Gliscor",
+        "item": "Yache Berry",
+        "moves": [
+          "Earthquake",
+          "Dual Wingbeat",
+          "Sky Uppercut",
+          "Swords Dance"
+        ],
+        "ability": "Hyper Cutter"
+      }
+    ]
+  },
+  {
+    "trainer": "Bird Keeper Jared",
+    "pokemon_list": [
+      {
+        "pokemon": "Yanmega",
+        "item": "Choice Scarf",
+        "moves": [
+          "Bug Buzz",
+          "Air Slash",
+          "U Turn"
+        ],
+        "ability": "Tinted Lens"
+      },
+      {
+        "pokemon": "Sirfetchd",
+        "item": "Lum Berry",
+        "moves": [
+          "Close Combat",
+          "Dual Wingbeat",
+          "Poison Jab",
+          "Quick Attack"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Corviknight",
+        "item": "Leftovers",
+        "moves": [
+          "Dual Wingbeat",
+          "Body Press",
+          "Bulk Up",
+          "Roost"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Archeops",
+        "item": "Focus Sash",
+        "moves": [
+          "Stone Edge",
+          "Dual Wingbeat",
+          "Endeavor",
+          "Stealth Rock"
+        ],
+        "ability": "Defeatist"
+      },
+      {
+        "pokemon": "Blaziken",
+        "item": "Flying Gem",
+        "moves": [
+          "Close Combat",
+          "Flare Blitz",
+          "Acrobatics",
+          "Swords Dance"
+        ],
+        "ability": "Speed Boost"
+      }
+    ]
+  },
+  {
+    "trainer": "Leader Winona [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Staraptor",
+        "item": "Choice Scarf",
+        "moves": [
+          "Brave Bird",
+          "Double Edge",
+          "Close Combat",
+          "U Turn"
+        ],
+        "ability": "Reckless"
+      },
+      {
+        "pokemon": "Volcarona",
+        "item": "Focus Sash",
+        "moves": [
+          "Bug Buzz",
+          "Fiery Dance",
+          "Psychic",
+          "Quiver Dance"
+        ],
+        "ability": "Swarm"
+      },
+      {
+        "pokemon": "Hawlucha",
+        "item": "Flying Gem",
+        "moves": [
+          "Close Combat",
+          "Acrobatics",
+          "Stone Edge",
+          "Swords Dance"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Celesteela",
+        "item": "Assault Vest",
+        "moves": [
+          "Heavy Slam",
+          "Earthquake",
+          "Flamethrower",
+          "Rock Slide"
+        ],
+        "ability": "Beast Boost"
+      },
+      {
+        "pokemon": "Shaymin_Sky",
+        "item": "Leftovers",
+        "moves": [
+          "Seed Flare",
+          "Air Slash",
+          "Earth Power",
+          "Aromatherapy"
+        ],
+        "ability": "Serene Grace"
+      },
+      {
+        "pokemon": "Altaria",
+        "item": "Altarianite",
+        "moves": [
+          "Earthquake",
+          "Hyper Voice",
+          "Flamethrower",
+          "Roost"
+        ],
+        "ability": "Natural Cure"
+      }
+    ]
+  }
+]

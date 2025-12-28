@@ -1,0 +1,147 @@
+[
+  {
+    "trainer": "Camper Tyron [Double Battle With Aroma Lady Celina]",
+    "pokemon_list": [
+      {
+        "pokemon": "Farfetchd",
+        "item": "Leek",
+        "moves": [
+          "Brave Bird",
+          "Slash",
+          "Leaf Blade",
+          "Night Slash"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Watchog",
+        "item": "Lum Berry",
+        "moves": [
+          "Hyper Fang",
+          "Iron Tail",
+          "Aqua Tail",
+          "Revenge"
+        ],
+        "ability": "Analytic"
+      },
+      {
+        "pokemon": "Arbok",
+        "item": "Black Sludge",
+        "moves": [
+          "Gunk Shot",
+          "Stomping Tantrum",
+          "Sucker Punch",
+          "Coil"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Bellossom",
+        "item": "Lum Berry",
+        "moves": [
+          "Moonblast",
+          "Giga Drain",
+          "Sleep Powder",
+          "Strength Sap"
+        ],
+        "ability": "Healer"
+      },
+      {
+        "pokemon": "Vileplume",
+        "item": "Lum Berry",
+        "moves": [
+          "Sludge Bomb",
+          "Giga Drain",
+          "Sleep Powder",
+          "Strength Sap"
+        ],
+        "ability": "Effect Spore"
+      }
+    ]
+  },
+  {
+    "trainer": "Picnicker Bianca",
+    "pokemon_list": [
+      {
+        "pokemon": "Butterfree",
+        "item": "Choice Specs",
+        "moves": [
+          "Hurricane",
+          "Bug Buzz"
+        ],
+        "ability": "Tinted Lens"
+      },
+      {
+        "pokemon": "Simisage",
+        "item": "White Herb",
+        "moves": [
+          "Leaf Storm",
+          "Superpower",
+          "Rock Slide",
+          "Acrobatics"
+        ],
+        "ability": "Overgrow"
+      },
+      {
+        "pokemon": "Stantler",
+        "item": "Lum Berry",
+        "moves": [
+          "Double Edge",
+          "Jump Kick",
+          "Zen Headbutt",
+          "Hypnosis"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  },
+  {
+    "trainer": "Kindler Hayden",
+    "pokemon_list": [
+      {
+        "pokemon": "Oricorio_Sensu",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Revelation Dance",
+          "Air Slash",
+          "Calm Mind",
+          "Teeter Dance"
+        ],
+        "ability": "Dancer"
+      },
+      {
+        "pokemon": "Heatmor",
+        "item": "Lum Berry",
+        "moves": [
+          "Fire Lash",
+          "Giga Drain",
+          "Stomping Tantrum",
+          "Rock Tomb"
+        ],
+        "ability": "White Smoke"
+      },
+      {
+        "pokemon": "Camerupt",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Flamethrower",
+          "Explosion",
+          "Stone Edge"
+        ],
+        "ability": "Solid Rock"
+      },
+      {
+        "pokemon": "Turtonator",
+        "item": "Lum Berry",
+        "moves": [
+          "Dragon Pulse",
+          "Fire Spin",
+          "Explosion",
+          "Earthquake"
+        ],
+        "ability": "Shell Armor"
+      }
+    ]
+  }
+]

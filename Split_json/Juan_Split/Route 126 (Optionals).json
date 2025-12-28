@@ -1,0 +1,73 @@
+[
+  {
+    "trainer": "Triathlete Pablo",
+    "pokemon_list": [
+      {
+        "pokemon": "Crustle",
+        "item": "Red Card",
+        "moves": [
+          "Stone Edge",
+          "Earthquake",
+          "Shell Smash",
+          "Stealth Rock"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Tyranitar",
+        "item": "Choice Band",
+        "moves": [
+          "Stone Edge",
+          "Crunch",
+          "Pursuit",
+          "Heavy Slam"
+        ],
+        "ability": "Sand Stream"
+      },
+      {
+        "pokemon": "Sneasler",
+        "item": "Life Orb",
+        "moves": [
+          "Close Combat",
+          "Gunk Shot",
+          "Knock Off",
+          "Swords Dance"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Delphox",
+        "item": "Focus Sash",
+        "moves": [
+          "Overheat",
+          "Psychic",
+          "Laser Focus",
+          "Hypnosis"
+        ],
+        "ability": "Magic Guard"
+      },
+      {
+        "pokemon": "Kingdra",
+        "item": "Leftovers",
+        "moves": [
+          "Outrage",
+          "Waterfall",
+          "Facade",
+          "Dragon Dance"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "item": "Aerodactylite",
+        "moves": [
+          "Stone Edge",
+          "Dual Wingbeat",
+          "Earthquake",
+          "Hone Claws"
+        ],
+        "ability": "Unnerve"
+      }
+    ]
+  }
+]

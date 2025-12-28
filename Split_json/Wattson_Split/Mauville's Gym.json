@@ -1,0 +1,291 @@
+[
+  {
+    "trainer": "Guitarist Kirk",
+    "pokemon_list": [
+      {
+        "pokemon": "Pincurchin",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Rising Voltage",
+          "Liquidation",
+          "Poison Jab",
+          "Toxic Spikes"
+        ],
+        "ability": "Electric Surge"
+      },
+      {
+        "pokemon": "Drifblim",
+        "item": "Electric Seed",
+        "moves": [
+          "Hex",
+          "Acrobatics",
+          "Thunderbolt",
+          "Strength Sap"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Toxtricity",
+        "item": "Poison Barb",
+        "moves": [
+          "Sludge Bomb",
+          "Overdrive",
+          "Venoshock",
+          "Hyper Voice"
+        ],
+        "ability": "Punk Rock"
+      },
+      {
+        "pokemon": "Raichu_Alolan",
+        "item": "Lum Berry",
+        "moves": [
+          "Discharge",
+          "Psyshock",
+          "Surf",
+          "Signal Beam"
+        ],
+        "ability": "Surge Surfer"
+      }
+    ]
+  },
+  {
+    "trainer": "Battle Girl Vivian",
+    "pokemon_list": [
+      {
+        "pokemon": "Volbeat",
+        "item": "Focus Sash",
+        "moves": [
+          "Bug Buzz",
+          "Discharge",
+          "Baton Pass",
+          "Tail Glow"
+        ],
+        "ability": "Prankster"
+      },
+      {
+        "pokemon": "Jolteon",
+        "item": "Lum Berry",
+        "moves": [
+          "Thunderbolt",
+          "Hyper Voice",
+          "Magnet Rise",
+          "Sing"
+        ],
+        "ability": "Volt Absorb"
+      },
+      {
+        "pokemon": "Oricorio_Pom_Pom",
+        "item": "Lum Berry",
+        "moves": [
+          "Revelation Dance",
+          "Air Slash",
+          "Teeter Dance",
+          "Roost"
+        ],
+        "ability": "Dancer"
+      },
+      {
+        "pokemon": "Zebstrika",
+        "item": "Lum Berry",
+        "moves": [
+          "Thunderbolt",
+          "Flamethrower",
+          "Signal Beam",
+          "Low Kick"
+        ],
+        "ability": "Lightning Rod"
+      },
+      {
+        "pokemon": "Galvantula",
+        "item": "Lum Berry",
+        "moves": [
+          "Thunderbolt",
+          "Signal Beam",
+          "Giga Drain",
+          "Hidden Power Ice"
+        ],
+        "ability": "Unnerve"
+      }
+    ]
+  },
+  {
+    "trainer": "Youngster Ben",
+    "pokemon_list": [
+      {
+        "pokemon": "Porygon",
+        "item": "Eviolite",
+        "moves": [
+          "Discharge",
+          "Ice Beam",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "ability": "Download"
+      },
+      {
+        "pokemon": "Rotom",
+        "item": "Leftovers",
+        "moves": [
+          "Discharge",
+          "Hex",
+          "Thunder Wave",
+          "Will O Wisp"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Golem_Alolan",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Body Slam",
+          "Fire Punch"
+        ],
+        "ability": "Galvanize"
+      },
+      {
+        "pokemon": "Electrode",
+        "item": "Lum Berry",
+        "moves": [
+          "Explosion",
+          "Tri Attack",
+          "Signal Beam",
+          "Hidden Power Grass"
+        ],
+        "ability": "Galvanize"
+      },
+      {
+        "pokemon": "Pikachu",
+        "item": "Light Ball",
+        "moves": [
+          "Volt Tackle",
+          "Iron Tail",
+          "Surf",
+          "Extreme Speed"
+        ],
+        "ability": "Static"
+      }
+    ]
+  },
+  {
+    "trainer": "Guitarist Shawn [Double Battle With Guitarist Angelo]",
+    "pokemon_list": [
+      {
+        "pokemon": "Plusle",
+        "item": "Shuca Berry",
+        "moves": [
+          "Thunderbolt",
+          "Signal Beam",
+          "Hidden Power Ice",
+          "Grass Knot"
+        ],
+        "ability": "Plus"
+      },
+      {
+        "pokemon": "Dedenne",
+        "item": "Focus Sash",
+        "moves": [
+          "Thunderbolt",
+          "Dazzling Gleam",
+          "Rising Voltage",
+          "Grass Knot"
+        ],
+        "ability": "Plus"
+      },
+      {
+        "pokemon": "Minun",
+        "item": "Terrain Extender",
+        "moves": [
+          "Thunderbolt",
+          "Electroweb",
+          "Electric Terrain",
+          "Helping Hand"
+        ],
+        "ability": "Minus"
+      },
+      {
+        "pokemon": "Klinklang",
+        "item": "Lum Berry",
+        "moves": [
+          "Steel Beam",
+          "Thunderbolt",
+          "Rising Voltage",
+          "Electric Terrain"
+        ],
+        "ability": "Minus"
+      }
+    ]
+  },
+  {
+    "trainer": "Leader Wattson [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Magnezone",
+        "item": "Custap Berry",
+        "moves": [
+          "Discharge",
+          "Flash Cannon",
+          "Explosion",
+          "Hidden Power Grass"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Lanturn",
+        "item": "Leftovers",
+        "moves": [
+          "Discharge",
+          "Scald",
+          "Ice Beam",
+          "Thunder Wave"
+        ],
+        "ability": "Volt Absorb"
+      },
+      {
+        "pokemon": "Rotom_Fan",
+        "item": "Lum Berry",
+        "moves": [
+          "Discharge",
+          "Air Slash",
+          "Hex",
+          "Will O Wisp"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Zeraora",
+        "item": "Shuca Berry",
+        "moves": [
+          "Plasma Fists",
+          "Close Combat",
+          "Knock Off",
+          "Grass Knot"
+        ],
+        "ability": "Volt Absorb"
+      },
+      {
+        "pokemon": "Eelektross",
+        "item": "Leftovers",
+        "moves": [
+          "Thunder Punch",
+          "Aqua Tail",
+          "Drain Punch",
+          "Coil"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Ampharos",
+        "item": "Ampharosite",
+        "moves": [
+          "Discharge",
+          "Dragon Breath",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "ability": "Static"
+      }
+    ]
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "trainer": "Black Belt Rhett [Double Battle With Guitarist Marcos]",
+    "pokemon_list": [
+      {
+        "pokemon": "Crabominable",
+        "item": "Lum Berry",
+        "moves": [
+          "Close Combat",
+          "Ice Punch",
+          "Crabhammer",
+          "Protect"
+        ],
+        "ability": "Hyper Cutter"
+      },
+      {
+        "pokemon": "Heracross",
+        "item": "Flame Orb",
+        "moves": [
+          "Leech Life",
+          "Brick Break",
+          "Facade",
+          "Protect"
+        ],
+        "ability": "Guts"
+      },
+      {
+        "pokemon": "Poliwrath",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Liquidation",
+          "Drain Punch",
+          "Ice Punch",
+          "Belly Drum"
+        ],
+        "ability": "Water Absorb"
+      },
+      {
+        "pokemon": "Crobat",
+        "item": "Lum Berry",
+        "moves": [
+          "Dual Wingbeat",
+          "Super Fang",
+          "Hypnosis",
+          "Tailwind"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Noivern",
+        "item": "Lum Berry",
+        "moves": [
+          "Dragon Pulse",
+          "Air Slash",
+          "Flamethrower",
+          "Tailwind"
+        ],
+        "ability": "Infiltrator"
+      }
+    ]
+  },
+  {
+    "trainer": "Pok\u00e9fan Miguel",
+    "pokemon_list": [
+      {
+        "pokemon": "Dedenne",
+        "item": "Focus Sash",
+        "moves": [
+          "Thunderbolt",
+          "Dazzling Gleam",
+          "Super Fang",
+          "Electric Terrain"
+        ],
+        "ability": "Cheek Pouch"
+      },
+      {
+        "pokemon": "Togedemaru",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Steel Roller",
+          "Iron Head",
+          "Zing Zap",
+          "Magnet Rise"
+        ],
+        "ability": "Iron Barbs"
+      },
+      {
+        "pokemon": "Mimikyu",
+        "item": "Lum Berry",
+        "moves": [
+          "Play Rough",
+          "Shadow Sneak",
+          "Drain Punch",
+          "Swords Dance"
+        ],
+        "ability": "Disguise"
+      }
+    ]
+  },
+  {
+    "trainer": "Aroma Lady Daisy",
+    "pokemon_list": [
+      {
+        "pokemon": "Gourgeist_Super",
+        "item": "Lum Berry",
+        "moves": [
+          "Seed Bomb",
+          "Shadow Claw",
+          "Explosion",
+          "Trick Room"
+        ],
+        "ability": "Insomnia"
+      },
+      {
+        "pokemon": "Lurantis",
+        "item": "Assault Vest",
+        "moves": [
+          "Leaf Storm",
+          "Superpower",
+          "Leaf Blade",
+          "Facade"
+        ],
+        "ability": "Contrary"
+      },
+      {
+        "pokemon": "Exeggutor_Alolan",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Wood Hammer",
+          "Dragon Hammer",
+          "Sleep Powder",
+          "Trick Room"
+        ],
+        "ability": "Harvest"
+      },
+      {
+        "pokemon": "Florges_Orange_Flower",
+        "item": "Leftovers",
+        "moves": [
+          "Dazzling Gleam",
+          "Psychic",
+          "Giga Drain",
+          "Synthesis"
+        ],
+        "ability": "Flower Veil"
+      }
+    ]
+  },
+  {
+    "trainer": "Twins Amy & Liv [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Gengar",
+        "item": "Black Sludge",
+        "moves": [
+          "Dream Eater",
+          "Hex",
+          "Substitute",
+          "Hypnosis"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Corviknight",
+        "item": "Light Clay",
+        "moves": [
+          "Pluck",
+          "Light Screen",
+          "Reflect",
+          "Roost"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Persian",
+        "item": "Focus Sash",
+        "moves": [
+          "Fake Out",
+          "Flail",
+          "Dream Eater",
+          "Hypnosis"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Jynx",
+        "item": "Lum Berry",
+        "moves": [
+          "Dream Eater",
+          "Ice Beam",
+          "Nightmare",
+          "Lovely Kiss"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Hypno",
+        "item": "Leftovers",
+        "moves": [
+          "Dream Eater",
+          "Nightmare",
+          "Dark Void"
+        ],
+        "ability": "Bad Dreams"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Andrew",
+    "pokemon_list": [
+      {
+        "pokemon": "Jellicent",
+        "item": "Lum Berry",
+        "moves": [
+          "Scald",
+          "Shadow Ball",
+          "Wring Out",
+          "Strength Sap"
+        ],
+        "ability": "Cursed Body"
+      },
+      {
+        "pokemon": "Barraskewda",
+        "item": "Ice Gem",
+        "moves": [
+          "Liquidation",
+          "Drill Run",
+          "Throat Chop",
+          "Ice Fang"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Bruxish",
+        "item": "Water Gem",
+        "moves": [
+          "Psychic Fangs",
+          "Aqua Jet",
+          "Crunch",
+          "Poison Fang"
+        ],
+        "ability": "Strong Jaw"
+      },
+      {
+        "pokemon": "Dhelmise",
+        "item": "Lagging Tail",
+        "moves": [
+          "Grassy Glide",
+          "Shadow Claw",
+          "Iron Head",
+          "Switcheroo"
+        ],
+        "ability": "Steelworker"
+      }
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "trainer": "Team Magma Grunt [Double Battle With Team Magma Grunt]",
+    "pokemon_list": [
+      {
+        "pokemon": "Accelgor",
+        "item": "Focus Sash",
+        "moves": [
+          "Bug Buzz",
+          "Struggle Bug",
+          "Acid Spray",
+          "Encore"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Sawk",
+        "item": "Weakness Policy",
+        "moves": [
+          "Close Combat",
+          "Reversal",
+          "Zen Headbutt",
+          "Throat Chop"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Indeedee_Female",
+        "item": "Wise Glasses",
+        "moves": [
+          "Hyper Voice",
+          "Expanding Force"
+        ],
+        "ability": "Psychic Surge"
+      },
+      {
+        "pokemon": "Meowstic_Female",
+        "item": "Fairy Gem",
+        "moves": [
+          "Expanding Force",
+          "Thunderbolt",
+          "Dazzling Gleam",
+          "Shadow Ball"
+        ],
+        "ability": "Competitive"
+      }
+    ]
+  },
+  {
+    "trainer": "Magma Admin Tabitha",
+    "pokemon_list": [
+      {
+        "pokemon": "Torkoal",
+        "item": "Quick Claw",
+        "moves": [
+          "Flamethrower",
+          "Explosion",
+          "Solar Beam",
+          "Earth Power"
+        ],
+        "ability": "Drought"
+      },
+      {
+        "pokemon": "Armaldo",
+        "item": "Leftovers",
+        "moves": [
+          "Stone Edge",
+          "Leech Life",
+          "Earthquake",
+          "Stealth Rock"
+        ],
+        "ability": "Battle Armor"
+      },
+      {
+        "pokemon": "Espeon",
+        "item": "Life Orb",
+        "moves": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Weather Ball",
+          "Morning Sun"
+        ],
+        "ability": "Synchronize"
+      },
+      {
+        "pokemon": "Victreebel",
+        "item": "Lum Berry",
+        "moves": [
+          "Solar Blade",
+          "Gunk Shot",
+          "Weather Ball",
+          "Sleep Powder"
+        ],
+        "ability": "Chlorophyll"
+      },
+      {
+        "pokemon": "Absol",
+        "item": "Absolite",
+        "moves": [
+          "Knock Off",
+          "Psycho Cut",
+          "Fire Blast",
+          "Ice Beam"
+        ],
+        "ability": "Pressure"
+      }
+    ]
+  },
+  {
+    "trainer": "Magma Leader Maxie [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Crustle",
+        "item": "Red Card",
+        "moves": [
+          "Stone Edge",
+          "Earthquake",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Wobbuffet",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Counter",
+          "Mirror Coat",
+          "Destiny Bond",
+          "Encore"
+        ],
+        "ability": "Shadow Tag"
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "item": "Dark Gem",
+        "moves": [
+          "Stone Edge",
+          "Dual Wingbeat",
+          "Aqua Tail",
+          "Pursuit"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Kommo_O",
+        "item": "Leftovers",
+        "moves": [
+          "Body Press",
+          "Dragon Tail",
+          "Poison Jab",
+          "Iron Defense"
+        ],
+        "ability": "Overcoat"
+      },
+      {
+        "pokemon": "Zarude",
+        "item": "Assault Vest",
+        "moves": [
+          "Power Whip",
+          "Darkest Lariat",
+          "U Turn",
+          "Low Kick"
+        ],
+        "ability": "Leaf Guard"
+      },
+      {
+        "pokemon": "Camerupt",
+        "item": "Cameruptite",
+        "moves": [
+          "Earth Power",
+          "Flamethrower",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "ability": "Own Tempo"
+      }
+    ]
+  }
+]

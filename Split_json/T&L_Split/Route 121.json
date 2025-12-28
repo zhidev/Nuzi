@@ -1,0 +1,476 @@
+[
+  {
+    "trainer": "Cool Trainer Tammy [Double Battle With Bug Maniac Cale]",
+    "pokemon_list": [
+      {
+        "pokemon": "Slaking",
+        "item": "Lum Berry",
+        "moves": [
+          "Return",
+          "Earthquake",
+          "Fire Punch",
+          "Knock Off"
+        ],
+        "ability": "Truant"
+      },
+      {
+        "pokemon": "Archeops",
+        "item": "Rock Gem",
+        "moves": [
+          "Head Smash",
+          "Rock Slide",
+          "Dual Wingbeat",
+          "Earthquake"
+        ],
+        "ability": "Defeatist"
+      },
+      {
+        "pokemon": "Weezing_Galarian",
+        "item": "Air Balloon",
+        "moves": [
+          "Gunk Shot",
+          "Strange Steam",
+          "Assurance",
+          "Protect"
+        ],
+        "ability": "Neutralizing Gas"
+      },
+      {
+        "pokemon": "Weezing",
+        "item": "Air Balloon",
+        "moves": [
+          "Sludge Bomb",
+          "Fire Blast",
+          "Assurance",
+          "Protect"
+        ],
+        "ability": "Neutralizing Gas"
+      }
+    ]
+  },
+  {
+    "trainer": "Beauty Jessica",
+    "pokemon_list": [
+      {
+        "pokemon": "Froslass",
+        "item": "Ice Gem",
+        "moves": [
+          "Blizzard",
+          "Shadow Ball",
+          "Freeze Dry",
+          "Spikes"
+        ],
+        "ability": "Cursed Body"
+      },
+      {
+        "pokemon": "Jynx",
+        "item": "Expert Belt",
+        "moves": [
+          "Ice Beam",
+          "Psychic",
+          "Aura Sphere",
+          "Lovely Kiss"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Florges",
+        "item": "Leftovers",
+        "moves": [
+          "Moonblast",
+          "Psychic",
+          "Double Team",
+          "Protect"
+        ],
+        "ability": "Flower Veil"
+      },
+      {
+        "pokemon": "Kangaskhan",
+        "item": "Leftovers",
+        "moves": [
+          "Double Edge",
+          "Earthquake",
+          "Drain Punch",
+          "Sing"
+        ],
+        "ability": "Scrappy"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Breeder Pat",
+    "pokemon_list": [
+      {
+        "pokemon": "Sudowoodo",
+        "item": "Custap Berry",
+        "moves": [
+          "Stone Edge",
+          "Explosion",
+          "Earthquake",
+          "Flail"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Porygon2",
+        "item": "Eviolite",
+        "moves": [
+          "Tri Attack",
+          "Psychic",
+          "Dark Pulse",
+          "Agility"
+        ],
+        "ability": "Download"
+      },
+      {
+        "pokemon": "Magneton",
+        "item": "Eviolite",
+        "moves": [
+          "Thunderbolt",
+          "Flash Cannon",
+          "Hidden Power Grass",
+          "Magnet Rise"
+        ],
+        "ability": "Magnet Pull"
+      },
+      {
+        "pokemon": "Garbodor",
+        "item": "Shuca Berry",
+        "moves": [
+          "Gunk Shot",
+          "Explosion",
+          "Seed Bomb",
+          "Drain Punch"
+        ],
+        "ability": "Weak Armor"
+      },
+      {
+        "pokemon": "Coalossal",
+        "item": "Fire Gem",
+        "moves": [
+          "Burn Up",
+          "Power Gem",
+          "Earth Power",
+          "Will O Wisp"
+        ],
+        "ability": "Steam Engine"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Breeder Myles",
+    "pokemon_list": [
+      {
+        "pokemon": "Pyroar",
+        "item": "Power Herb",
+        "moves": [
+          "Fire Blast",
+          "Hyper Voice",
+          "Solar Beam",
+          "Scorching Sands"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Oranguru",
+        "item": "Colbur Berry",
+        "moves": [
+          "Psychic",
+          "Aura Sphere",
+          "Shadow Ball",
+          "Calm Mind"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Passimian",
+        "item": "Lum Berry",
+        "moves": [
+          "Close Combat",
+          "Iron Tail",
+          "Knock Off",
+          "Rock Slide"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Mudsdale",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Body Press",
+          "Smack Down",
+          "Substitute"
+        ],
+        "ability": "Stamina"
+      },
+      {
+        "pokemon": "Furret",
+        "item": "Dark Gem",
+        "moves": [
+          "Double Edge",
+          "Sucker Punch",
+          "Baton Pass",
+          "Swords Dance"
+        ],
+        "ability": "Keen Eye"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Gustavo",
+    "pokemon_list": [
+      {
+        "pokemon": "Eelektross",
+        "item": "Lum Berry",
+        "moves": [
+          "Thunderbolt",
+          "Flamethrower",
+          "Grass Knot",
+          "Toxic"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Conkeldurr",
+        "item": "Assault Vest",
+        "moves": [
+          "Drain Punch",
+          "Mach Punch",
+          "Ice Punch",
+          "Counter"
+        ],
+        "ability": "Iron Fist"
+      },
+      {
+        "pokemon": "Jellicent",
+        "item": "Leftovers",
+        "moves": [
+          "Scald",
+          "Hex",
+          "Toxic",
+          "Strength Sap"
+        ],
+        "ability": "Cursed Body"
+      },
+      {
+        "pokemon": "Scrafty",
+        "item": "Poison Gem",
+        "moves": [
+          "Close Combat",
+          "Crunch",
+          "Poison Jab",
+          "Dragon Dance"
+        ],
+        "ability": "Moxie"
+      },
+      {
+        "pokemon": "Hydreigon",
+        "item": "Lum Berry",
+        "moves": [
+          "Dragon Pulse",
+          "Dark Pulse",
+          "Nasty Plot",
+          "Roost"
+        ],
+        "ability": "Levitate"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Cristin",
+    "pokemon_list": [
+      {
+        "pokemon": "Hippowdon",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Crunch",
+          "Stealth Rock",
+          "Slack Off"
+        ],
+        "ability": "Sand Stream"
+      },
+      {
+        "pokemon": "Tyranitar",
+        "item": "Chople Berry",
+        "moves": [
+          "Stone Edge",
+          "Pursuit",
+          "Earthquake",
+          "Counter"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Stoutland",
+        "item": "Normal Gem",
+        "moves": [
+          "Return",
+          "Retaliate",
+          "Close Combat",
+          "Play Rough"
+        ],
+        "ability": "Sand Rush"
+      },
+      {
+        "pokemon": "Dracozolt",
+        "item": "Dragon Gem",
+        "moves": [
+          "Draco Meteor",
+          "Dragon Rush",
+          "Bolt Beak",
+          "Earthquake"
+        ],
+        "ability": "Sand Rush"
+      }
+    ]
+  },
+  {
+    "trainer": "Young Couple Brian&Casey [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Audino",
+        "item": "Chople Berry",
+        "moves": [
+          "Icy Wind",
+          "Heal Pulse",
+          "Helping Hand",
+          "Follow Me"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Gengar",
+        "item": "Poison Gem",
+        "moves": [
+          "Sludge Wave",
+          "Shadow Ball",
+          "Aura Sphere",
+          "Protect"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Heracross",
+        "item": "Focus Sash",
+        "moves": [
+          "Close Combat",
+          "Megahorn",
+          "Rock Slide",
+          "Smart Strike"
+        ],
+        "ability": "Moxie"
+      },
+      {
+        "pokemon": "Mamoswine",
+        "item": "Lum Berry",
+        "moves": [
+          "High Horsepower",
+          "Icicle Crash",
+          "Ice Shard",
+          "Knock Off"
+        ],
+        "ability": "Oblivious"
+      }
+    ]
+  },
+  {
+    "trainer": "Gentleman Walter",
+    "pokemon_list": [
+      {
+        "pokemon": "Granbull",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Play Rough",
+          "Low Kick",
+          "Super Fang",
+          "Thunder Wave"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Bewear",
+        "item": "Leftovers",
+        "moves": [
+          "Drain Punch",
+          "Payback",
+          "Bulk Up",
+          "Protect"
+        ],
+        "ability": "Fluffy"
+      },
+      {
+        "pokemon": "Manectric",
+        "item": "Life Orb",
+        "moves": [
+          "Thunderbolt",
+          "Flamethrower",
+          "Hidden Power Grass",
+          "Magnet Rise"
+        ],
+        "ability": "Static"
+      },
+      {
+        "pokemon": "Silvally_Dark",
+        "item": "Dark Memory",
+        "moves": [
+          "Multi Attack",
+          "Pursuit",
+          "Explosion",
+          "Flamethrower"
+        ],
+        "ability": "RKS System"
+      },
+      {
+        "pokemon": "Azumarill",
+        "item": "Water Gem",
+        "moves": [
+          "Aqua Tail",
+          "Play Rough",
+          "Aqua Jet",
+          "Knock Off"
+        ],
+        "ability": "Huge Power"
+      }
+    ]
+  },
+  {
+    "trainer": "Pok\u00e9fan Vanessa",
+    "pokemon_list": [
+      {
+        "pokemon": "Mimikyu",
+        "item": "Iron Ball",
+        "moves": [
+          "Play Rough",
+          "Shadow Claw",
+          "Swords Dance",
+          "Trick Room"
+        ],
+        "ability": "Disguise"
+      },
+      {
+        "pokemon": "Aromatisse",
+        "item": "Fairy Gem",
+        "moves": [
+          "Moonblast",
+          "Psychic",
+          "Nasty Plot",
+          "Trick Room"
+        ],
+        "ability": "Aroma Veil"
+      },
+      {
+        "pokemon": "Reuniclus",
+        "item": "Life Orb",
+        "moves": [
+          "Psychic",
+          "Thunder",
+          "Signal Beam",
+          "Trick Room"
+        ],
+        "ability": "Magic Guard"
+      }
+    ]
+  }
+]

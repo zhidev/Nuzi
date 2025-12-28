@@ -1,0 +1,711 @@
+[
+  {
+    "trainer": "Pok\u00e9maniac Hambino",
+    "pokemon_list": [
+      {
+        "pokemon": "Togekiss",
+        "item": "Lum Berry",
+        "moves": [
+          "Air Slash",
+          "Aura Sphere",
+          "Mystical Fire",
+          "Thunder Wave"
+        ],
+        "ability": "Serene Grace"
+      },
+      {
+        "pokemon": "Marowak",
+        "item": "Thick Club",
+        "moves": [
+          "Bonemerang",
+          "Stone Edge",
+          "Fire Punch",
+          "Stealth Rock"
+        ],
+        "ability": "Battle Armor"
+      },
+      {
+        "pokemon": "Serperior",
+        "item": "Focus Sash",
+        "moves": [
+          "Leaf Storm",
+          "Dragon Pulse",
+          "Hidden Power Fire",
+          "Glare"
+        ],
+        "ability": "Contrary"
+      },
+      {
+        "pokemon": "Drifblim",
+        "item": "Flying Gem",
+        "moves": [
+          "Shadow Ball",
+          "Acrobatics",
+          "Explosion",
+          "Hidden Power Fire"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Hatterene",
+        "item": "Babiri Berry",
+        "moves": [
+          "Misty Explosion",
+          "Psychic",
+          "Mystical Fire",
+          "Nuzzle"
+        ],
+        "ability": "Magic Bounce"
+      },
+      {
+        "pokemon": "Luxray",
+        "item": "Flame Orb",
+        "moves": [
+          "Zing Zap",
+          "Facade",
+          "Crunch",
+          "Agility"
+        ],
+        "ability": "Guts"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Wendy [Double Battle With Cool Trainer Braxton]",
+    "pokemon_list": [
+      {
+        "pokemon": "Oranguru",
+        "item": "Starf Berry",
+        "moves": [
+          "Psychic",
+          "Stored Power",
+          "Psych Up",
+          "Trick Room"
+        ],
+        "ability": "Symbiosis"
+      },
+      {
+        "pokemon": "Florges",
+        "item": "Starf Berry",
+        "moves": [
+          "Moonblast",
+          "Dazzling Gleam",
+          "Pollen Puff",
+          "Aromatherapy"
+        ],
+        "ability": "Symbiosis"
+      },
+      {
+        "pokemon": "Vivillon_Garden",
+        "item": "Focus Sash",
+        "moves": [
+          "Pollen Puff",
+          "Rage Powder",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "ability": "Friend Guard"
+      },
+      {
+        "pokemon": "Greedent",
+        "item": "Starf Berry",
+        "moves": [
+          "Return",
+          "Body Press",
+          "Crunch",
+          "Stuff Cheeks"
+        ],
+        "ability": "Cheek Pouch"
+      },
+      {
+        "pokemon": "Swalot",
+        "item": "Starf Berry",
+        "moves": [
+          "Belch",
+          "Body Press",
+          "Fire Punch",
+          "Stuff Cheeks"
+        ],
+        "ability": "Sticky Hold"
+      },
+      {
+        "pokemon": "Snorlax",
+        "item": "Starf Berry",
+        "moves": [
+          "Body Slam",
+          "High Horsepower",
+          "Crunch",
+          "Curse"
+        ],
+        "ability": "Gluttony"
+      }
+    ]
+  },
+  {
+    "trainer": "Ninja Boy Jonas [Double Battle With Expert Fredrick]",
+    "pokemon_list": [
+      {
+        "pokemon": "Togekiss",
+        "item": "Salac Berry",
+        "moves": [
+          "Dazzling Gleam",
+          "Stored Power",
+          "Fling",
+          "Psych Up"
+        ],
+        "ability": "Super Luck"
+      },
+      {
+        "pokemon": "Sneasler",
+        "item": "Salac Berry",
+        "moves": [
+          "Close Combat",
+          "Poison Jab",
+          "Ice Shard",
+          "Fling"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Donphan",
+        "item": "Custap Berry",
+        "moves": [
+          "High Horsepower",
+          "Stone Edge",
+          "Ice Shard",
+          "Endeavor"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Mr_Rime",
+        "item": "Weakness Policy",
+        "moves": [
+          "Blizzard",
+          "Stored Power",
+          "Freeze Dry",
+          "Fake Out"
+        ],
+        "ability": "Tangled Feet"
+      },
+      {
+        "pokemon": "Decidueye",
+        "item": "Weakness Policy",
+        "moves": [
+          "Energy Ball",
+          "Shadow Ball",
+          "Hidden Power Fire",
+          "Tailwind"
+        ],
+        "ability": "Overgrow"
+      },
+      {
+        "pokemon": "Sceptile",
+        "item": "Weakness Policy",
+        "moves": [
+          "Energy Ball",
+          "Focus Blast",
+          "Rock Slide",
+          "Acrobatics"
+        ],
+        "ability": "Unburden"
+      }
+    ]
+  },
+  {
+    "trainer": "Hex Maniac Gongas",
+    "pokemon_list": [
+      {
+        "pokemon": "Raichu",
+        "item": "Focus Sash",
+        "moves": [
+          "Thunder",
+          "Surf",
+          "Grass Knot",
+          "Counter"
+        ],
+        "ability": "Static"
+      },
+      {
+        "pokemon": "Glaceon",
+        "item": "Occa Berry",
+        "moves": [
+          "Blizzard",
+          "Freeze Dry",
+          "Hidden Power Ground",
+          "Calm Mind"
+        ],
+        "ability": "Snow Cloak"
+      },
+      {
+        "pokemon": "Swellow",
+        "item": "Life Orb",
+        "moves": [
+          "Boomburst",
+          "Brave Bird",
+          "Heat Wave",
+          "U Turn"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Tangrowth",
+        "item": "Assault Vest",
+        "moves": [
+          "Power Whip",
+          "Earthquake",
+          "Knock Off",
+          "Infestation"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Volcarona",
+        "item": "Grass Gem",
+        "moves": [
+          "Bug Buzz",
+          "Fiery Dance",
+          "Giga Drain",
+          "Quiver Dance"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Slowbro",
+        "item": "Leftovers",
+        "moves": [
+          "Future Sight",
+          "Scald",
+          "Body Press",
+          "Slack Off"
+        ],
+        "ability": "Regenerator"
+      }
+    ]
+  },
+  {
+    "trainer": "Twins Miu & Yuki [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Sharpedo",
+        "item": "Focus Sash",
+        "moves": [
+          "Hydro Pump",
+          "Dark Pulse",
+          "Icy Wind",
+          "Destiny Bond"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Marowak_Alolan",
+        "item": "Thick Club",
+        "moves": [
+          "Flare Blitz",
+          "Bonemerang",
+          "Protect",
+          "Stealth Rock"
+        ],
+        "ability": "Lightning Rod"
+      },
+      {
+        "pokemon": "Gothitelle",
+        "item": "Leftovers",
+        "moves": [
+          "Psychic",
+          "Fake Out",
+          "Protect",
+          "Thunder Wave"
+        ],
+        "ability": "Shadow Tag"
+      },
+      {
+        "pokemon": "Granbull",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Play Rough",
+          "Close Combat",
+          "Stomping Tantrum",
+          "Thunder Wave"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Toxicroak",
+        "item": "White Herb",
+        "moves": [
+          "Close Combat",
+          "Poison Jab",
+          "Knock Off",
+          "Fake Out"
+        ],
+        "ability": "Poison Touch"
+      },
+      {
+        "pokemon": "Arcanine_Hisuian",
+        "item": "Rock Gem",
+        "moves": [
+          "Flare Blitz",
+          "Rock Slide",
+          "Extreme Speed",
+          "Howl"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  },
+  {
+    "trainer": "Bug Catcher Davis",
+    "pokemon_list": [
+      {
+        "pokemon": "Kingdra",
+        "item": "Life Orb",
+        "moves": [
+          "Dragon Pulse",
+          "Octazooka",
+          "Flip Turn",
+          "Hurricane"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Basculegion",
+        "item": "Life Orb",
+        "moves": [
+          "Aqua Tail",
+          "Spirit Shackle",
+          "Head Smash",
+          "Destiny Bond"
+        ],
+        "ability": "Mold Breaker"
+      },
+      {
+        "pokemon": "Exeggutor_Alolan",
+        "item": "Yache Berry",
+        "moves": [
+          "Leaf Storm",
+          "Dragon Hammer",
+          "Explosion",
+          "Low Kick"
+        ],
+        "ability": "Harvest"
+      },
+      {
+        "pokemon": "Abomasnow",
+        "item": "Ice Gem",
+        "moves": [
+          "Wood Hammer",
+          "Ice Shard",
+          "Earthquake",
+          "Swords Dance"
+        ],
+        "ability": "Soundproof"
+      },
+      {
+        "pokemon": "Zangoose",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Quick Attack",
+          "Close Combat",
+          "Night Slash",
+          "Belly Drum"
+        ],
+        "ability": "Toxic Boost"
+      },
+      {
+        "pokemon": "Scizor",
+        "item": "Scizorite",
+        "moves": [
+          "Bullet Punch",
+          "Close Combat",
+          "Knock Off",
+          "Swords Dance"
+        ],
+        "ability": "Swarm"
+      }
+    ]
+  },
+  {
+    "trainer": "Psychic Jacki [Double Battle With Bird Keeper Alberto]",
+    "pokemon_list": [
+      {
+        "pokemon": "Wyrdeer",
+        "item": "Life Orb",
+        "moves": [
+          "Psychic",
+          "Megahorn",
+          "Thunder",
+          "Earthquake"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Metagross",
+        "item": "Ground Gem",
+        "moves": [
+          "Meteor Mash",
+          "Zen Headbutt",
+          "Earthquake",
+          "Ice Punch"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Medicham",
+        "item": "Focus Sash",
+        "moves": [
+          "Close Combat",
+          "Zen Headbutt",
+          "Reversal",
+          "Thunder Punch"
+        ],
+        "ability": "Pure Power"
+      },
+      {
+        "pokemon": "Pelipper",
+        "item": "Water Gem",
+        "moves": [
+          "Hurricane",
+          "Weather Ball",
+          "Detect",
+          "Tailwind"
+        ],
+        "ability": "Drizzle"
+      },
+      {
+        "pokemon": "Tropius",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Hurricane",
+          "Grass Knot",
+          "Helping Hand",
+          "Tailwind"
+        ],
+        "ability": "Harvest"
+      },
+      {
+        "pokemon": "Charizard",
+        "item": "Flying Gem",
+        "moves": [
+          "Burn Up",
+          "Hurricane",
+          "Focus Blast",
+          "Weather Ball"
+        ],
+        "ability": "Blaze"
+      }
+    ]
+  },
+  {
+    "trainer": "Black Belt Hawk",
+    "pokemon_list": [
+      {
+        "pokemon": "Miltank",
+        "item": "Chople Berry",
+        "moves": [
+          "Body Slam",
+          "Milk Drink",
+          "Stealth Rock",
+          "Thunder Wave"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Hitmontop",
+        "item": "Life Orb",
+        "moves": [
+          "Close Combat",
+          "Mach Punch",
+          "Bullet Punch",
+          "Triple Axel"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Krookodile",
+        "item": "Dark Gem",
+        "moves": [
+          "Earthquake",
+          "Pursuit",
+          "Stone Edge",
+          "Aqua Tail"
+        ],
+        "ability": "Moxie"
+      },
+      {
+        "pokemon": "Noivern",
+        "item": "Flying Gem",
+        "moves": [
+          "Dragon Rush",
+          "Acrobatics",
+          "Heat Wave",
+          "Dragon Dance"
+        ],
+        "ability": "Infiltrator"
+      },
+      {
+        "pokemon": "Scizor",
+        "item": "Focus Sash",
+        "moves": [
+          "Bug Bite",
+          "Bullet Punch",
+          "Close Combat",
+          "Swords Dance"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Mudsdale",
+        "item": "Assault Vest",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Heavy Slam",
+          "Counter"
+        ],
+        "ability": "Inner Focus"
+      }
+    ]
+  },
+  {
+    "trainer": "Guitarist Fernando [Double Battle With Cool Trainer Jazmyn]",
+    "pokemon_list": [
+      {
+        "pokemon": "Silvally_Electric",
+        "item": "Electric Memory",
+        "moves": [
+          "Multi Attack",
+          "Explosion",
+          "Grass Pledge",
+          "Tailwind"
+        ],
+        "ability": "RKS System"
+      },
+      {
+        "pokemon": "Kommo_O",
+        "item": "Normal Gem",
+        "moves": [
+          "Dragon Pulse",
+          "Aura Sphere",
+          "Boomburst"
+        ],
+        "ability": "Overcoat"
+      },
+      {
+        "pokemon": "Golem",
+        "item": "Custap Berry",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Rock Slide",
+          "Explosion"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Froslass",
+        "item": "Ice Gem",
+        "moves": [
+          "Blizzard",
+          "Shadow Ball",
+          "Hex",
+          "Lovely Kiss"
+        ],
+        "ability": "Cursed Body"
+      },
+      {
+        "pokemon": "Orbeetle",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Future Sight",
+          "Bug Buzz",
+          "Infestation",
+          "Hypnosis"
+        ],
+        "ability": "Telepathy"
+      },
+      {
+        "pokemon": "Gengar",
+        "item": "Focus Sash",
+        "moves": [
+          "Sludge Wave",
+          "Shadow Ball",
+          "Focus Blast",
+          "Hypnosis"
+        ],
+        "ability": "Levitate"
+      }
+    ]
+  },
+  {
+    "trainer": "Psychic Cameron [Double Battle With Hex Maniac Kindra]",
+    "pokemon_list": [
+      {
+        "pokemon": "Mienshao",
+        "item": "Life Orb",
+        "moves": [
+          "Close Combat",
+          "Rock Slide",
+          "Knock Off",
+          "Detect"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Mimikyu",
+        "item": "Fairy Gem",
+        "moves": [
+          "Play Rough",
+          "Shadow Claw",
+          "Drain Punch",
+          "Swords Dance"
+        ],
+        "ability": "Disguise"
+      },
+      {
+        "pokemon": "Thievul",
+        "item": "Psychic Seed",
+        "moves": [
+          "Foul Play",
+          "Dark Pulse",
+          "Burning Jealousy",
+          "Fake Tears"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Indeedee_Female",
+        "item": "Light Clay",
+        "moves": [
+          "Expanding Force",
+          "Encore",
+          "Reflect",
+          "Light Screen"
+        ],
+        "ability": "Psychic Surge"
+      },
+      {
+        "pokemon": "Alakazam",
+        "item": "Life Orb",
+        "moves": [
+          "Expanding Force",
+          "Aura Sphere",
+          "Dazzling Gleam",
+          "Protect"
+        ],
+        "ability": "Magic Guard"
+      },
+      {
+        "pokemon": "Starmie",
+        "item": "Focus Sash",
+        "moves": [
+          "Hydro Pump",
+          "Expanding Force",
+          "Whirlpool",
+          "Thunder"
+        ],
+        "ability": "Analytic"
+      }
+    ]
+  }
+]

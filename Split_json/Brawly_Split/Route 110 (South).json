@@ -1,0 +1,61 @@
+[
+  {
+    "trainer": "Camper Gavi",
+    "pokemon_list": [
+      {
+        "pokemon": "Bibarel",
+        "item": "Lum Berry",
+        "moves": [
+          "Headbutt",
+          "Aqua Jet",
+          "Pluck",
+          "Super Fang"
+        ],
+        "ability": "Unaware"
+      },
+      {
+        "pokemon": "Ponyta",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Flame Wheel",
+          "Play Rough",
+          "Double Kick"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Eelektrik",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Shock Wave",
+          "Mega Drain",
+          "Super Fang",
+          "Toxic"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Sunflora",
+        "item": "Lum Berry",
+        "moves": [
+          "Energy Ball",
+          "Sludge Bomb",
+          "Leech Seed",
+          "Grass Whistle"
+        ],
+        "ability": "Chlorophyll"
+      },
+      {
+        "pokemon": "Dustox",
+        "item": "Black Sludge",
+        "moves": [
+          "Venoshock",
+          "Infestation",
+          "Roost",
+          "Toxic"
+        ],
+        "ability": "Shield Dust"
+      }
+    ]
+  }
+]

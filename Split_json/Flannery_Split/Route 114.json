@@ -1,0 +1,506 @@
+[
+  {
+    "trainer": "Picnicker Charlotte",
+    "pokemon_list": [
+      {
+        "pokemon": "Dodrio",
+        "item": "Choice Band",
+        "moves": [
+          "Brave Bird",
+          "Double Edge"
+        ],
+        "ability": "Tangled Feet"
+      },
+      {
+        "pokemon": "Ditto",
+        "item": "Focus Sash",
+        "moves": [
+          "Transform"
+        ],
+        "ability": "Imposter"
+      },
+      {
+        "pokemon": "Leafeon",
+        "item": "Leftovers",
+        "moves": [
+          "Leaf Blade",
+          "Knock Off",
+          "Grass Whistle",
+          "Swords Dance"
+        ],
+        "ability": "Leaf Guard"
+      }
+    ]
+  },
+  {
+    "trainer": "Rich Boy Braw",
+    "pokemon_list": [
+      {
+        "pokemon": "Nidoking",
+        "item": "Wide Lens",
+        "moves": [
+          "Earth Power",
+          "Blizzard",
+          "Thunder",
+          "Lovely Kiss"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Honchkrow",
+        "item": "Lum Berry",
+        "moves": [
+          "Brave Bird",
+          "Pursuit",
+          "Superpower",
+          "Heat Wave"
+        ],
+        "ability": "Super Luck"
+      },
+      {
+        "pokemon": "Mimikyu",
+        "item": "Life Orb",
+        "moves": [
+          "Play Rough",
+          "Shadow Claw",
+          "Shadow Sneak",
+          "Will O Wisp"
+        ],
+        "ability": "Disguise"
+      },
+      {
+        "pokemon": "Snorlax",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Heat Crash",
+          "Curse"
+        ],
+        "ability": "Immunity"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Nolan",
+    "pokemon_list": [
+      {
+        "pokemon": "Milotic",
+        "item": "Lum Berry",
+        "moves": [
+          "Scald",
+          "Ice Beam",
+          "Mirror Coat",
+          "Recover"
+        ],
+        "ability": "Marvel Scale"
+      },
+      {
+        "pokemon": "Starmie",
+        "item": "Wise Glasses",
+        "moves": [
+          "Hydro Pump",
+          "Psychic",
+          "Thunderbolt",
+          "Grass Knot"
+        ],
+        "ability": "Analytic"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Kai",
+    "pokemon_list": [
+      {
+        "pokemon": "Politoed",
+        "item": "Leftovers",
+        "moves": [
+          "Scald",
+          "Psychic",
+          "Protect",
+          "Toxic"
+        ],
+        "ability": "Drizzle"
+      },
+      {
+        "pokemon": "Barraskewda",
+        "item": "Mystic Water",
+        "moves": [
+          "Liquidation",
+          "Flip Turn",
+          "Aqua Jet",
+          "Close Combat"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Armaldo",
+        "item": "Lum Berry",
+        "moves": [
+          "Stone Edge",
+          "X Scissor",
+          "Liquidation",
+          "Swords Dance"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Golisopod",
+        "item": "Bug Gem",
+        "moves": [
+          "First Impression",
+          "Liquidation",
+          "Leech Life",
+          "Aqua Jet"
+        ],
+        "ability": "Emergency Exit"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Claude",
+    "pokemon_list": [
+      {
+        "pokemon": "Qwilfish",
+        "item": "Focus Sash",
+        "moves": [
+          "Poison Jab",
+          "Waterfall",
+          "Explosion",
+          "Toxic Spikes"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Vaporeon",
+        "item": "Leftovers",
+        "moves": [
+          "Scald",
+          "Ice Beam",
+          "Baton Pass",
+          "Substitute"
+        ],
+        "ability": "Water Absorb"
+      },
+      {
+        "pokemon": "Clawitzer",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Water Pulse",
+          "Aura Sphere",
+          "Dark Pulse",
+          "Sleep Talk"
+        ],
+        "ability": "Mega Launcher"
+      },
+      {
+        "pokemon": "Empoleon",
+        "item": "Leftovers",
+        "moves": [
+          "Waterfall",
+          "Flash Cannon",
+          "Earthquake",
+          "Protect"
+        ],
+        "ability": "Defiant"
+      }
+    ]
+  },
+  {
+    "trainer": "Kindler Bernie",
+    "pokemon_list": [
+      {
+        "pokemon": "Rotom_Heat",
+        "item": "White Herb",
+        "moves": [
+          "Overheat",
+          "Thunderbolt",
+          "Hidden Power Ice",
+          "Nasty Plot"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Simisear",
+        "item": "Starf Berry",
+        "moves": [
+          "Fire Blast",
+          "Focus Blast",
+          "Acrobatics",
+          "Substitute"
+        ],
+        "ability": "Gluttony"
+      },
+      {
+        "pokemon": "Skuntank",
+        "item": "Fire Gem",
+        "moves": [
+          "Sludge Bomb",
+          "Knock Off",
+          "Explosion",
+          "Fire Blast"
+        ],
+        "ability": "Aftermath"
+      },
+      {
+        "pokemon": "Druddigon",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Dragon Rush",
+          "Flamethrower",
+          "Iron Head",
+          "Glare"
+        ],
+        "ability": "Rough Skin"
+      }
+    ]
+  },
+  {
+    "trainer": "Picnicker Angelina",
+    "pokemon_list": [
+      {
+        "pokemon": "Donphan",
+        "item": "Custap Berry",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Knock Off",
+          "Endeavor"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Gallade",
+        "item": "Leftovers",
+        "moves": [
+          "Zen Headbutt",
+          "Drain Punch",
+          "Hypnosis",
+          "Will O Wisp"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Purugly",
+        "item": "Silk Scarf",
+        "moves": [
+          "Double Edge",
+          "Stomping Tantrum",
+          "Super Fang",
+          "Hypnosis"
+        ],
+        "ability": "Defiant"
+      }
+    ]
+  },
+  {
+    "trainer": "Expert Nancy",
+    "pokemon_list": [
+      {
+        "pokemon": "Bronzong",
+        "item": "Iron Ball",
+        "moves": [
+          "Gyro Ball",
+          "Explosion",
+          "Earthquake",
+          "Trick"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Eldegoss",
+        "item": "Eject Button",
+        "moves": [
+          "Leaf Storm",
+          "Pollen Puff",
+          "Leech Seed",
+          "Sleep Powder"
+        ],
+        "ability": "Cotton Down"
+      },
+      {
+        "pokemon": "Sirfetchd",
+        "item": "Leek",
+        "moves": [
+          "Meteor Assault",
+          "Brick Break",
+          "Leaf Blade",
+          "Night Slash"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Drampa",
+        "item": "Lum Berry",
+        "moves": [
+          "Hyper Voice",
+          "Dragon Pulse",
+          "Glare",
+          "Roost"
+        ],
+        "ability": "Berserk"
+      },
+      {
+        "pokemon": "Dugtrio",
+        "item": "Soft Sand",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Night Slash",
+          "Final Gambit"
+        ],
+        "ability": "Arena Trap"
+      }
+    ]
+  },
+  {
+    "trainer": "Sr. And Jr. Tyra & Ivy [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Klefki",
+        "item": "Occa Berry",
+        "moves": [
+          "Foul Play",
+          "Swagger"
+        ],
+        "ability": "Prankster"
+      },
+      {
+        "pokemon": "Houndoom",
+        "item": "Life Orb",
+        "moves": [
+          "Foul Play",
+          "Burning Jealousy",
+          "Sludge Bomb",
+          "Protect"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Grimmsnarl",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Foul Play",
+          "Spirit Break",
+          "Fake Out",
+          "Swagger"
+        ],
+        "ability": "Prankster"
+      },
+      {
+        "pokemon": "Pyroar",
+        "item": "Normal Gem",
+        "moves": [
+          "Retaliate",
+          "Hyper Voice",
+          "Burning Jealousy",
+          "Protect"
+        ],
+        "ability": "Unnerve"
+      }
+    ]
+  },
+  {
+    "trainer": "Pok\u00e9maniac Steve",
+    "pokemon_list": [
+      {
+        "pokemon": "Muk",
+        "item": "Shuca Berry",
+        "moves": [
+          "Gunk Shot",
+          "Explosion",
+          "Fire Punch",
+          "Ice Punch"
+        ],
+        "ability": "Poison Touch"
+      },
+      {
+        "pokemon": "Polteageist",
+        "item": "White Herb",
+        "moves": [
+          "Shadow Ball",
+          "Giga Drain",
+          "Stored Power",
+          "Shell Smash"
+        ],
+        "ability": "Cursed Body"
+      }
+    ]
+  },
+  {
+    "trainer": "Hiker Lucas",
+    "pokemon_list": [
+      {
+        "pokemon": "Steelix",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Earthquake",
+          "Gyro Ball",
+          "Body Press",
+          "Stealth Rock"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Relicanth",
+        "item": "Lum Berry",
+        "moves": [
+          "Stone Edge",
+          "Liquidation",
+          "Flail",
+          "Rock Polish"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Gliscor",
+        "item": "Toxic Orb",
+        "moves": [
+          "Earthquake",
+          "Facade",
+          "Protect",
+          "Roost"
+        ],
+        "ability": "Poison Heal"
+      }
+    ]
+  },
+  {
+    "trainer": "Hiker Lenny",
+    "pokemon_list": [
+      {
+        "pokemon": "Ferrothorn",
+        "item": "Occa Berry",
+        "moves": [
+          "Power Whip",
+          "Gyro Ball",
+          "Knock Off",
+          "Thunder Wave"
+        ],
+        "ability": "Iron Barbs"
+      },
+      {
+        "pokemon": "Cradily",
+        "item": "Leftovers",
+        "moves": [
+          "Ancient Power",
+          "Earth Power",
+          "Cosmic Power",
+          "Rest"
+        ],
+        "ability": "Suction Cups"
+      },
+      {
+        "pokemon": "Whiscash",
+        "item": "Power Herb",
+        "moves": [
+          "Earthquake",
+          "Aqua Tail",
+          "Bounce",
+          "Dragon Dance"
+        ],
+        "ability": "Oblivious"
+      }
+    ]
+  }
+]

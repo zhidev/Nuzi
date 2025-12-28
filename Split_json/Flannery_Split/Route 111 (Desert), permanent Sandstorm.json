@@ -1,0 +1,418 @@
+[
+  {
+    "trainer": "Picnicker Irene",
+    "pokemon_list": [
+      {
+        "pokemon": "Leavanny",
+        "item": "Focus Sash",
+        "moves": [
+          "Leaf Blade",
+          "X Scissor",
+          "Flail",
+          "Grass Whistle"
+        ],
+        "ability": "Overcoat"
+      },
+      {
+        "pokemon": "Clefable",
+        "item": "Leftovers",
+        "moves": [
+          "Moonblast",
+          "Focus Blast",
+          "Counter",
+          "Soft Boiled"
+        ],
+        "ability": "Magic Guard"
+      },
+      {
+        "pokemon": "Stoutland",
+        "item": "Silk Scarf",
+        "moves": [
+          "Retaliate",
+          "Body Slam",
+          "Play Rough",
+          "Stomping Tantrum"
+        ],
+        "ability": "Sand Rush"
+      }
+    ]
+  },
+  {
+    "trainer": "Camper Travis",
+    "pokemon_list": [
+      {
+        "pokemon": "Crustle",
+        "item": "Lum Berry",
+        "moves": [
+          "Stone Edge",
+          "X Scissor",
+          "Earthquake",
+          "Shell Smash"
+        ],
+        "ability": "Weak Armor"
+      },
+      {
+        "pokemon": "Sigilyph",
+        "item": "Leftovers",
+        "moves": [
+          "Psychic",
+          "Air Slash",
+          "Heat Wave",
+          "Energy Ball"
+        ],
+        "ability": "Magic Guard"
+      },
+      {
+        "pokemon": "Piloswine",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Icicle Spear",
+          "Curse",
+          "Rest"
+        ],
+        "ability": "Thick Fat"
+      }
+    ]
+  },
+  {
+    "trainer": "Ruin Maniac Bryan [Double Battle With Picnicker Celia]",
+    "pokemon_list": [
+      {
+        "pokemon": "Gigalith",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Stone Edge",
+          "Rock Slide",
+          "Body Press",
+          "Sand Tomb"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Nidoking",
+        "item": "Lum Berry",
+        "moves": [
+          "Drill Run",
+          "Poison Jab",
+          "Thunderbolt",
+          "Flamethrower"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Maractus",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Energy Ball",
+          "Hidden Power Fire",
+          "Weather Ball",
+          "Spiky Shield"
+        ],
+        "ability": "Storm Drain"
+      },
+      {
+        "pokemon": "Gastrodon",
+        "item": "Rindo Berry",
+        "moves": [
+          "Earth Power",
+          "Muddy Water",
+          "Ice Beam",
+          "Recover"
+        ],
+        "ability": "Storm Drain"
+      }
+    ]
+  },
+  {
+    "trainer": "Camper Branden",
+    "pokemon_list": [
+      {
+        "pokemon": "Skarmory",
+        "item": "Red Card",
+        "moves": [
+          "Dual Wingbeat",
+          "Body Press",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Torterra",
+        "item": "Leftovers",
+        "moves": [
+          "Wood Hammer",
+          "Earthquake",
+          "Leech Seed",
+          "Protect"
+        ],
+        "ability": "Rock Head"
+      },
+      {
+        "pokemon": "Bewear",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Drain Punch",
+          "Zen Headbutt",
+          "Payback"
+        ],
+        "ability": "Fluffy"
+      },
+      {
+        "pokemon": "Rhyperior",
+        "item": "Leftovers",
+        "moves": [
+          "Drill Run",
+          "Avalanche",
+          "Dragon Tail",
+          "Protect"
+        ],
+        "ability": "Solid Rock"
+      }
+    ]
+  },
+  {
+    "trainer": "Collector John",
+    "pokemon_list": [
+      {
+        "pokemon": "Copperajah",
+        "item": "Choice Band",
+        "moves": [
+          "Heavy Slam"
+        ],
+        "ability": "Heavy Metal"
+      },
+      {
+        "pokemon": "Delphox",
+        "item": "Sticky Barb",
+        "moves": [
+          "Psyshock",
+          "Mystical Fire",
+          "Foul Play",
+          "Switcheroo"
+        ],
+        "ability": "Magic Guard"
+      },
+      {
+        "pokemon": "Mandibuzz",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Knock Off",
+          "Protect",
+          "Roost",
+          "Toxic"
+        ],
+        "ability": "Overcoat"
+      },
+      {
+        "pokemon": "Lycanroc",
+        "item": "Focus Sash",
+        "moves": [
+          "Stone Edge",
+          "High Horsepower",
+          "Psychic Fangs",
+          "Endeavor"
+        ],
+        "ability": "Sand Rush"
+      },
+      {
+        "pokemon": "Sandslash",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Knock Off",
+          "Swords Dance"
+        ],
+        "ability": "Sand Rush"
+      }
+    ]
+  },
+  {
+    "trainer": "Camper Beau",
+    "pokemon_list": [
+      {
+        "pokemon": "Probopass",
+        "item": "Focus Sash",
+        "moves": [
+          "Flash Cannon",
+          "Power Gem",
+          "Explosion",
+          "Zap Cannon"
+        ],
+        "ability": "Sand Force"
+      },
+      {
+        "pokemon": "Palossand",
+        "item": "Bright Powder",
+        "moves": [
+          "Scorching Sands",
+          "Hex",
+          "Ancient Power",
+          "Shore Up"
+        ],
+        "ability": "Sand Veil"
+      },
+      {
+        "pokemon": "Perrserker",
+        "item": "Assault Vest",
+        "moves": [
+          "Iron Tail",
+          "Bullet Punch",
+          "Close Combat",
+          "Gunk Shot"
+        ],
+        "ability": "Steely Spirit"
+      }
+    ]
+  },
+  {
+    "trainer": "Ninja Boy Jinra",
+    "pokemon_list": [
+      {
+        "pokemon": "Nidoqueen",
+        "item": "Life Orb",
+        "moves": [
+          "Earth Power",
+          "Sludge Bomb",
+          "Flamethrower",
+          "Ice Beam"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Charizard",
+        "item": "Rock Gem",
+        "moves": [
+          "Flamethrower",
+          "Dual Wingbeat",
+          "Dragon Claw",
+          "Weather Ball"
+        ],
+        "ability": "Blaze"
+      },
+      {
+        "pokemon": "Golem",
+        "item": "Bright Powder",
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Focus Punch",
+          "Seismic Toss"
+        ],
+        "ability": "Sand Veil"
+      },
+      {
+        "pokemon": "Cacturne",
+        "item": "Bright Powder",
+        "moves": [
+          "Seed Bomb",
+          "Payback",
+          "Focus Punch",
+          "Substitute"
+        ],
+        "ability": "Sand Veil"
+      }
+    ]
+  },
+  {
+    "trainer": "Ruin Maniac Rigger",
+    "pokemon_list": [
+      {
+        "pokemon": "Dragapult",
+        "item": "Light Clay",
+        "moves": [
+          "Hex",
+          "Dragon Breath",
+          "Light Screen",
+          "Reflect"
+        ],
+        "ability": "Cursed Body"
+      },
+      {
+        "pokemon": "Krookodile",
+        "item": "Weakness Policy",
+        "moves": [
+          "Earthquake",
+          "Power Trip",
+          "Rock Slide",
+          "Bulk Up"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Cloyster",
+        "item": "Lum Berry",
+        "moves": [
+          "Liquidation",
+          "Frost Breath",
+          "Weather Ball",
+          "Shell Smash"
+        ],
+        "ability": "Overcoat"
+      },
+      {
+        "pokemon": "Shelgon",
+        "item": "Eviolite",
+        "moves": [
+          "Dragon Rush",
+          "Brick Break",
+          "Facade",
+          "Dragon Dance"
+        ],
+        "ability": "Overcoat"
+      }
+    ]
+  },
+  {
+    "trainer": "Camper Drew",
+    "pokemon_list": [
+      {
+        "pokemon": "Hippowdon",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Curse",
+          "Slack Off"
+        ],
+        "ability": "Sand Force"
+      },
+      {
+        "pokemon": "Gogoat",
+        "item": "Leftovers",
+        "moves": [
+          "Horn Leech",
+          "Earthquake",
+          "Rock Slide",
+          "Leech Seed"
+        ],
+        "ability": "Sap Sipper"
+      },
+      {
+        "pokemon": "Golem_Alolan",
+        "item": "Lum Berry",
+        "moves": [
+          "Head Smash",
+          "Wild Charge",
+          "Explosion",
+          "Earthquake"
+        ],
+        "ability": "Rock Head"
+      },
+      {
+        "pokemon": "Excadrill",
+        "item": "Air Balloon",
+        "moves": [
+          "High Horsepower",
+          "Iron Head",
+          "Rock Slide",
+          "Rock Polish"
+        ],
+        "ability": "Sand Force"
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "trainer": "Hiker Trent",
+    "pokemon_list": [
+      {
+        "pokemon": "Bastiodon",
+        "item": "Red Card",
+        "moves": [
+          "Heavy Slam",
+          "Metal Burst",
+          "Stealth Rock",
+          "Roar"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Diggersby",
+        "item": "Chople Berry",
+        "moves": [
+          "High Horsepower",
+          "Body Slam",
+          "Quick Attack",
+          "Swords Dance"
+        ],
+        "ability": "Huge Power"
+      },
+      {
+        "pokemon": "Magcargo",
+        "item": "Red Card",
+        "moves": [
+          "Flamethrower",
+          "Power Gem",
+          "Earth Power",
+          "Shell Smash"
+        ],
+        "ability": "Weak Armor"
+      }
+    ]
+  },
+  {
+    "trainer": "Hiker Brice",
+    "pokemon_list": [
+      {
+        "pokemon": "Bronzong",
+        "item": "Colbur Berry",
+        "moves": [
+          "Future Sight",
+          "Gyro Ball",
+          "Explosion",
+          "Trick Room"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Solrock",
+        "item": "Room Service",
+        "moves": [
+          "Stone Edge",
+          "Earthquake",
+          "Acrobatics",
+          "Trick Room"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Lunatone",
+        "item": "Room Service",
+        "moves": [
+          "Psychic",
+          "Power Gem",
+          "Explosion",
+          "Trick Room"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Camerupt",
+        "item": "Fire Gem",
+        "moves": [
+          "Eruption",
+          "Earth Power",
+          "Flamethrower",
+          "Rock Slide"
+        ],
+        "ability": "Solid Rock"
+      }
+    ]
+  },
+  {
+    "trainer": "Picnicker Carol",
+    "pokemon_list": [
+      {
+        "pokemon": "Dubwool",
+        "item": "Assault Vest",
+        "moves": [
+          "Mega Kick",
+          "Zen Headbutt",
+          "Payback",
+          "Counter"
+        ],
+        "ability": "Fluffy"
+      },
+      {
+        "pokemon": "Ampharos",
+        "item": "Shuca Berry",
+        "moves": [
+          "Thunderbolt",
+          "Focus Blast",
+          "Hidden Power Ice",
+          "Agility"
+        ],
+        "ability": "Static"
+      },
+      {
+        "pokemon": "Spinda",
+        "item": "Chople Berry",
+        "moves": [
+          "Dizzy Punch",
+          "Superpower",
+          "Psycho Cut",
+          "Hypnosis"
+        ],
+        "ability": "Contrary"
+      }
+    ]
+  }
+]

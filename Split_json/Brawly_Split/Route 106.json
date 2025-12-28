@@ -1,0 +1,86 @@
+[
+  {
+    "trainer": "Fisherman Elliot",
+    "pokemon_list": [
+      {
+        "pokemon": "Staryu",
+        "item": "Mystic Water",
+        "moves": [
+          "Water Pulse",
+          "Aurora Beam",
+          "Psybeam",
+          "Shock Wave"
+        ],
+        "ability": "Natural Cure"
+      },
+      {
+        "pokemon": "Lombre",
+        "item": "Lum Berry",
+        "moves": [
+          "Giga Drain",
+          "Bubble Beam",
+          "Seismic Toss",
+          "Teeter Dance"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Arrokuda",
+        "item": "Flying Gem",
+        "moves": [
+          "Aqua Jet",
+          "Bite",
+          "Peck",
+          "Laser Focus"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Ruin Maniac Georgie",
+    "pokemon_list": [
+      {
+        "pokemon": "Dwebble",
+        "item": "Berry Juice",
+        "moves": [
+          "Bug Bite",
+          "Rock Blast",
+          "Knock Off",
+          "Sticky Web"
+        ],
+        "ability": "Weak Armor"
+      },
+      {
+        "pokemon": "Sandygast",
+        "item": "Lum Berry",
+        "moves": [
+          "Bulldoze",
+          "Astonish",
+          "Mega Drain",
+          "Hypnosis"
+        ],
+        "ability": "Water Compaction"
+      },
+      {
+        "pokemon": "Mawile",
+        "item": "Leftovers",
+        "moves": [
+          "Covet",
+          "Metal Claw",
+          "Fire Fang"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Munchlax",
+        "item": "Salac Berry",
+        "moves": [
+          "Headbutt",
+          "Belly Drum"
+        ],
+        "ability": "Gluttony"
+      }
+    ]
+  }
+]

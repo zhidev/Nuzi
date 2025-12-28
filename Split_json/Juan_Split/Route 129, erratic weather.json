@@ -1,0 +1,286 @@
+[
+  {
+    "trainer": "Swimmer\u2642 Reed",
+    "pokemon_list": [
+      {
+        "pokemon": "Stunfisk",
+        "item": "Shuca Berry",
+        "moves": [
+          "Earth Power",
+          "Discharge",
+          "Foul Play",
+          "Stealth Rock"
+        ],
+        "ability": "Static"
+      },
+      {
+        "pokemon": "Greninja",
+        "item": "Focus Sash",
+        "moves": [
+          "Dark Pulse",
+          "Gunk Shot",
+          "Hidden Power Fire",
+          "Spikes"
+        ],
+        "ability": "Protean"
+      },
+      {
+        "pokemon": "Cloyster",
+        "item": "White Herb",
+        "moves": [
+          "Icicle Spear",
+          "Weather Ball",
+          "Rock Blast",
+          "Shell Smash"
+        ],
+        "ability": "Skill Link"
+      },
+      {
+        "pokemon": "Archeops",
+        "item": "Power Herb",
+        "moves": [
+          "Meteor Beam",
+          "Air Slash",
+          "Heat Wave",
+          "Endeavor"
+        ],
+        "ability": "Defeatist"
+      },
+      {
+        "pokemon": "Arcanine",
+        "item": "Leftovers",
+        "moves": [
+          "Flamethrower",
+          "Solar Beam",
+          "Scorching Sands",
+          "Roar"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Jolteon",
+        "item": "Life Orb",
+        "moves": [
+          "Thunderbolt",
+          "Volt Switch",
+          "Hidden Power Grass",
+          "Weather Ball"
+        ],
+        "ability": "Volt Absorb"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Chase [Double Battle With Triathlete Allison]",
+    "pokemon_list": [
+      {
+        "pokemon": "Coalossal",
+        "item": "Weakness Policy",
+        "moves": [
+          "Burn Up",
+          "Stone Edge",
+          "Heat Wave",
+          "Solar Beam"
+        ],
+        "ability": "Steam Engine"
+      },
+      {
+        "pokemon": "Heliolisk",
+        "item": "Life Orb",
+        "moves": [
+          "Thunderbolt",
+          "Dragon Pulse",
+          "Weather Ball",
+          "Grass Knot"
+        ],
+        "ability": "Solar Power"
+      },
+      {
+        "pokemon": "Lapras",
+        "item": "Ice Gem",
+        "moves": [
+          "Ice Beam",
+          "Freeze Dry",
+          "Solar Beam",
+          "Weather Ball"
+        ],
+        "ability": "Shell Armor"
+      },
+      {
+        "pokemon": "Bruxish",
+        "item": "Light Clay",
+        "moves": [
+          "Psychic Fangs",
+          "Aqua Jet",
+          "Light Screen",
+          "Reflect"
+        ],
+        "ability": "Dazzling"
+      },
+      {
+        "pokemon": "Toucannon",
+        "item": "Life Orb",
+        "moves": [
+          "Brave Bird",
+          "Heat Wave",
+          "Bullet Seed",
+          "Tailwind"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Nidoking",
+        "item": "Focus Sash",
+        "moves": [
+          "Sludge Bomb",
+          "Earth Power",
+          "Flamethrower",
+          "Thunderbolt"
+        ],
+        "ability": "Sheer Force"
+      }
+    ]
+  },
+  {
+    "trainer": "Swimmer\u2640 Tisha",
+    "pokemon_list": [
+      {
+        "pokemon": "Copperajah",
+        "item": "Focus Sash",
+        "moves": [
+          "Heavy Slam",
+          "Power Whip",
+          "Earthquake",
+          "Stealth Rock"
+        ],
+        "ability": "Heavy Metal"
+      },
+      {
+        "pokemon": "Vaporeon",
+        "item": "Leftovers",
+        "moves": [
+          "Scald",
+          "Acid Armor",
+          "Baton Pass",
+          "Rest"
+        ],
+        "ability": "Hydration"
+      },
+      {
+        "pokemon": "Comfey",
+        "item": "Pixie Plate",
+        "moves": [
+          "Dazzling Gleam",
+          "Draining Kiss",
+          "Calm Mind",
+          "Leech Seed"
+        ],
+        "ability": "Triage"
+      },
+      {
+        "pokemon": "Falinks",
+        "item": "Lum Berry",
+        "moves": [
+          "Close Combat",
+          "Poison Jab",
+          "Throat Chop",
+          "No Retreat"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Beartic",
+        "item": "Life Orb",
+        "moves": [
+          "Icicle Crash",
+          "Liquidation",
+          "Body Press",
+          "Throat Chop"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Poliwrath",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Liquidation",
+          "Drain Punch",
+          "Belly Drum",
+          "Hypnosis"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Swimmer\u2642 Clarence",
+    "pokemon_list": [
+      {
+        "pokemon": "Dragonite",
+        "item": "Yache Berry",
+        "moves": [
+          "Dragon Claw",
+          "Hurricane",
+          "Hydro Pump",
+          "Thunder"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Magnezone",
+        "item": "Custap Berry",
+        "moves": [
+          "Thunder",
+          "Flash Cannon",
+          "Explosion",
+          "Hidden Power Grass"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Jynx",
+        "item": "Focus Sash",
+        "moves": [
+          "Psychic",
+          "Freeze Dry",
+          "Aura Sphere",
+          "Nasty Plot"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Armaldo",
+        "item": "Lum Berry",
+        "moves": [
+          "Stone Edge",
+          "Leech Life",
+          "Earthquake",
+          "Swords Dance"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Tentacruel",
+        "item": "Black Sludge",
+        "moves": [
+          "Scald",
+          "Protect",
+          "Substitute",
+          "Toxic"
+        ],
+        "ability": "Rain Dish"
+      },
+      {
+        "pokemon": "Seismitoad",
+        "item": "Life Orb",
+        "moves": [
+          "Earth Power",
+          "Power Whip",
+          "Sludge Bomb",
+          "Weather Ball"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  }
+]

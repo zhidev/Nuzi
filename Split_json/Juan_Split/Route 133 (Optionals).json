@@ -1,0 +1,73 @@
+[
+  {
+    "trainer": "Expert Mollie [Double Battle With Expert Conor]",
+    "pokemon_list": [
+      {
+        "pokemon": "Gyarados",
+        "item": "Power Herb",
+        "moves": [
+          "Bounce",
+          "Waterfall",
+          "Power Whip",
+          "Icy Wind"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Weezing_Galarian",
+        "item": "Black Sludge",
+        "moves": [
+          "Sludge Bomb",
+          "Strange Steam",
+          "Fire Blast",
+          "Will O Wisp"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Braviary",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Double Edge",
+          "Dual Wingbeat",
+          "Close Combat",
+          "Tailwind"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Manectric",
+        "item": "Life Orb",
+        "moves": [
+          "Thunderbolt",
+          "Flamethrower",
+          "Hidden Power Grass",
+          "Protect"
+        ],
+        "ability": "Lightning Rod"
+      },
+      {
+        "pokemon": "Dugtrio",
+        "item": "Focus Sash",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Pursuit",
+          "Reversal"
+        ],
+        "ability": "Arena Trap"
+      },
+      {
+        "pokemon": "Gyarados",
+        "item": "Gyaradosite",
+        "moves": [
+          "Crunch",
+          "Waterfall",
+          "Dragon Dance",
+          "Protect"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  }
+]

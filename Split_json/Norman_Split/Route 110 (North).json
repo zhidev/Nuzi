@@ -1,0 +1,89 @@
+[
+  {
+    "trainer": "Fisherman Dale",
+    "pokemon_list": [
+      {
+        "pokemon": "Golduck",
+        "item": "Fighting Gem",
+        "moves": [
+          "Hydro Pump",
+          "Cross Chop",
+          "Ice Beam",
+          "Psychic"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Dewgong",
+        "item": "Bug Gem",
+        "moves": [
+          "Hydro Pump",
+          "Freeze Dry",
+          "Ice Shard",
+          "Megahorn"
+        ],
+        "ability": "Thick Fat"
+      },
+      {
+        "pokemon": "Swanna",
+        "item": "Bright Powder",
+        "moves": [
+          "Hurricane",
+          "Hydro Pump",
+          "Aqua Jet",
+          "Endeavor"
+        ],
+        "ability": "Keen Eye"
+      },
+      {
+        "pokemon": "Kingdra",
+        "item": "Normal Gem",
+        "moves": [
+          "Waterfall",
+          "Breaking Swipe",
+          "Double Edge",
+          "Rain Dance"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Psychic Edward",
+    "pokemon_list": [
+      {
+        "pokemon": "Chimecho",
+        "item": "Assault Vest",
+        "moves": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Shadow Ball",
+          "Charge Beam"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Girafarig",
+        "item": "Lum Berry",
+        "moves": [
+          "Hyper Voice",
+          "Psyshock",
+          "Foul Play",
+          "Hypnosis"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Swoobat",
+        "item": "Focus Sash",
+        "moves": [
+          "Extrasensory",
+          "Air Slash",
+          "Stored Power",
+          "Calm Mind"
+        ],
+        "ability": "Simple"
+      }
+    ]
+  }
+]

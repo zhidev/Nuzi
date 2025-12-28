@@ -1,0 +1,73 @@
+[
+  {
+    "trainer": "Ruin Maniac Garrison [Double Battle With Tuber Jani]",
+    "pokemon_list": [
+      {
+        "pokemon": "Beheeyem",
+        "item": "Power Herb",
+        "moves": [
+          "Psychic",
+          "Meteor Beam",
+          "Shadow Ball",
+          "Trick Room"
+        ],
+        "ability": "Synchronize"
+      },
+      {
+        "pokemon": "Trapinch",
+        "item": "Ground Gem",
+        "moves": [
+          "High Horsepower",
+          "First Impression",
+          "Quick Attack",
+          "Protect"
+        ],
+        "ability": "Arena Trap"
+      },
+      {
+        "pokemon": "Mimikyu",
+        "item": "Life Orb",
+        "moves": [
+          "Play Rough",
+          "Shadow Claw",
+          "Destiny Bond",
+          "Trick Room"
+        ],
+        "ability": "Disguise"
+      },
+      {
+        "pokemon": "Audino",
+        "item": "Audinite",
+        "moves": [
+          "Moonblast",
+          "Follow Me",
+          "Life Dew",
+          "Trick Room"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Gallade",
+        "item": "Room Service",
+        "moves": [
+          "Close Combat",
+          "Zen Headbutt",
+          "Bulk Up",
+          "Trick Room"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Gardevoir",
+        "item": "Room Service",
+        "moves": [
+          "Moonblast",
+          "Psychic",
+          "Calm Mind",
+          "Trick Room"
+        ],
+        "ability": "Synchronize"
+      }
+    ]
+  }
+]

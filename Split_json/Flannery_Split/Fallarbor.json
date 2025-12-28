@@ -1,0 +1,73 @@
+[
+  {
+    "trainer": "Winstrate Vito [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Alakazam",
+        "item": "Focus Sash",
+        "moves": [
+          "Psychic",
+          "Aura Sphere",
+          "Shadow Ball",
+          "Charge Beam"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Crobat",
+        "item": "Lum Berry",
+        "moves": [
+          "Sludge Bomb",
+          "Heat Wave",
+          "Giga Drain",
+          "Nasty Plot"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Breloom",
+        "item": "Fighting Gem",
+        "moves": [
+          "Sky Uppercut",
+          "Mach Punch",
+          "Bullet Seed",
+          "Spore"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Crawdaunt",
+        "item": "Water Gem",
+        "moves": [
+          "Crabhammer",
+          "Knock Off",
+          "Aqua Jet",
+          "Close Combat"
+        ],
+        "ability": "Adaptability"
+      },
+      {
+        "pokemon": "Swellow",
+        "item": "Life Orb",
+        "moves": [
+          "Boomburst",
+          "Brave Bird",
+          "Heat Wave",
+          "Quick Attack"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Aggron",
+        "item": "Aggronite",
+        "moves": [
+          "Iron Head",
+          "Earthquake",
+          "Body Press",
+          "Autotomize"
+        ],
+        "ability": "Sturdy"
+      }
+    ]
+  }
+]

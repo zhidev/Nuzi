@@ -1,0 +1,73 @@
+[
+  {
+    "trainer": "Swimmer\u2642 Dean",
+    "pokemon_list": [
+      {
+        "pokemon": "Crustle",
+        "item": "White Herb",
+        "moves": [
+          "Stone Edge",
+          "Leech Life",
+          "Earthquake",
+          "Shell Smash"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Turtonator",
+        "item": "White Herb",
+        "moves": [
+          "Flamethrower",
+          "Dragon Pulse",
+          "Scorching Sands",
+          "Shell Smash"
+        ],
+        "ability": "Shell Armor"
+      },
+      {
+        "pokemon": "Polteageist",
+        "item": "White Herb",
+        "moves": [
+          "Shadow Ball",
+          "Giga Drain",
+          "Stored Power",
+          "Shell Smash"
+        ],
+        "ability": "Cursed Body"
+      },
+      {
+        "pokemon": "Minior",
+        "item": "Flying Gem",
+        "moves": [
+          "Stone Edge",
+          "Acrobatics",
+          "Earthquake",
+          "Shell Smash"
+        ],
+        "ability": "Shields Down"
+      },
+      {
+        "pokemon": "Shuckle",
+        "item": "Leftovers",
+        "moves": [
+          "Infestation",
+          "Knock Off",
+          "Rest",
+          "Shell Smash"
+        ],
+        "ability": "Contrary"
+      },
+      {
+        "pokemon": "Smeargle",
+        "item": "Focus Sash",
+        "moves": [
+          "Boomburst",
+          "Dark Pulse",
+          "Shell Smash",
+          "Spore"
+        ],
+        "ability": "Moody"
+      }
+    ]
+  }
+]

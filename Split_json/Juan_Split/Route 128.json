@@ -1,0 +1,73 @@
+[
+  {
+    "trainer": "Swimmer\u2640 Carlee [Double Battle With Swimmer\u2642 Harrison]",
+    "pokemon_list": [
+      {
+        "pokemon": "Samurott_Hisuian",
+        "item": "Assault Vest",
+        "moves": [
+          "Hydro Pump",
+          "Dark Pulse",
+          "Icy Wind",
+          "Grass Knot"
+        ],
+        "ability": "Torrent"
+      },
+      {
+        "pokemon": "Decidueye_Hisuian",
+        "item": "Fighting Gem",
+        "moves": [
+          "Close Combat",
+          "Leaf Blade",
+          "Knock Off",
+          "Tailwind"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Typhlosion_Hisuian",
+        "item": "Fire Gem",
+        "moves": [
+          "Fire Blast",
+          "Heat Wave",
+          "Shadow Ball",
+          "Protect"
+        ],
+        "ability": "Blaze"
+      },
+      {
+        "pokemon": "Alakazam",
+        "item": "Focus Sash",
+        "moves": [
+          "Psychic",
+          "Focus Blast",
+          "Light Screen",
+          "Reflect"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Lapras",
+        "item": "Leftovers",
+        "moves": [
+          "Blizzard",
+          "Scald",
+          "Freeze Dry",
+          "Sheer Cold"
+        ],
+        "ability": "Water Absorb"
+      },
+      {
+        "pokemon": "Volcarona",
+        "item": "Charti Berry",
+        "moves": [
+          "Heat Wave",
+          "Bug Buzz",
+          "Giga Drain",
+          "Quiver Dance"
+        ],
+        "ability": "Flame Body"
+      }
+    ]
+  }
+]

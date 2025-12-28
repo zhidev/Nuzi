@@ -1,0 +1,100 @@
+[
+  {
+    "trainer": "Kindler Bryant [Double Battle With Aroma Lady Shayla]",
+    "pokemon_list": [
+      {
+        "pokemon": "Torkoal",
+        "item": "Lum Berry",
+        "moves": [
+          "Heat Wave",
+          "Body Press",
+          "Scorching Sands",
+          "Stealth Rock"
+        ],
+        "ability": "Drought"
+      },
+      {
+        "pokemon": "Charizard",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Heat Wave",
+          "Flamethrower",
+          "Air Slash",
+          "Solar Beam"
+        ],
+        "ability": "Solar Power"
+      },
+      {
+        "pokemon": "Leafeon",
+        "item": "Grass Gem",
+        "moves": [
+          "Solar Blade",
+          "Knock Off",
+          "Fake Tears",
+          "Grass Whistle"
+        ],
+        "ability": "Chlorophyll"
+      },
+      {
+        "pokemon": "Venusaur",
+        "item": "Life Orb",
+        "moves": [
+          "Petal Blizzard",
+          "Sludge Bomb",
+          "Earthquake",
+          "Weather Ball"
+        ],
+        "ability": "Chlorophyll"
+      }
+    ]
+  },
+  {
+    "trainer": "Camper Merc",
+    "pokemon_list": [
+      {
+        "pokemon": "Primeape",
+        "item": "Expert Belt",
+        "moves": [
+          "Close Combat",
+          "Stone Edge",
+          "Earthquake",
+          "Poison Jab"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Drapion",
+        "item": "Dark Gem",
+        "moves": [
+          "Cross Poison",
+          "Pursuit",
+          "Earthquake",
+          "Rock Slide"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Trevenant",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Horn Leech",
+          "Shadow Claw",
+          "Substitute",
+          "Will O Wisp"
+        ],
+        "ability": "Harvest"
+      },
+      {
+        "pokemon": "Scyther",
+        "item": "Eviolite",
+        "moves": [
+          "Dual Wingbeat",
+          "Bug Bite",
+          "Brick Break",
+          "Swords Dance"
+        ],
+        "ability": "Technician"
+      }
+    ]
+  }
+]

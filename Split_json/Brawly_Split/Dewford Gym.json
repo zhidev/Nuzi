@@ -1,0 +1,291 @@
+[
+  {
+    "trainer": "Battle Girl Laura",
+    "pokemon_list": [
+      {
+        "pokemon": "Riolu",
+        "item": "Eviolite",
+        "moves": [
+          "Force Palm",
+          "Body Slam"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Stufful",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Body Slam",
+          "Force Palm",
+          "Bulk Up"
+        ],
+        "ability": "Fluffy"
+      },
+      {
+        "pokemon": "Mankey",
+        "item": "Lum Berry",
+        "moves": [
+          "Outrage",
+          "Thrash",
+          "Stomping Tantrum",
+          "Smelling Salts"
+        ],
+        "ability": "Defiant"
+      }
+    ]
+  },
+  {
+    "trainer": "Sailor Brenden",
+    "pokemon_list": [
+      {
+        "pokemon": "Farfetchd_Galarian",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Rock Smash",
+          "Knock Off",
+          "Dual Wingbeat",
+          "Quick Attack"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Heracross",
+        "item": "Lum Berry",
+        "moves": [
+          "Pin Missile",
+          "Rock Smash"
+        ],
+        "ability": "Swarm"
+      }
+    ]
+  },
+  {
+    "trainer": "Battle Girl Lilith",
+    "pokemon_list": [
+      {
+        "pokemon": "Makuhita",
+        "item": "Flame Orb",
+        "moves": [
+          "Arm Thrust",
+          "Rock Throw",
+          "Bullet Punch",
+          "Fake Out"
+        ],
+        "ability": "Guts"
+      },
+      {
+        "pokemon": "Mankey",
+        "item": "Focus Sash",
+        "moves": [
+          "Power Up Punch",
+          "Reversal"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Ledian",
+        "item": "Muscle Band",
+        "moves": [
+          "Drain Punch",
+          "Thunder Punch",
+          "Ice Punch",
+          "Mach Punch"
+        ],
+        "ability": "Iron Fist"
+      }
+    ]
+  },
+  {
+    "trainer": "Black Belt Cristian",
+    "pokemon_list": [
+      {
+        "pokemon": "Meditite",
+        "item": "Coba Berry",
+        "moves": [
+          "Brick Break",
+          "Rock Throw",
+          "Fake Out",
+          "Detect"
+        ],
+        "ability": "Pure Power"
+      },
+      {
+        "pokemon": "Machoke",
+        "item": "Leftovers",
+        "moves": [
+          "Vital Throw",
+          "Facade",
+          "Bulk Up",
+          "Protect"
+        ],
+        "ability": "Guts"
+      },
+      {
+        "pokemon": "Gurdurr",
+        "item": "Black Belt",
+        "moves": [
+          "Low Sweep",
+          "Mach Punch",
+          "Bulldoze",
+          "Rock Throw"
+        ],
+        "ability": "Guts"
+      }
+    ]
+  },
+  {
+    "trainer": "Black Belt Takao",
+    "pokemon_list": [
+      {
+        "pokemon": "Breloom",
+        "item": "Toxic Orb",
+        "moves": [
+          "Wake Up Slap",
+          "Bullet Seed",
+          "Mach Punch",
+          "Spore"
+        ],
+        "ability": "Poison Heal"
+      },
+      {
+        "pokemon": "Mienfoo",
+        "item": "Black Belt",
+        "moves": [
+          "Drain Punch",
+          "Rock Slide",
+          "Fake Out",
+          "Detect"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Buneary",
+        "item": "Wide Lens",
+        "moves": [
+          "Fake Out",
+          "Jump Kick",
+          "Triple Axel"
+        ],
+        "ability": "Cute Charm"
+      }
+    ]
+  },
+  {
+    "trainer": "Battle Girl Jocelyn",
+    "pokemon_list": [
+      {
+        "pokemon": "Kecleon",
+        "item": "Lum Berry",
+        "moves": [
+          "Drain Punch",
+          "Dizzy Punch",
+          "Shadow Punch",
+          "Thunder Wave"
+        ],
+        "ability": "Protean"
+      },
+      {
+        "pokemon": "Golett",
+        "item": "Eviolite",
+        "moves": [
+          "Shadow Punch",
+          "Mega Punch",
+          "Drain Punch"
+        ],
+        "ability": "Iron Fist"
+      },
+      {
+        "pokemon": "Pignite",
+        "item": "Lum Berry",
+        "moves": [
+          "Incinerate",
+          "Flame Charge",
+          "Arm Thrust",
+          "Take Down"
+        ],
+        "ability": "Blaze"
+      },
+      {
+        "pokemon": "Hakamo_O",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Dragon Breath",
+          "Dragon Tail",
+          "Iron Defense",
+          "Protect"
+        ],
+        "ability": "Overcoat"
+      }
+    ]
+  },
+  {
+    "trainer": "Leader Brawly [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Kubfu",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Brick Break",
+          "Mega Punch",
+          "Zen Headbutt",
+          "Sucker Punch"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Lopunny",
+        "item": "Eject Button",
+        "moves": [
+          "Retaliate",
+          "Headbutt",
+          "Drain Punch"
+        ],
+        "ability": "Limber"
+      },
+      {
+        "pokemon": "Combusken",
+        "item": "Lum Berry",
+        "moves": [
+          "Double Kick",
+          "Incinerate",
+          "Thunder Punch",
+          "Work Up"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Hitmontop",
+        "item": "Protective Pads",
+        "moves": [
+          "Mach Punch",
+          "Rock Slide",
+          "Fake Out",
+          "Pursuit"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Poliwhirl",
+        "item": "Expert Belt",
+        "moves": [
+          "Bubble Beam",
+          "Ice Beam",
+          "Hidden Power Grass",
+          "Superpower"
+        ],
+        "ability": "Water Absorb"
+      },
+      {
+        "pokemon": "Scraggy",
+        "item": "Eviolite",
+        "moves": [
+          "Feint Attack",
+          "Power Up Punch",
+          "Rock Tomb",
+          "Rest"
+        ],
+        "ability": "Shed Skin"
+      }
+    ]
+  }
+]

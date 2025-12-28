@@ -1,0 +1,630 @@
+[
+  {
+    "trainer": "Psychic Jaclyn",
+    "pokemon_list": [
+      {
+        "pokemon": "Venomoth",
+        "item": "Lum Berry",
+        "moves": [
+          "Bug Buzz",
+          "Sludge Bomb",
+          "Energy Ball",
+          "Psychic"
+        ],
+        "ability": "Tinted Lens"
+      },
+      {
+        "pokemon": "Xatu",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Extrasensory",
+          "Drill Peck",
+          "Heat Wave",
+          "Light Screen"
+        ],
+        "ability": "Magic Bounce"
+      },
+      {
+        "pokemon": "Grumpig",
+        "item": "Salac Berry",
+        "moves": [
+          "Extrasensory",
+          "Focus Blast",
+          "Power Gem",
+          "Reflect"
+        ],
+        "ability": "Gluttony"
+      },
+      {
+        "pokemon": "Gallade",
+        "item": "Lum Berry",
+        "moves": [
+          "Drain Punch",
+          "Psycho Cut",
+          "Shadow Sneak",
+          "Bulk Up"
+        ],
+        "ability": "Inner Focus"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Abigail",
+    "pokemon_list": [
+      {
+        "pokemon": "Mienshao",
+        "item": "Wide Lens",
+        "moves": [
+          "Jump Kick",
+          "Stone Edge",
+          "Blaze Kick",
+          "Bounce"
+        ],
+        "ability": "Reckless"
+      },
+      {
+        "pokemon": "Ninjask",
+        "item": "Choice Band",
+        "moves": [
+          "U Turn"
+        ],
+        "ability": "Infiltrator"
+      },
+      {
+        "pokemon": "Dugtrio",
+        "item": "Life Orb",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Night Slash",
+          "Swagger"
+        ],
+        "ability": "Arena Trap"
+      },
+      {
+        "pokemon": "Magneton",
+        "item": "Eviolite",
+        "moves": [
+          "Thunderbolt",
+          "Flash Cannon",
+          "Body Press",
+          "Screech"
+        ],
+        "ability": "Magnet Pull"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Anthony",
+    "pokemon_list": [
+      {
+        "pokemon": "Luxray",
+        "item": "Lum Berry",
+        "moves": [
+          "Zing Zap",
+          "Play Rough",
+          "Crunch",
+          "Agility"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Sharpedo",
+        "item": "Expert Belt",
+        "moves": [
+          "Hydro Pump",
+          "Dark Pulse",
+          "Ice Beam",
+          "Psychic Fangs"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Braviary",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Return",
+          "Dual Wingbeat",
+          "Close Combat",
+          "Agility"
+        ],
+        "ability": "Defiant"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Alyssa",
+    "pokemon_list": [
+      {
+        "pokemon": "Absol",
+        "item": "Focus Sash",
+        "moves": [
+          "Knock Off",
+          "Close Combat",
+          "Play Rough",
+          "Counter"
+        ],
+        "ability": "Super Luck"
+      },
+      {
+        "pokemon": "Meowstic_Female",
+        "item": "Wise Glasses",
+        "moves": [
+          "Psychic",
+          "Thunderbolt",
+          "Shadow Ball",
+          "Signal Beam"
+        ],
+        "ability": "Competitive"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Benjamin",
+    "pokemon_list": [
+      {
+        "pokemon": "Pachirisu",
+        "item": "Light Clay",
+        "moves": [
+          "Nuzzle",
+          "Super Fang",
+          "Light Screen",
+          "Reflect"
+        ],
+        "ability": "Volt Absorb"
+      },
+      {
+        "pokemon": "Unfezant",
+        "item": "Lum Berry",
+        "moves": [
+          "Dual Wingbeat",
+          "Quick Attack",
+          "Night Slash",
+          "Focus Energy"
+        ],
+        "ability": "Super Luck"
+      },
+      {
+        "pokemon": "Raticate",
+        "item": "Flame Orb",
+        "moves": [
+          "Facade",
+          "Quick Attack",
+          "Stomping Tantrum",
+          "Swords Dance"
+        ],
+        "ability": "Guts"
+      },
+      {
+        "pokemon": "Jumpluff",
+        "item": "Flying Gem",
+        "moves": [
+          "Seed Bomb",
+          "Acrobatics",
+          "Spore",
+          "Swords Dance"
+        ],
+        "ability": "Infiltrator"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Jacob",
+    "pokemon_list": [
+      {
+        "pokemon": "Floatzel",
+        "item": "Life Orb",
+        "moves": [
+          "Hydro Pump",
+          "Aqua Jet",
+          "Focus Blast",
+          "Ice Beam"
+        ],
+        "ability": "Water Veil"
+      },
+      {
+        "pokemon": "Sawsbuck",
+        "item": "Power Herb",
+        "moves": [
+          "Headbutt",
+          "Jump Kick",
+          "Bounce",
+          "Swords Dance"
+        ],
+        "ability": "Serene Grace"
+      },
+      {
+        "pokemon": "Salazzle",
+        "item": "Black Sludge",
+        "moves": [
+          "Flamethrower",
+          "Venoshock",
+          "Protect",
+          "Toxic"
+        ],
+        "ability": "Corrosion"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Jasmine",
+    "pokemon_list": [
+      {
+        "pokemon": "Rapidash_Galarian",
+        "item": "Lum Berry",
+        "moves": [
+          "Play Rough",
+          "Zen Headbutt",
+          "Hypnosis",
+          "Will O Wisp"
+        ],
+        "ability": "Pastel Veil"
+      },
+      {
+        "pokemon": "Zoroark",
+        "item": "Black Glasses",
+        "moves": [
+          "Night Daze",
+          "Knock Off",
+          "Flamethrower",
+          "Sludge Bomb"
+        ],
+        "ability": "Illusion"
+      },
+      {
+        "pokemon": "Sirfetchd",
+        "item": "Choice Scarf",
+        "moves": [
+          "Close Combat"
+        ],
+        "ability": "Scrappy"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Trainer May [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Indeedee",
+        "item": "Light Clay",
+        "moves": [
+          "Hyper Voice",
+          "Expanding Force",
+          "Light Screen",
+          "Reflect"
+        ],
+        "ability": "Psychic Surge"
+      },
+      {
+        "pokemon": "Sceptile",
+        "item": "White Herb",
+        "moves": [
+          "Leaf Storm",
+          "Leaf Blade",
+          "Acrobatics",
+          "Nature Power"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Houndoom",
+        "item": "Power Herb",
+        "moves": [
+          "Flamethrower",
+          "Dark Pulse",
+          "Pursuit",
+          "Solar Beam"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Kingdra",
+        "item": "Lum Berry",
+        "moves": [
+          "Liquidation",
+          "Breaking Swipe",
+          "Iron Head",
+          "Dragon Dance"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Hawlucha",
+        "item": "Psychic Seed",
+        "moves": [
+          "Drain Punch",
+          "Acrobatics",
+          "Bulk Up",
+          "Roost"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Granbull",
+        "item": "Assault Vest",
+        "moves": [
+          "Play Rough",
+          "Earthquake",
+          "Payback",
+          "Counter"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Trainer May [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Indeedee",
+        "item": "Light Clay",
+        "moves": [
+          "Hyper Voice",
+          "Expanding Force",
+          "Light Screen",
+          "Reflect"
+        ],
+        "ability": "Psychic Surge"
+      },
+      {
+        "pokemon": "Blaziken",
+        "item": "White Herb",
+        "moves": [
+          "Overheat",
+          "Close Combat",
+          "Blaze Kick",
+          "Stone Edge"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Kingdra",
+        "item": "Leftovers",
+        "moves": [
+          "Liquidation",
+          "Scale Shot",
+          "Iron Head",
+          "Dragon Dance"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Tsareena",
+        "item": "Assault Vest",
+        "moves": [
+          "Trop Kick",
+          "Knock Off",
+          "Triple Axel",
+          "Low Kick"
+        ],
+        "ability": "Sweet Veil"
+      },
+      {
+        "pokemon": "Weavile",
+        "item": "Focus Sash",
+        "moves": [
+          "Night Slash",
+          "Pursuit",
+          "Icicle Spear",
+          "Low Kick"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Alcremie",
+        "item": "Psychic Seed",
+        "moves": [
+          "Dazzling Gleam",
+          "Stored Power",
+          "Acid Armor",
+          "Recover"
+        ],
+        "ability": "Sweet Veil"
+      }
+    ]
+  },
+  {
+    "trainer": "Pokemon Trainer May [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Indeedee",
+        "item": "Light Clay",
+        "moves": [
+          "Hyper Voice",
+          "Expanding Force",
+          "Light Screen",
+          "Reflect"
+        ],
+        "ability": "Psychic Surge"
+      },
+      {
+        "pokemon": "Swampert",
+        "item": "Rindo Berry",
+        "moves": [
+          "Earthquake",
+          "Liquidation",
+          "Avalanche",
+          "Curse"
+        ],
+        "ability": "Torrent"
+      },
+      {
+        "pokemon": "Tsareena",
+        "item": "Assault Vest",
+        "moves": [
+          "Trop Kick",
+          "Knock Off",
+          "Triple Axel",
+          "Low Kick"
+        ],
+        "ability": "Sweet Veil"
+      },
+      {
+        "pokemon": "Houndoom",
+        "item": "Power Herb",
+        "moves": [
+          "Flamethrower",
+          "Dark Pulse",
+          "Pursuit",
+          "Solar Beam"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Hawlucha",
+        "item": "Psychic Seed",
+        "moves": [
+          "Close Combat",
+          "Acrobatics",
+          "Zen Headbutt",
+          "Swords Dance"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Gardevoir",
+        "item": "Focus Sash",
+        "moves": [
+          "Moonblast",
+          "Psyshock",
+          "Icy Wind",
+          "Destiny Bond"
+        ],
+        "ability": "Synchronize"
+      }
+    ]
+  },
+  {
+    "trainer": "Pok\u00e9fan Isabel [Double Battle With Pok\u00e9fan Kaleb]",
+    "pokemon_list": [
+      {
+        "pokemon": "Lycanroc_Dusk",
+        "item": "Focus Sash",
+        "moves": [
+          "Rock Slide",
+          "Accelerock",
+          "Stomping Tantrum",
+          "Howl"
+        ],
+        "ability": "Tough Claws"
+      },
+      {
+        "pokemon": "Victreebel",
+        "item": "Salac Berry",
+        "moves": [
+          "Belch",
+          "Leaf Blade",
+          "Poison Jab",
+          "Sleep Powder"
+        ],
+        "ability": "Gluttony"
+      },
+      {
+        "pokemon": "Kangaskhan",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Return",
+          "Fake Out",
+          "Hammer Arm",
+          "Sucker Punch"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Fearow",
+        "item": "Lum Berry",
+        "moves": [
+          "Return",
+          "Drill Peck",
+          "Drill Run",
+          "Assurance"
+        ],
+        "ability": "Sniper"
+      }
+    ]
+  },
+  {
+    "trainer": "Guitarist Brian",
+    "pokemon_list": [
+      {
+        "pokemon": "Exploud",
+        "item": "Choice Scarf",
+        "moves": [
+          "Boomburst"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Chatot",
+        "item": "Lum Berry",
+        "moves": [
+          "Boomburst",
+          "Chatter",
+          "Heat Wave",
+          "Sing"
+        ],
+        "ability": "Keen Eye"
+      },
+      {
+        "pokemon": "Heliolisk",
+        "item": "Lum Berry",
+        "moves": [
+          "Thunderbolt",
+          "Hyper Voice",
+          "Signal Beam",
+          "Grass Knot"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Snorlax",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "ability": "Immunity"
+      }
+    ]
+  },
+  {
+    "trainer": "Collector Edwin",
+    "pokemon_list": [
+      {
+        "pokemon": "Typhlosion",
+        "item": "Charcoal",
+        "moves": [
+          "Eruption",
+          "Flamethrower",
+          "Focus Blast",
+          "Wild Charge"
+        ],
+        "ability": "Blaze"
+      },
+      {
+        "pokemon": "Feraligatr",
+        "item": "Mystic Water",
+        "moves": [
+          "Liquidation",
+          "Crunch",
+          "Scary Face",
+          "Swords Dance"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Meganium",
+        "item": "Miracle Seed",
+        "moves": [
+          "Seed Bomb",
+          "Earthquake",
+          "Body Slam",
+          "Swords Dance"
+        ],
+        "ability": "Thick Fat"
+      }
+    ]
+  }
+]

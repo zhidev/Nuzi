@@ -1,0 +1,149 @@
+[
+  {
+    "trainer": "Cool Trainer Wilton",
+    "pokemon_list": [
+      {
+        "pokemon": "Scizor",
+        "item": "Occa Berry",
+        "moves": [
+          "U Turn",
+          "Bullet Punch",
+          "Dual Wingbeat",
+          "Knock Off"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Tangrowth",
+        "item": "Assault Vest",
+        "moves": [
+          "Leaf Storm",
+          "Power Whip",
+          "Sludge Bomb",
+          "Knock Off"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Golisopod",
+        "item": "Assault Vest",
+        "moves": [
+          "First Impression",
+          "Liquidation",
+          "Leech Life",
+          "Rock Slide"
+        ],
+        "ability": "Emergency Exit"
+      },
+      {
+        "pokemon": "Noctowl",
+        "item": "Blunder Policy",
+        "moves": [
+          "Hurricane",
+          "Hyper Voice",
+          "Heat Wave",
+          "Hypnosis"
+        ],
+        "ability": "Tinted Lens"
+      },
+      {
+        "pokemon": "Dugtrio",
+        "item": "Focus Sash",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Night Slash",
+          "Hone Claws"
+        ],
+        "ability": "Arena Trap"
+      }
+    ]
+  },
+  {
+    "trainer": "Black Belt Daisuke",
+    "pokemon_list": [
+      {
+        "pokemon": "Throh",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Circle Throw",
+          "Facade",
+          "Bulk Up",
+          "Recover"
+        ],
+        "ability": "Guts"
+      },
+      {
+        "pokemon": "Heracross",
+        "item": "Flame Orb",
+        "moves": [
+          "Close Combat",
+          "Megahorn",
+          "Retaliate",
+          "Facade"
+        ],
+        "ability": "Guts"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Brooke",
+    "pokemon_list": [
+      {
+        "pokemon": "Vanilluxe",
+        "item": "Lum Berry",
+        "moves": [
+          "Blizzard",
+          "Freeze Dry",
+          "Ice Shard",
+          "Explosion"
+        ],
+        "ability": "Snow Warning"
+      },
+      {
+        "pokemon": "Tentacruel",
+        "item": "Safety Goggles",
+        "moves": [
+          "Surf",
+          "Poison Jab",
+          "Blizzard",
+          "Toxic Spikes"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Dewgong",
+        "item": "Leftovers",
+        "moves": [
+          "Blizzard",
+          "Drill Run",
+          "Protect",
+          "Substitute"
+        ],
+        "ability": "Ice Body"
+      },
+      {
+        "pokemon": "Magmortar",
+        "item": "Safety Goggles",
+        "moves": [
+          "Flamethrower",
+          "Fire Spin",
+          "Scorching Sands",
+          "Weather Ball"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Beartic",
+        "item": "White Herb",
+        "moves": [
+          "Icicle Spear",
+          "Superpower",
+          "Rock Slide",
+          "Aqua Jet"
+        ],
+        "ability": "Slush Rush"
+      }
+    ]
+  }
+]

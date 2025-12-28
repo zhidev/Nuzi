@@ -1,0 +1,192 @@
+[
+  {
+    "trainer": "Swimmer\u2640 Grace [Double Battle With Swimmer\u2642 Declan]",
+    "pokemon_list": [
+      {
+        "pokemon": "Greninja",
+        "item": "Life Orb",
+        "moves": [
+          "Dark Pulse",
+          "Ice Beam",
+          "Grass Knot",
+          "Mat Block"
+        ],
+        "ability": "Protean"
+      },
+      {
+        "pokemon": "Dhelmise",
+        "item": "Steel Gem",
+        "moves": [
+          "Power Whip",
+          "Grassy Glide",
+          "Shadow Claw",
+          "Steel Roller"
+        ],
+        "ability": "Steelworker"
+      },
+      {
+        "pokemon": "Clawitzer",
+        "item": "Focus Sash",
+        "moves": [
+          "Muddy Water",
+          "Water Pulse",
+          "Dragon Pulse",
+          "Terrain Pulse"
+        ],
+        "ability": "Mega Launcher"
+      },
+      {
+        "pokemon": "Pincurchin",
+        "item": "Electric Gem",
+        "moves": [
+          "Rising Voltage",
+          "Self Destruct",
+          "Muddy Water",
+          "Thunder Wave"
+        ],
+        "ability": "Electric Surge"
+      },
+      {
+        "pokemon": "Rillaboom",
+        "item": "Assault Vest",
+        "moves": [
+          "Grassy Glide",
+          "High Horsepower",
+          "Darkest Lariat",
+          "Fake Out"
+        ],
+        "ability": "Grassy Surge"
+      }
+    ]
+  },
+  {
+    "trainer": "Swimmer\u2642 Cranberry",
+    "pokemon_list": [
+      {
+        "pokemon": "Slurpuff",
+        "item": "Focus Sash",
+        "moves": [
+          "Misty Explosion",
+          "Flamethrower",
+          "Thunderbolt",
+          "Sticky Web"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Nidoqueen",
+        "item": "Life Orb",
+        "moves": [
+          "Sludge Wave",
+          "Earth Power",
+          "Blizzard",
+          "Fire Blast"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Azumarill",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Play Rough",
+          "Aqua Jet",
+          "Ice Punch",
+          "Belly Drum"
+        ],
+        "ability": "Huge Power"
+      },
+      {
+        "pokemon": "Snorlax",
+        "item": "Custap Berry",
+        "moves": [
+          "Body Slam",
+          "Hammer Arm",
+          "Darkest Lariat",
+          "Belly Drum"
+        ],
+        "ability": "Gluttony"
+      },
+      {
+        "pokemon": "Wailord",
+        "item": "Water Gem",
+        "moves": [
+          "Water Spout",
+          "Hydro Pump",
+          "Self Destruct"
+        ],
+        "ability": "Oblivious"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Aubrey",
+    "pokemon_list": [
+      {
+        "pokemon": "Indeedee",
+        "item": "Focus Sash",
+        "moves": [
+          "Expanding Force",
+          "Dazzling Gleam",
+          "Mystical Fire",
+          "Calm Mind"
+        ],
+        "ability": "Psychic Surge"
+      },
+      {
+        "pokemon": "Primarina",
+        "item": "Throat Spray",
+        "moves": [
+          "Hyper Voice",
+          "Draining Kiss",
+          "Psychic",
+          "Sing"
+        ],
+        "ability": "Liquid Voice"
+      },
+      {
+        "pokemon": "Flapple",
+        "item": "Petaya Berry",
+        "moves": [
+          "Dragon Claw",
+          "Grav Apple",
+          "Hidden Power Fire",
+          "Dragon Dance"
+        ],
+        "ability": "Gluttony"
+      },
+      {
+        "pokemon": "Alakazam",
+        "item": "Life Orb",
+        "moves": [
+          "Expanding Force",
+          "Dazzling Gleam",
+          "Recover",
+          "Substitute"
+        ],
+        "ability": "Magic Guard"
+      },
+      {
+        "pokemon": "Weavile",
+        "item": "Dark Gem",
+        "moves": [
+          "Pursuit",
+          "Triple Axel",
+          "Psycho Cut",
+          "Low Kick"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Slowbro",
+        "item": "Psychic Seed",
+        "moves": [
+          "Liquidation",
+          "Body Press",
+          "Curse",
+          "Slack Off"
+        ],
+        "ability": "Oblivious"
+      }
+    ]
+  }
+]

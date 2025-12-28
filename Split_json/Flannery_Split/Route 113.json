@@ -1,0 +1,410 @@
+[
+  {
+    "trainer": "Pok\u00e9maniac Wyatt",
+    "pokemon_list": [
+      {
+        "pokemon": "Heliolisk",
+        "item": "Life Orb",
+        "moves": [
+          "Hyper Voice",
+          "Thunderbolt",
+          "Grass Knot",
+          "Magnet Rise"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Salazzle",
+        "item": "Lum Berry",
+        "moves": [
+          "Flamethrower",
+          "Sludge Bomb",
+          "Hidden Power Grass",
+          "Nasty Plot"
+        ],
+        "ability": "Corrosion"
+      },
+      {
+        "pokemon": "Kecleon",
+        "item": "Assault Vest",
+        "moves": [
+          "Drain Punch",
+          "Knock Off",
+          "Power Up Punch",
+          "Shadow Sneak"
+        ],
+        "ability": "Protean"
+      },
+      {
+        "pokemon": "Dunsparce",
+        "item": "Lum Berry",
+        "moves": [
+          "Headbutt",
+          "Coil",
+          "Glare",
+          "Roost"
+        ],
+        "ability": "Serene Grace"
+      }
+    ]
+  },
+  {
+    "trainer": "Ninja Boy Lao",
+    "pokemon_list": [
+      {
+        "pokemon": "Crobat",
+        "item": "Life Orb",
+        "moves": [
+          "Brave Bird",
+          "Sludge Bomb",
+          "Heat Wave",
+          "Giga Drain"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Muk_Alolan",
+        "item": "Black Sludge",
+        "moves": [
+          "Gunk Shot",
+          "Knock Off",
+          "Ice Punch",
+          "Curse"
+        ],
+        "ability": "Poison Touch"
+      },
+      {
+        "pokemon": "Weezing_Galarian",
+        "item": "Black Sludge",
+        "moves": [
+          "Strange Steam",
+          "Venoshock",
+          "Flamethrower",
+          "Toxic"
+        ],
+        "ability": "Levitate"
+      }
+    ]
+  },
+  {
+    "trainer": "Picnicker Sophie",
+    "pokemon_list": [
+      {
+        "pokemon": "Slurpuff",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Dazzling Gleam",
+          "Flamethrower",
+          "Psychic",
+          "Sticky Web"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Lickilicky",
+        "item": "Lum Berry",
+        "moves": [
+          "Double Edge",
+          "Power Whip",
+          "Brick Break",
+          "Knock Off"
+        ],
+        "ability": "Own Tempo"
+      },
+      {
+        "pokemon": "Appletun",
+        "item": "Starf Berry",
+        "moves": [
+          "Dragon Pulse",
+          "Apple Acid",
+          "Leech Seed",
+          "Recover"
+        ],
+        "ability": "Gluttony"
+      },
+      {
+        "pokemon": "Alcremie_Caramel_Swirl",
+        "item": "Leftovers",
+        "moves": [
+          "Draining Kiss",
+          "Mystical Fire",
+          "Acid Armor",
+          "Calm Mind"
+        ],
+        "ability": "Sweet Veil"
+      }
+    ]
+  },
+  {
+    "trainer": "Ninja Boy Lung",
+    "pokemon_list": [
+      {
+        "pokemon": "Seviper",
+        "item": "Shuca Berry",
+        "moves": [
+          "Sludge Bomb",
+          "Flamethrower",
+          "Giga Drain",
+          "Earthquake"
+        ],
+        "ability": "Shed Skin"
+      },
+      {
+        "pokemon": "Accelgor",
+        "item": "Life Orb",
+        "moves": [
+          "Bug Buzz",
+          "Focus Blast",
+          "Water Shuriken",
+          "Final Gambit"
+        ],
+        "ability": "Sticky Hold"
+      }
+    ]
+  },
+  {
+    "trainer": "Rich Boy Santos",
+    "pokemon_list": [
+      {
+        "pokemon": "Ninetales",
+        "item": "Lum Berry",
+        "moves": [
+          "Flamethrower",
+          "Solar Beam",
+          "Extrasensory",
+          "Hypnosis"
+        ],
+        "ability": "Drought"
+      },
+      {
+        "pokemon": "Mamoswine",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Icicle Crash",
+          "Ice Shard",
+          "Stealth Rock"
+        ],
+        "ability": "Oblivious"
+      },
+      {
+        "pokemon": "Shiftry",
+        "item": "Lum Berry",
+        "moves": [
+          "Solar Blade",
+          "Dark Pulse",
+          "Explosion",
+          "Heat Wave"
+        ],
+        "ability": "Chlorophyll"
+      },
+      {
+        "pokemon": "Typhlosion",
+        "item": "Choice Scarf",
+        "moves": [
+          "Eruption"
+        ],
+        "ability": "Blaze"
+      }
+    ]
+  },
+  {
+    "trainer": "Twins Tori & Tia [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Scrafty",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Close Combat",
+          "Knock Off",
+          "Foul Play",
+          "Fake Out"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Bruxish",
+        "item": "Lum Berry",
+        "moves": [
+          "Psychic Fangs",
+          "Liquidation",
+          "Crunch",
+          "Bulk Up"
+        ],
+        "ability": "Dazzling"
+      },
+      {
+        "pokemon": "Gothitelle",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Psychic",
+          "Signal Beam",
+          "Fake Out",
+          "Hypnosis"
+        ],
+        "ability": "Shadow Tag"
+      },
+      {
+        "pokemon": "Bisharp",
+        "item": "Lum Berry",
+        "moves": [
+          "Iron Head",
+          "Sucker Punch",
+          "Knock Off",
+          "Low Kick"
+        ],
+        "ability": "Defiant"
+      }
+    ]
+  },
+  {
+    "trainer": "Youngster Jaylen",
+    "pokemon_list": [
+      {
+        "pokemon": "Scyther",
+        "item": "Choice Band",
+        "moves": [
+          "U Turn",
+          "Dual Wingbeat"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Talonflame",
+        "item": "Flying Gem",
+        "moves": [
+          "Flare Blitz",
+          "Acrobatics",
+          "Swords Dance",
+          "Will O Wisp"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Tauros",
+        "item": "Lum Berry",
+        "moves": [
+          "Body Slam",
+          "Close Combat",
+          "Zen Headbutt",
+          "Throat Chop"
+        ],
+        "ability": "Sheer Force"
+      }
+    ]
+  },
+  {
+    "trainer": "Bird Keeper Coby",
+    "pokemon_list": [
+      {
+        "pokemon": "Golurk",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Shadow Punch",
+          "Hammer Arm",
+          "Stealth Rock"
+        ],
+        "ability": "Iron Fist"
+      },
+      {
+        "pokemon": "Flapple",
+        "item": "Starf Berry",
+        "moves": [
+          "Dragon Pulse",
+          "Grav Apple",
+          "Acrobatics",
+          "Dragon Dance"
+        ],
+        "ability": "Gluttony"
+      },
+      {
+        "pokemon": "Vikavolt",
+        "item": "Lum Berry",
+        "moves": [
+          "Bug Buzz",
+          "Charge Beam",
+          "Energy Ball",
+          "Agility"
+        ],
+        "ability": "Levitate"
+      }
+    ]
+  },
+  {
+    "trainer": "Parasol Lady Madeline",
+    "pokemon_list": [
+      {
+        "pokemon": "Raichu",
+        "item": "Lum Berry",
+        "moves": [
+          "Thunderbolt",
+          "Grass Knot",
+          "Extreme Speed",
+          "Fake Out"
+        ],
+        "ability": "Lightning Rod"
+      },
+      {
+        "pokemon": "Marowak_Alolan",
+        "item": "Thick Club",
+        "moves": [
+          "Shadow Bone",
+          "Fire Punch",
+          "Bonemerang",
+          "Low Kick"
+        ],
+        "ability": "Lightning Rod"
+      },
+      {
+        "pokemon": "Rhyperior",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "High Horsepower",
+          "Helping Hand"
+        ],
+        "ability": "Lightning Rod"
+      }
+    ]
+  },
+  {
+    "trainer": "Camper Lawrence",
+    "pokemon_list": [
+      {
+        "pokemon": "Staraptor",
+        "item": "White Herb",
+        "moves": [
+          "Dual Wingbeat",
+          "Quick Attack",
+          "Close Combat",
+          "Roost"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Lumineon",
+        "item": "Focus Sash",
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Air Slash",
+          "Flail"
+        ],
+        "ability": "Storm Drain"
+      },
+      {
+        "pokemon": "Gyarados",
+        "item": "Leftovers",
+        "moves": [
+          "Aqua Tail",
+          "Bounce",
+          "Dragon Dance",
+          "Substitute"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  }
+]

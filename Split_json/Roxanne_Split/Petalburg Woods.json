@@ -1,0 +1,88 @@
+[
+  {
+    "trainer": "Bug Catcher Lyle",
+    "pokemon_list": [
+      {
+        "pokemon": "Ariados",
+        "item": "Scope Lens",
+        "moves": [
+          "Cross Poison",
+          "Pin Missile",
+          "Night Slash",
+          "Shadow Sneak"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Kricketune",
+        "item": "Lum Berry",
+        "moves": [
+          "Bug Bite",
+          "Fell Stinger",
+          "Rock Smash",
+          "Aerial Ace"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Ninjask",
+        "item": "White Herb",
+        "moves": [
+          "Leech Life",
+          "Dual Wingbeat",
+          "Giga Drain"
+        ],
+        "ability": "Speed Boost"
+      }
+    ]
+  },
+  {
+    "trainer": "Bug Maniac James",
+    "pokemon_list": [
+      {
+        "pokemon": "Larvesta",
+        "item": "Eviolite",
+        "moves": [
+          "Skitter Smack",
+          "Flame Charge",
+          "Roost",
+          "Will O Wisp"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Vibrava",
+        "item": "Yache Berry",
+        "moves": [
+          "Stomping Tantrum",
+          "Breaking Swipe",
+          "Bug Bite",
+          "Roost"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Shedinja",
+        "item": "Bright Powder",
+        "moves": [
+          "X Scissor",
+          "Hex",
+          "Shadow Sneak",
+          "Will O Wisp"
+        ],
+        "ability": "Wonder Guard"
+      },
+      {
+        "pokemon": "Ribombee",
+        "item": "Wise Glasses",
+        "moves": [
+          "Signal Beam",
+          "Draining Kiss",
+          "Magical Leaf",
+          "Fake Tears"
+        ],
+        "ability": "Shield Dust"
+      }
+    ]
+  }
+]

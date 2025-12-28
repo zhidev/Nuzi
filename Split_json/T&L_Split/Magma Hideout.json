@@ -1,0 +1,948 @@
+[
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Torkoal",
+        "item": "Quick Claw",
+        "moves": [
+          "Fire Blast",
+          "Solar Beam",
+          "Explosion",
+          "Shell Smash"
+        ],
+        "ability": "Drought"
+      },
+      {
+        "pokemon": "Tauros",
+        "item": "Life Orb",
+        "moves": [
+          "Body Slam",
+          "Iron Tail",
+          "Play Rough",
+          "Fire Blast"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Charizard",
+        "item": "Bright Powder",
+        "moves": [
+          "Dual Wingbeat",
+          "Flame Charge",
+          "Earthquake",
+          "Belly Drum"
+        ],
+        "ability": "Blaze"
+      },
+      {
+        "pokemon": "Granbull",
+        "item": "Assault Vest",
+        "moves": [
+          "Play Rough",
+          "Earthquake",
+          "Fire Punch",
+          "Payback"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Arcanine_Hisuian",
+        "item": "Focus Band",
+        "moves": [
+          "Head Smash",
+          "Flare Blitz",
+          "Reversal",
+          "Howl"
+        ],
+        "ability": "Rock Head"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Aggron",
+        "item": "Focus Band",
+        "moves": [
+          "Stone Edge",
+          "Heavy Slam",
+          "Counter",
+          "Stealth Rock"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Seviper",
+        "item": "Quick Claw",
+        "moves": [
+          "Gunk Shot",
+          "Fire Blast",
+          "Earthquake",
+          "Giga Drain"
+        ],
+        "ability": "Shed Skin"
+      },
+      {
+        "pokemon": "Electivire",
+        "item": "Scope Lens",
+        "moves": [
+          "Wild Charge",
+          "Cross Chop",
+          "Ice Punch",
+          "Magnet Rise"
+        ],
+        "ability": "Vital Spirit"
+      },
+      {
+        "pokemon": "Marowak_Alolan",
+        "item": "Thick Club",
+        "moves": [
+          "Flare Blitz",
+          "Shadow Bone",
+          "Earthquake",
+          "Substitute"
+        ],
+        "ability": "Rock Head"
+      },
+      {
+        "pokemon": "Houndoom",
+        "item": "Dark Gem",
+        "moves": [
+          "Flamethrower",
+          "Dark Pulse",
+          "Scorching Sands",
+          "Will O Wisp"
+        ],
+        "ability": "Unnerve"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Nidoking",
+        "item": "Focus Band",
+        "moves": [
+          "Earthquake",
+          "Poison Jab",
+          "Ice Punch",
+          "Stealth Rock"
+        ],
+        "ability": "Poison Point"
+      },
+      {
+        "pokemon": "Camerupt",
+        "item": "Quick Claw",
+        "moves": [
+          "Eruption",
+          "Earthquake",
+          "Explosion",
+          "Stone Edge"
+        ],
+        "ability": "Own Tempo"
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "item": "Kings Rock",
+        "moves": [
+          "Dual Wingbeat",
+          "Rock Blast",
+          "Earthquake",
+          "Fire Fang"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Slaking",
+        "item": "Eject Button",
+        "moves": [
+          "Double Edge",
+          "Retaliate",
+          "Earthquake",
+          "Crunch"
+        ],
+        "ability": "Truant"
+      },
+      {
+        "pokemon": "Zoroark",
+        "item": "Dark Gem",
+        "moves": [
+          "Pursuit",
+          "Fire Blast",
+          "Focus Blast",
+          "Sludge Bomb"
+        ],
+        "ability": "Illusion"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Manectric",
+        "item": "Life Orb",
+        "moves": [
+          "Thunderbolt",
+          "Flamethrower",
+          "Hidden Power Ice",
+          "Double Team"
+        ],
+        "ability": "Static"
+      },
+      {
+        "pokemon": "Pyroar",
+        "item": "Focus Band",
+        "moves": [
+          "Fire Blast",
+          "Hyper Voice",
+          "Fire Spin",
+          "Yawn"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Fearow",
+        "item": "Scope Lens",
+        "moves": [
+          "Brave Bird",
+          "Double Edge",
+          "Quick Attack",
+          "Drill Run"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Absol",
+        "item": "Scope Lens",
+        "moves": [
+          "Night Slash",
+          "Stone Edge",
+          "Psycho Cut",
+          "Fire Blast"
+        ],
+        "ability": "Super Luck"
+      },
+      {
+        "pokemon": "Trapinch",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Crunch",
+          "Leech Life",
+          "Swagger"
+        ],
+        "ability": "Arena Trap"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Druddigon",
+        "item": "Roseli Berry",
+        "moves": [
+          "Dragon Claw",
+          "Gunk Shot",
+          "Fire Blast",
+          "Glare"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Shiftry",
+        "item": "Bright Powder",
+        "moves": [
+          "Leaf Storm",
+          "Leaf Blade",
+          "Night Slash",
+          "Low Kick"
+        ],
+        "ability": "Early Bird"
+      },
+      {
+        "pokemon": "Marowak",
+        "item": "Thick Club",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Fire Punch",
+          "Knock Off"
+        ],
+        "ability": "Battle Armor"
+      },
+      {
+        "pokemon": "Turtonator",
+        "item": "Quick Claw",
+        "moves": [
+          "Flamethrower",
+          "Dragon Pulse",
+          "Explosion",
+          "Shell Smash"
+        ],
+        "ability": "Shell Armor"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Coalossal",
+        "item": "Quick Claw",
+        "moves": [
+          "Burn Up",
+          "Stone Edge",
+          "Explosion",
+          "Stealth Rock"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Flareon",
+        "item": "Toxic Orb",
+        "moves": [
+          "Flare Blitz",
+          "Flame Charge",
+          "Superpower",
+          "Facade"
+        ],
+        "ability": "Guts"
+      },
+      {
+        "pokemon": "Solrock",
+        "item": "Bright Powder",
+        "moves": [
+          "Stone Edge",
+          "Zen Headbutt",
+          "Explosion",
+          "Will O Wisp"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Dracozolt",
+        "item": "Fire Gem",
+        "moves": [
+          "Bolt Beak",
+          "Dragon Claw",
+          "Iron Tail",
+          "Fire Blast"
+        ],
+        "ability": "Hustle"
+      },
+      {
+        "pokemon": "Talonflame",
+        "item": "Focus Band",
+        "moves": [
+          "Brave Bird",
+          "Roost",
+          "Swords Dance",
+          "Will O Wisp"
+        ],
+        "ability": "Flame Body"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt [Double Battle With Team Magma Grunt]",
+    "pokemon_list": [
+      {
+        "pokemon": "Ninetales",
+        "item": "Fire Gem",
+        "moves": [
+          "Heat Wave",
+          "Flamethrower",
+          "Scorching Sands",
+          "Imprison"
+        ],
+        "ability": "Drought"
+      },
+      {
+        "pokemon": "Miltank",
+        "item": "Leftovers",
+        "moves": [
+          "Return",
+          "Body Press",
+          "Curse",
+          "Milk Drink"
+        ],
+        "ability": "Thick Fat"
+      },
+      {
+        "pokemon": "Donphan",
+        "item": "Custap Berry",
+        "moves": [
+          "High Horsepower",
+          "Stone Edge",
+          "Flail",
+          "Natural Gift"
+        ],
+        "ability": "Sturdy"
+      },
+      {
+        "pokemon": "Exeggutor",
+        "item": "Tanga Berry",
+        "moves": [
+          "Solar Beam",
+          "Psychic",
+          "Ancient Power",
+          "Hidden Power Fire"
+        ],
+        "ability": "Chlorophyll"
+      },
+      {
+        "pokemon": "Jumpluff",
+        "item": "Focus Sash",
+        "moves": [
+          "Solar Beam",
+          "Air Slash",
+          "Growth",
+          "Spore"
+        ],
+        "ability": "Leaf Guard"
+      },
+      {
+        "pokemon": "Arcanine",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Flare Blitz",
+          "Close Combat",
+          "Wild Charge",
+          "Scary Face"
+        ],
+        "ability": "Intimidate"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Togekiss",
+        "item": "Scope Lens",
+        "moves": [
+          "Dazzling Gleam",
+          "Air Slash",
+          "Flamethrower",
+          "Aura Sphere"
+        ],
+        "ability": "Super Luck"
+      },
+      {
+        "pokemon": "Seismitoad",
+        "item": "Bright Powder",
+        "moves": [
+          "Earthquake",
+          "Muddy Water",
+          "Sludge Wave",
+          "Stealth Rock"
+        ],
+        "ability": "Water Absorb"
+      },
+      {
+        "pokemon": "Slowbro",
+        "item": "Quick Claw",
+        "moves": [
+          "Psychic",
+          "Flamethrower",
+          "Grass Knot",
+          "Calm Mind"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Electrode",
+        "item": "Bright Powder",
+        "moves": [
+          "Thunderbolt",
+          "Explosion",
+          "Foul Play",
+          "Swagger"
+        ],
+        "ability": "Static"
+      },
+      {
+        "pokemon": "Dhelmise",
+        "item": "Assault Vest",
+        "moves": [
+          "Phantom Force",
+          "Giga Drain",
+          "Anchor Shot",
+          "Whirlpool"
+        ],
+        "ability": "Steelworker"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Silvally_Fire",
+        "item": "Fire Memory",
+        "moves": [
+          "Multi Attack",
+          "Explosion",
+          "Thunderbolt",
+          "Grass Pledge"
+        ],
+        "ability": "RKS System"
+      },
+      {
+        "pokemon": "Zoroark",
+        "item": "Focus Sash",
+        "moves": [
+          "Night Daze",
+          "Fire Blast",
+          "Grass Knot",
+          "Nasty Plot"
+        ],
+        "ability": "Illusion"
+      },
+      {
+        "pokemon": "Flygon",
+        "item": "Bright Powder",
+        "moves": [
+          "Earthquake",
+          "Scale Shot",
+          "Fire Punch",
+          "Dragon Dance"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Skuntank",
+        "item": "Bright Powder",
+        "moves": [
+          "Sludge Bomb",
+          "Dark Pulse",
+          "Explosion",
+          "Fire Blast"
+        ],
+        "ability": "Aftermath"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Weezing_Galarian",
+        "item": "Payapa Berry",
+        "moves": [
+          "Misty Explosion",
+          "Sludge Wave",
+          "Strange Steam",
+          "Fire Blast"
+        ],
+        "ability": "Misty Surge"
+      },
+      {
+        "pokemon": "Muk_Alolan",
+        "item": "Shuca Berry",
+        "moves": [
+          "Gunk Shot",
+          "Knock Off",
+          "Pursuit",
+          "Explosion"
+        ],
+        "ability": "Poison Touch"
+      },
+      {
+        "pokemon": "Cinderace",
+        "item": "Misty Seed",
+        "moves": [
+          "Pyro Ball",
+          "Acrobatics",
+          "Low Kick",
+          "Bulk Up"
+        ],
+        "ability": "Libero"
+      },
+      {
+        "pokemon": "Drampa",
+        "item": "Quick Claw",
+        "moves": [
+          "Hyper Voice",
+          "Flamethrower",
+          "Psychic",
+          "Calm Mind"
+        ],
+        "ability": "Berserk"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Runerigus",
+        "item": "Bright Powder",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Stealth Rock",
+          "Toxic Spikes"
+        ],
+        "ability": "Wandering Spirit"
+      },
+      {
+        "pokemon": "Slowking_Galarian",
+        "item": "Black Sludge",
+        "moves": [
+          "Venoshock",
+          "Fire Blast",
+          "Grass Knot",
+          "Protect"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Chandelure",
+        "item": "Leftovers",
+        "moves": [
+          "Flamethrower",
+          "Hex",
+          "Substitute",
+          "Will O Wisp"
+        ],
+        "ability": "Shadow Tag"
+      },
+      {
+        "pokemon": "Cacturne",
+        "item": "Quick Claw",
+        "moves": [
+          "Dark Pulse",
+          "Seed Bomb",
+          "Drain Punch",
+          "Growth"
+        ],
+        "ability": "Water Absorb"
+      },
+      {
+        "pokemon": "Ninjask",
+        "item": "Focus Band",
+        "moves": [
+          "Dual Wingbeat",
+          "Leech Life",
+          "Protect",
+          "Swords Dance"
+        ],
+        "ability": "Speed Boost"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Kangaskhan",
+        "item": "Silk Scarf",
+        "moves": [
+          "Return",
+          "Fake Out",
+          "Low Kick",
+          "Sing"
+        ],
+        "ability": "Scrappy"
+      },
+      {
+        "pokemon": "Centiskorch",
+        "item": "Leftovers",
+        "moves": [
+          "Fire Lash",
+          "Leech Life",
+          "Coil",
+          "Protect"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Crobat",
+        "item": "Choice Specs",
+        "moves": [
+          "Hurricane",
+          "Sludge Bomb",
+          "Heat Wave",
+          "Hidden Power Grass"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Toxapex",
+        "item": "Black Sludge",
+        "moves": [
+          "Liquidation",
+          "Venoshock",
+          "Toxic",
+          "Recover"
+        ],
+        "ability": "Merciless"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Grimmsnarl",
+        "item": "Kebia Berry",
+        "moves": [
+          "Play Rough",
+          "Darkest Lariat",
+          "Fake Out",
+          "Scary Face"
+        ],
+        "ability": "Prankster"
+      },
+      {
+        "pokemon": "Turtonator",
+        "item": "Eject Pack",
+        "moves": [
+          "Draco Meteor",
+          "Overheat",
+          "Scorching Sands",
+          "Protect"
+        ],
+        "ability": "Shell Armor"
+      },
+      {
+        "pokemon": "Lickilicky",
+        "item": "Quick Claw",
+        "moves": [
+          "Explosion"
+        ],
+        "ability": "Own Tempo"
+      },
+      {
+        "pokemon": "Incineroar",
+        "item": "Assault Vest",
+        "moves": [
+          "Blaze Kick",
+          "Knock Off",
+          "Earthquake",
+          "Fake Out"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Jumpluff",
+        "item": "Leftovers",
+        "moves": [
+          "Air Slash",
+          "Leech Seed",
+          "Spore",
+          "Substitute"
+        ],
+        "ability": "Infiltrator"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Magma Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Galvantula",
+        "item": "Focus Sash",
+        "moves": [
+          "Thunder",
+          "Bug Buzz",
+          "Energy Ball",
+          "Sticky Web"
+        ],
+        "ability": "Compound Eyes"
+      },
+      {
+        "pokemon": "Magmortar",
+        "item": "Choice Specs",
+        "moves": [
+          "Flamethrower",
+          "Psychic",
+          "Thunderbolt",
+          "Scorching Sands"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Ursaring",
+        "item": "Toxic Orb",
+        "moves": [
+          "Facade",
+          "Earthquake",
+          "Crunch",
+          "Protect"
+        ],
+        "ability": "Quick Feet"
+      },
+      {
+        "pokemon": "Arbok",
+        "item": "Bright Powder",
+        "moves": [
+          "Gunk Shot",
+          "Aqua Tail",
+          "Coil",
+          "Glare"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Carnivine",
+        "item": "Scope Lens",
+        "moves": [
+          "Leaf Storm",
+          "Leaf Blade",
+          "Knock Off",
+          "Sleep Powder"
+        ],
+        "ability": "Levitate"
+      }
+    ]
+  },
+  {
+    "trainer": "Magma Admin Tabitha",
+    "pokemon_list": [
+      {
+        "pokemon": "Blacephalon",
+        "item": "Focus Sash",
+        "moves": [
+          "Flamethrower",
+          "Shadow Ball",
+          "Explosion",
+          "Psyshock"
+        ],
+        "ability": "Beast Boost"
+      },
+      {
+        "pokemon": "Hitmonlee",
+        "item": "Normal Gem",
+        "moves": [
+          "Low Kick",
+          "Earthquake",
+          "Stone Edge",
+          "Fake Out"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Yanmega",
+        "item": "Flying Gem",
+        "moves": [
+          "Air Slash",
+          "Giga Drain",
+          "Hidden Power Fire",
+          "Detect"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Snorlax",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Heat Crash",
+          "Curse",
+          "Rest"
+        ],
+        "ability": "Thick Fat"
+      },
+      {
+        "pokemon": "Victini",
+        "item": "Eject Pack",
+        "moves": [
+          "V Create",
+          "Psychic",
+          "Bolt Strike",
+          "Energy Ball"
+        ],
+        "ability": "Victory Star"
+      },
+      {
+        "pokemon": "Absol",
+        "item": "Absolite",
+        "moves": [
+          "Night Slash",
+          "Sucker Punch",
+          "Close Combat",
+          "Swords Dance"
+        ],
+        "ability": "Pressure"
+      }
+    ]
+  },
+  {
+    "trainer": "Magma Leader Maxie [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Groudon",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Precipice Blades",
+          "Stone Edge",
+          "Heat Crash",
+          "Rock Polish"
+        ],
+        "ability": "Drought"
+      },
+      {
+        "pokemon": "Tangrowth",
+        "item": "Life Orb",
+        "moves": [
+          "Solar Beam",
+          "Hidden Power Ice",
+          "Weather Ball",
+          "Sleep Powder"
+        ],
+        "ability": "Chlorophyll"
+      },
+      {
+        "pokemon": "Garchomp",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Earthquake",
+          "Scale Shot",
+          "Stone Edge",
+          "Swords Dance"
+        ],
+        "ability": "Rough Skin"
+      },
+      {
+        "pokemon": "Naganadel",
+        "item": "Choice Scarf",
+        "moves": [
+          "Sludge Wave",
+          "Dragon Pulse",
+          "Flamethrower",
+          "U Turn"
+        ],
+        "ability": "Beast Boost"
+      },
+      {
+        "pokemon": "Mew",
+        "item": "Lum Berry",
+        "moves": [
+          "Psychic Fangs",
+          "Flare Blitz",
+          "Dragon Dance",
+          "Soft Boiled"
+        ],
+        "ability": "Synchronize"
+      },
+      {
+        "pokemon": "Houndoom",
+        "item": "Houndoominite",
+        "moves": [
+          "Flamethrower",
+          "Dark Pulse",
+          "Solar Beam",
+          "Destiny Bond"
+        ],
+        "ability": "Flash Fire"
+      }
+    ]
+  }
+]

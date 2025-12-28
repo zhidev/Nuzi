@@ -1,0 +1,520 @@
+[
+  {
+    "trainer": "Psychic Preston [Double Battle With Psychic Maura]",
+    "pokemon_list": [
+      {
+        "pokemon": "Noivern",
+        "item": "Life Orb",
+        "moves": [
+          "Hurricane",
+          "Focus Blast",
+          "Super Fang",
+          "Tailwind"
+        ],
+        "ability": "Telepathy"
+      },
+      {
+        "pokemon": "Gardevoir",
+        "item": "Lum Berry",
+        "moves": [
+          "Moonblast",
+          "Icy Wind",
+          "Shadow Sneak",
+          "Helping Hand"
+        ],
+        "ability": "Telepathy"
+      },
+      {
+        "pokemon": "Mismagius",
+        "item": "Focus Sash",
+        "moves": [
+          "Shadow Ball",
+          "Shadow Sneak",
+          "Mystical Fire",
+          "Psych Up"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Sylveon",
+        "item": "Fairy Gem",
+        "moves": [
+          "Misty Explosion",
+          "Hyper Voice",
+          "Protect"
+        ],
+        "ability": "Pixilate"
+      },
+      {
+        "pokemon": "Metagross",
+        "item": "Weakness Policy",
+        "moves": [
+          "Meteor Mash",
+          "Zen Headbutt",
+          "Bullet Punch",
+          "Explosion"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Drifblim",
+        "item": "Weakness Policy",
+        "moves": [
+          "Shadow Ball",
+          "Acrobatics",
+          "Explosion",
+          "Silver Wind"
+        ],
+        "ability": "Unburden"
+      }
+    ]
+  },
+  {
+    "trainer": "Psychic Blake [Double Battle With Psychic Samantha]",
+    "pokemon_list": [
+      {
+        "pokemon": "Porygon2",
+        "item": "Eviolite",
+        "moves": [
+          "Tri Attack",
+          "Thunder",
+          "Psychic",
+          "Trick Room"
+        ],
+        "ability": "Download"
+      },
+      {
+        "pokemon": "Jellicent",
+        "item": "Water Gem",
+        "moves": [
+          "Hydro Pump",
+          "Shadow Ball",
+          "Strength Sap",
+          "Trick Room"
+        ],
+        "ability": "Water Absorb"
+      },
+      {
+        "pokemon": "Hatterene",
+        "item": "Fairy Gem",
+        "moves": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Protect",
+          "Trick Room"
+        ],
+        "ability": "Magic Bounce"
+      },
+      {
+        "pokemon": "Perrserker",
+        "item": "Occa Berry",
+        "moves": [
+          "Iron Tail",
+          "Close Combat",
+          "Fake Out",
+          "Metal Sound"
+        ],
+        "ability": "Steely Spirit"
+      },
+      {
+        "pokemon": "Bronzong",
+        "item": "Leftovers",
+        "moves": [
+          "Heavy Slam",
+          "Body Press",
+          "Metal Sound",
+          "Trick Room"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Rampardos",
+        "item": "Choice Band",
+        "moves": [
+          "Head Smash",
+          "Rock Slide"
+        ],
+        "ability": "Sheer Force"
+      }
+    ]
+  },
+  {
+    "trainer": "Psychic Virgil [Double Battle With Gentleman Nate]",
+    "pokemon_list": [
+      {
+        "pokemon": "Krookodile",
+        "item": "Salac Berry",
+        "moves": [
+          "High Horsepower",
+          "Knock Off",
+          "Close Combat",
+          "Fling"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Mienshao",
+        "item": "Salac Berry",
+        "moves": [
+          "Close Combat",
+          "Stone Edge",
+          "Fling",
+          "Psych Up"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Delphox",
+        "item": "Focus Sash",
+        "moves": [
+          "Fire Blast",
+          "Psychic",
+          "Hypnosis",
+          "Psych Up"
+        ],
+        "ability": "Magic Guard"
+      },
+      {
+        "pokemon": "Gothitelle",
+        "item": "Weakness Policy",
+        "moves": [
+          "Psychic",
+          "Stored Power",
+          "Signal Beam",
+          "Fake Out"
+        ],
+        "ability": "Shadow Tag"
+      },
+      {
+        "pokemon": "Flapple",
+        "item": "Liechi Berry",
+        "moves": [
+          "Dragon Claw",
+          "Grav Apple",
+          "Sucker Punch",
+          "Substitute"
+        ],
+        "ability": "Ripen"
+      },
+      {
+        "pokemon": "Venomoth",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Bug Buzz",
+          "Sludge Bomb",
+          "Quiver Dance",
+          "Sleep Powder"
+        ],
+        "ability": "Tinted Lens"
+      }
+    ]
+  },
+  {
+    "trainer": "Psychic Hannah [Double Battle With Battle Girl Sylvia]",
+    "pokemon_list": [
+      {
+        "pokemon": "Meowstic_Female",
+        "item": "Focus Sash",
+        "moves": [
+          "Psychic",
+          "Thunderbolt",
+          "Fake Out",
+          "Imprison"
+        ],
+        "ability": "Competitive"
+      },
+      {
+        "pokemon": "Milotic",
+        "item": "Leftovers",
+        "moves": [
+          "Muddy Water",
+          "Coil",
+          "Hypnosis",
+          "Recover"
+        ],
+        "ability": "Competitive"
+      },
+      {
+        "pokemon": "Purugly",
+        "item": "Silk Scarf",
+        "moves": [
+          "Return",
+          "Fake Out",
+          "Throat Chop",
+          "Leer"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Conkeldurr",
+        "item": "Assault Vest",
+        "moves": [
+          "Hammer Arm",
+          "Mach Punch",
+          "Poison Jab",
+          "Ice Punch"
+        ],
+        "ability": "Iron Fist"
+      },
+      {
+        "pokemon": "Gyarados",
+        "item": "Power Herb",
+        "moves": [
+          "Bounce",
+          "Waterfall",
+          "Dragon Dance",
+          "Protect"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Rapidash_Galarian",
+        "item": "Focus Sash",
+        "moves": [
+          "Play Rough",
+          "Zen Headbutt",
+          "High Horsepower",
+          "Swords Dance"
+        ],
+        "ability": "Pastel Veil"
+      }
+    ]
+  },
+  {
+    "trainer": "Hex Maniac Kathleen [Double Battle With Psychic Nicholas]",
+    "pokemon_list": [
+      {
+        "pokemon": "Crobat",
+        "item": "Flying Gem",
+        "moves": [
+          "Acrobatics",
+          "Super Fang",
+          "Screech",
+          "Tailwind"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Togekiss",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Air Slash",
+          "Heat Wave",
+          "Follow Me",
+          "Tailwind"
+        ],
+        "ability": "Serene Grace"
+      },
+      {
+        "pokemon": "Jynx",
+        "item": "Focus Sash",
+        "moves": [
+          "Blizzard",
+          "Psychic",
+          "Fake Out",
+          "Lovely Kiss"
+        ],
+        "ability": "Dry Skin"
+      },
+      {
+        "pokemon": "Excadrill",
+        "item": "Ground Gem",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "ability": "Mold Breaker"
+      },
+      {
+        "pokemon": "Medicham",
+        "item": "Focus Sash",
+        "moves": [
+          "Close Combat",
+          "Reversal",
+          "Zen Headbutt",
+          "Thunder Punch"
+        ],
+        "ability": "Pure Power"
+      },
+      {
+        "pokemon": "Cinderace",
+        "item": "Life Orb",
+        "moves": [
+          "Pyro Ball",
+          "Zen Headbutt",
+          "Iron Head",
+          "Sucker Punch"
+        ],
+        "ability": "Libero"
+      }
+    ]
+  },
+  {
+    "trainer": "Gentleman Clifford [Double Battle With Psychic Macey]",
+    "pokemon_list": [
+      {
+        "pokemon": "Passimian",
+        "item": "Focus Sash",
+        "moves": [
+          "Close Combat",
+          "Rock Slide",
+          "Poison Jab",
+          "Detect"
+        ],
+        "ability": "Receiver"
+      },
+      {
+        "pokemon": "Greninja",
+        "item": "Expert Belt",
+        "moves": [
+          "Hydro Pump",
+          "Dark Pulse",
+          "Ice Beam",
+          "Low Kick"
+        ],
+        "ability": "Protean"
+      },
+      {
+        "pokemon": "Lycanroc_Dusk",
+        "item": "Life Orb",
+        "moves": [
+          "Stone Edge",
+          "Accelerock",
+          "Close Combat",
+          "Psychic Fangs"
+        ],
+        "ability": "Tough Claws"
+      },
+      {
+        "pokemon": "Marill",
+        "item": "Quick Claw",
+        "moves": [
+          "Misty Explosion"
+        ],
+        "ability": "Huge Power"
+      },
+      {
+        "pokemon": "Tauros",
+        "item": "Dark Gem",
+        "moves": [
+          "Return",
+          "Zen Headbutt",
+          "Lash Out",
+          "Role Play"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Golduck",
+        "item": "Life Orb",
+        "moves": [
+          "Aqua Jet",
+          "Cross Chop",
+          "Zen Headbutt",
+          "Role Play"
+        ],
+        "ability": "Swift Swim"
+      }
+    ]
+  },
+  {
+    "trainer": "Leader Tate [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Azelf",
+        "item": "Focus Sash",
+        "moves": [
+          "Future Sight",
+          "Explosion",
+          "Knock Off",
+          "Stealth Rock"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Latios",
+        "item": "Latiosite",
+        "moves": [
+          "Draco Meteor",
+          "Zen Headbutt",
+          "Earthquake",
+          "Dragon Dance"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Zoroark",
+        "item": "Dark Gem",
+        "moves": [
+          "Night Daze",
+          "Pursuit",
+          "Sludge Bomb",
+          "Aura Sphere"
+        ],
+        "ability": "Illusion"
+      },
+      {
+        "pokemon": "Hoopa",
+        "item": "Leftovers",
+        "moves": [
+          "Hyperspace Hole",
+          "Shadow Ball",
+          "Aura Sphere",
+          "Substitute"
+        ],
+        "ability": "Magician"
+      }
+    ]
+  },
+  {
+    "trainer": "Leader Liza [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Tapu_Lele",
+        "item": "Assault Vest",
+        "moves": [
+          "Moonblast",
+          "Psychic",
+          "Draining Kiss",
+          "Natures Madness"
+        ],
+        "ability": "Psychic Surge"
+      },
+      {
+        "pokemon": "Latias",
+        "item": "Soul Dew",
+        "moves": [
+          "Dragon Pulse",
+          "Aura Sphere",
+          "Mystical Fire",
+          "Calm Mind"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Metagross",
+        "item": "Metagrossite",
+        "moves": [
+          "Meteor Mash",
+          "Zen Headbutt",
+          "Earthquake",
+          "Pursuit"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Hoopa_Unbound",
+        "item": "Focus Sash",
+        "moves": [
+          "Hyperspace Fury",
+          "Zen Headbutt",
+          "Expanding Force",
+          "Aura Sphere"
+        ],
+        "ability": "Magician"
+      }
+    ]
+  }
+]

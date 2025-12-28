@@ -1,0 +1,144 @@
+[
+  {
+    "trainer": "Bird Keeper Presley [Double Battle With Expert Auron]",
+    "pokemon_list": [
+      {
+        "pokemon": "Dragonite",
+        "item": "Lum Berry",
+        "moves": [
+          "Dragon Rush",
+          "Dual Wingbeat",
+          "Low Kick",
+          "Tailwind"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Kleavor",
+        "item": "Life Orb",
+        "moves": [
+          "Rock Slide",
+          "Skitter Smack",
+          "Close Combat",
+          "Tailwind"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Toucannon",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Brave Bird",
+          "Bullet Seed",
+          "Rock Blast",
+          "Tailwind"
+        ],
+        "ability": "Skill Link"
+      },
+      {
+        "pokemon": "Salazzle",
+        "item": "Focus Sash",
+        "moves": [
+          "Fire Blast",
+          "Sludge Bomb",
+          "Fake Out",
+          "Encore"
+        ],
+        "ability": "Corrosion"
+      },
+      {
+        "pokemon": "Rillaboom",
+        "item": "Grass Gem",
+        "moves": [
+          "Wood Hammer",
+          "Grassy Glide",
+          "Acrobatics",
+          "Swords Dance"
+        ],
+        "ability": "Grassy Surge"
+      },
+      {
+        "pokemon": "Manectric",
+        "item": "Manectite",
+        "moves": [
+          "Thunderbolt",
+          "Flamethrower",
+          "Hidden Power Grass",
+          "Protect"
+        ],
+        "ability": "Static"
+      }
+    ]
+  },
+  {
+    "trainer": "Sr. And Jr. Kim & Iris [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Ninetales_Alolan",
+        "item": "Light Clay",
+        "moves": [
+          "Blizzard",
+          "Moonblast",
+          "Icy Wind",
+          "Aurora Veil"
+        ],
+        "ability": "Snow Warning"
+      },
+      {
+        "pokemon": "Medicham",
+        "item": "Rock Gem",
+        "moves": [
+          "Close Combat",
+          "Zen Headbutt",
+          "Rock Slide",
+          "Fake Out"
+        ],
+        "ability": "Pure Power"
+      },
+      {
+        "pokemon": "Frosmoth",
+        "item": "Focus Sash",
+        "moves": [
+          "Blizzard",
+          "Icy Wind",
+          "Infestation",
+          "Aurora Veil"
+        ],
+        "ability": "Shield Dust"
+      },
+      {
+        "pokemon": "Jynx",
+        "item": "Occa Berry",
+        "moves": [
+          "Blizzard",
+          "Psychic",
+          "Aura Sphere",
+          "Fake Out"
+        ],
+        "ability": "Oblivious"
+      },
+      {
+        "pokemon": "Sandslash_Alolan",
+        "item": "Life Orb",
+        "moves": [
+          "Triple Axel",
+          "High Horsepower",
+          "Knock Off",
+          "Swords Dance"
+        ],
+        "ability": "Slush Rush"
+      },
+      {
+        "pokemon": "Magmortar",
+        "item": "Assault Vest",
+        "moves": [
+          "Heat Wave",
+          "Flamethrower",
+          "Thunderbolt",
+          "Weather Ball"
+        ],
+        "ability": "Flame Body"
+      }
+    ]
+  }
+]

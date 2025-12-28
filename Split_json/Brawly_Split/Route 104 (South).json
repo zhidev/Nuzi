@@ -1,0 +1,132 @@
+[
+  {
+    "trainer": "Triathlete Mikey",
+    "pokemon_list": [
+      {
+        "pokemon": "Krabby",
+        "item": "Oran Berry",
+        "moves": [
+          "Aqua Jet",
+          "Stomp",
+          "Mud Shot"
+        ],
+        "ability": "Shell Armor"
+      },
+      {
+        "pokemon": "Clobbopus",
+        "item": "Oran Berry",
+        "moves": [
+          "Rock Smash",
+          "Bind",
+          "Detect"
+        ],
+        "ability": "Limber"
+      },
+      {
+        "pokemon": "Yanma",
+        "item": "Iron Ball",
+        "moves": [
+          "Acrobatics",
+          "Sonic Boom"
+        ],
+        "ability": "Speed Boost"
+      }
+    ]
+  },
+  {
+    "trainer": "Fisherman Darian",
+    "pokemon_list": [
+      {
+        "pokemon": "Magikarp",
+        "item": "Choice Band",
+        "moves": [
+          "Bounce"
+        ],
+        "ability": "Rattled"
+      },
+      {
+        "pokemon": "Magikarp",
+        "item": "Focus Sash",
+        "moves": [
+          "Hydro Pump",
+          "Tackle",
+          "Flail"
+        ],
+        "ability": "Rattled"
+      }
+    ]
+  },
+  {
+    "trainer": "Lady Cindy",
+    "pokemon_list": [
+      {
+        "pokemon": "Minccino",
+        "item": "Oran Berry",
+        "moves": [
+          "Swift",
+          "Attract",
+          "Thunder Wave"
+        ],
+        "ability": "Cute Charm"
+      },
+      {
+        "pokemon": "Jigglypuff",
+        "item": "Oran Berry",
+        "moves": [
+          "Round",
+          "Draining Kiss",
+          "Attract",
+          "Thunder Wave"
+        ],
+        "ability": "Cute Charm"
+      },
+      {
+        "pokemon": "Phanpy",
+        "item": "Oran Berry",
+        "moves": [
+          "Stomp",
+          "Attract"
+        ],
+        "ability": "Cute Charm"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Carvanha",
+        "item": "Oran Berry",
+        "moves": [
+          "Bite",
+          "Water Pulse",
+          "Aqua Jet",
+          "Poison Fang"
+        ],
+        "ability": "Rough Skin"
+      },
+      {
+        "pokemon": "Croagunk",
+        "item": "Salac Berry",
+        "moves": [
+          "Belch",
+          "Rock Smash",
+          "Poison Sting",
+          "Fake Out"
+        ],
+        "ability": "Poison Touch"
+      },
+      {
+        "pokemon": "Exeggcute",
+        "item": "Oran Berry",
+        "moves": [
+          "Confusion",
+          "Bullet Seed",
+          "Leech Seed",
+          "Stun Spore"
+        ],
+        "ability": "Harvest"
+      }
+    ]
+  }
+]

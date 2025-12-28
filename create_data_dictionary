@@ -3,31 +3,91 @@ import json
 import pprint
 
 parse_txt = """
-Youngster Calvin
-Poochyena Lv.5 @a: Bite, Quick Attack, Sand Attack [Bashful|Rattled]
-Lillipup Lv.6 @a: Tackle, Bite, Sand Attack [Bashful|Vital Spirit]
-Rookidee Lv.6 @a: Wing Attack, Sand Attack, Swagger [Bashful|Keen Eye]
+------
+Pokémon League
+------
 
-Bug Catcher Rick
-Grubbin Lv.6 @Oran Berry: Bug Bite, Spark, Vice Grip [Bashful|Swarm]
-Pineco Lv.6 @Oran Berry: Pin Missile, Iron Defense [Bashful|Sturdy]
-Sizzlipede Lv.7 @Oran Berry: Bug Bite, Ember, Wrap [Bashful|Flash Fire]
+Elite Four Sidney
+Greninja Lv.99 @Focus Sash: Dark Pulse, Scald, Spikes, Toxic Spikes [Timid|Protean]
+Necrozma Lv.99 @Leftovers: Photon Geyser, Heat Wave, Knock Off, Stealth Rock [Naive|Prism Armor]
+Nidoking Lv.99 @Life Orb: Sludge Wave, Earth Power, Ice Beam, Dark Pulse [Timid|Sheer Force]
+Urshifu Lv.100 @Roseli Berry: Close Combat, Wicked Blow, Sucker Punch, Swords Dance [Jolly|Unseen Fist]
+Yveltal Lv.100 @Dread Plate: Dark Pulse, Oblivion Wing, Heat Wave, Roost [Timid|Dark Aura]
+Gyarados Lv.100 @Gyaradosite: Waterfall, Crunch, Earthquake, Dragon Dance [Jolly|Intimidate]
 
-Youngster Allen
-Skiddo Lv.7 @Lum Berry: Vine Whip, Tackle, Synthesis [Bashful|Sap Sipper]
-Litleo Lv.6 @Oran Berry: Headbutt, Ember, Work Up [Bashful|Unnerve]
-Psyduck Lv.7 @Oran Berry: Bubble Beam, Psywave [Bashful|Swift Swim]
+Elite Four Sidney [Double]
+Incineroar Lv.99 @Iapapa Berry: Flare Blitz, Knock Off, Fire Spin, Fake Out [Jolly|Intimidate]
+Articuno_Galarian Lv.99 @Lum Berry: Hurricane, Freezing Glare, Hypnosis, Tailwind [Timid|Competitive]
+Overqwil Lv.99 @Assault Vest: Gunk Shot, Crunch, Fell Stinger, Icy Wind [Jolly|Intimidate]
+Urshifu Lv.100 @Focus Sash: Close Combat, Wicked Blow, Reversal, Detect [Jolly|Unseen Fist]
+Darkrai Lv.100 @Life Orb: Dark Pulse, Sludge Bomb, Aura Sphere, Dark Void [Timid|Bad Dreams]
+Gyarados Lv.100 @Gyaradosite: Waterfall, Power Whip, Lash Out, Icy Wind [Jolly|Intimidate]
 
-Lass Tiana
-Swirlix Lv.7 @Berry Juice: Fairy Wind, Metronome [Bashful|Unburden]
-Spinda Lv.8 @Berry Juice: Fake Out, Metronome [Bashful|Own Tempo]
+Elite Four Phoebe
+Crobat Lv.99 @Flying Gem: Acrobatics, Super Fang, Hypnosis, Roost [Jolly|Inner Focus]
+Zoroark_Hisuian Lv.100 @Life Orb: Shadow Ball, Flamethrower, U Turn, Grass Knot [Hasty|Illusion]
+Gothitelle Lv.99 @Assault Vest: Psychic, Thunderbolt, Dazzling Gleam, Shadow Ball [Timid|Shadow Tag]
+Lunala Lv.100 @Power Herb: Moongeist Beam, Meteor Beam, Moonblast, Roost [Timid|Shadow Shield]
+Marshadow Lv.100 @Lum Berry: Close Combat, Shadow Sneak, Knock Off, Bulk Up [Jolly|Technician]
+Gengar Lv.100 @Gengarite: Sludge Wave, Shadow Ball, Focus Blast, Destiny Bond [Timid|Levitate]
+
+Elite Four Phoebe [Double]
+Decidueye_Hisuian Lv.99 @Focus Sash: Close Combat, Leaf Blade, Knock Off, Tailwind [Jolly|Scrappy]
+Chandelure Lv.100 @Kasib Berry: Fire Blast, Heat Wave, Shadow Ball, Protect [Timid|Shadow Tag]
+Blastoise Lv.99 @Iapapa Berry: Muddy Water, Focus Blast, Follow Me, Fake Out [Timid|Torrent]
+Lunala Lv.100 @Power Herb: Moongeist Beam, Meteor Beam, Dazzling Gleam, Tailwind [Timid|Shadow Shield]
+Giratina_Origin Lv.100 @Griseous Orb: Poltergeist, Dragon Pulse, Shadow Sneak, Flamethrower [Naive|Levitate]
+Gengar Lv.100 @Gengarite: Sludge Wave, Shadow Ball, Focus Blast, Protect [Timid|Levitate]
+
+Elite Four Glacia
+Mamoswine Lv.100 @Focus Sash: Earthquake, Icicle Crash, Stone Edge, Stealth Rock [Jolly|Oblivious]
+Abomasnow Lv.100 @Abomasite: Blizzard, Giga Drain, Focus Blast, Aurora Veil [Modest|Soundproof]
+Arctovish Lv.100 @Ice Gem: Fishious Rend, Blizzard, Icicle Crash, Whirlpool [Naive|Slush Rush]
+Enamorus_Therian Lv.99 @Leftovers: Moonblast, Mystical Fire, Calm Mind, Rest [Bold|Overcoat]
+Kyurem_White Lv.100 @Assault Vest: Dragon Pulse, Ice Beam, Fusion Flare, Earth Power [Timid|Turboblaze]
+Calyrex_Ice_Rider Lv.100 @Custap Berry: Glacial Lance, High Horsepower, Substitute, Swords Dance [Jolly|As One (Glastrier)]
+
+Elite Four Glacia [Double]
+Magearna Lv.100 @Occa Berry: Flash Cannon, Dazzling Gleam, Encore, Trick Room [Quiet|Soul-Heart]
+Crabominable Lv.100 @Focus Sash: Close Combat, Ice Hammer, Reversal, Crabhammer [Brave|Hyper Cutter]
+Abomasnow Lv.100 @Abomasite: Blizzard, Giga Drain, Earth Power, Aurora Veil [Quiet|Snow Warning]
+Porygon2 Lv.99 @Eviolite: Tri Attack, Blizzard, Psychic, Trick Room [Quiet|Download]
+Calyrex_Ice_Rider Lv.100 @Ice Gem: Glacial Lance, Zen Headbutt, Close Combat, Trick Room [Brave|As One (Glastrier)]
+Kyurem_Black Lv.100 @Room Service: Draco Meteor, Icicle Spear, Fusion Bolt, Stone Edge [Brave|Teravolt]
+
+Elite Four Drake
+Dragapult Lv.100 @Life Orb: Dragon Darts, Shadow Ball, Fire Blast, Steel Wing [Naive|Clear Body]
+Crawdaunt Lv.100 @Focus Sash: Crabhammer, Lash Out, Close Combat, Dragon Dance [Jolly|Adaptability]
+Zygarde_50_Power_Construct Lv.100 @Haban Berry: Thousand Arrows, Dragon Claw, Coil, Glare [Jolly|Power Construct]
+Suicune Lv.100 @Leftovers: Scald, Ice Beam, Calm Mind, Substitute [Timid|Pressure]
+Reshiram Lv.100 @Lum Berry: Blue Flare, Dragon Pulse, Earth Power, Roost [Timid|Turboblaze]
+Salamence Lv.100 @Salamencite: Return, Earthquake, Dragon Dance, Roost [Jolly|Intimidate]
+
+Elite Four Drake [Double]
+Dragapult Lv.100 @Focus Sash: Dragon Darts, Shadow Ball, Light Screen, Reflect [Naive|Clear Body]
+Suicune Lv.100 @Leftovers: Scald, Snarl, Calm Mind, Tailwind [Bold|Inner Focus]
+Zygarde_50_Power_Construct Lv.100 @Leftovers: Thousand Waves, Breaking Swipe, Extreme Speed, Coil [Careful|Power Construct]
+Charizard Lv.100 @Life Orb: Heat Wave, Hurricane, Aura Sphere, Tailwind [Timid|Blaze]
+Zekrom Lv.100 @White Herb: Draco Meteor, Bolt Strike, Scale Shot, Protect [Hasty|Teravolt]
+Salamence Lv.100 @Salamencite: Dragon Pulse, Hyper Voice, Flamethrower, Tailwind [Timid|Intimidate]
+
+Champion Wallace
+Kyogre Lv.100 @Blue Orb: Origin Pulse, Liquidation, Thunder, Ice Beam [Hasty|Drizzle]
+Barraskewda Lv.100 @Choice Band: Liquidation, Flip Turn [Adamant|Swift Swim]
+Goodra_Hisuian Lv.100 @Leftovers: Heavy Slam, Aqua Tail, Curse, Rest [Relaxed|Shell Armor]
+Palkia Lv.100 @Scope Lens: Draco Meteor, Hydro Pump, Earth Power, Focus Energy [Timid|Pressure]
+Manaphy Lv.100 @Leftovers: Scald, Energy Ball, Ice Beam, Tail Glow [Timid|Hydration]
+Swampert Lv.100 @Swampertite: Earthquake, Liquidation, Stone Edge, Ice Punch [Jolly|Torrent]
+
+------
+Reporters
+
 """
-
 
 trainer_list = []
 pokemon_list = []
 
-is_trainer_name_next = False
+is_trainer_name_next = True
 new_data_entry = False
 trainer_name = ""
 #Yes it is neccesarily this long.
@@ -81,34 +141,164 @@ pattern = re.compile(r"\sLv.[0-9]{1,3}\s")
 
 loop_pokemon_list = []
 
-for line in parse_txt.split('\n'):
-    print("LINE AT THE START,", line)
-    if is_trainer_name_next:
-        trainer_name = line
-        print("TRAINER NAME ADDED", line)
-        is_trainer_name_next = False
-        continue
+past_first_zone_border = [False]
+is_zone_name = [False]
+past_second_zone_border = False
+zone_assigned = [False]
+split_name = ""
+zone_name = [""]
 
-        #if line == '' that means we're on the next trainer
-    if line == '':
-        print("NEW TRAINER")
+
+# for line in parse_txt.split('\n'):
+#     if is_trainer_name_next:
+#         #The '' scenerio only happens at the beginning of a Zone
+#         #because we should be set to true from the previous zone
+#         if line == '':
+#             continue
+#         if line == '-----':
+#             #if we havent found  the first border yet, means this is first
+#             #so we should expect zone name next
+#             if not (past_first_zone_border ):
+#                 is_zone_name = True
+#                 past_first_zone_border = True
+#                 continue
+#             else:
+#                 past_first_zone_border = False
+#                 continue
+
+#         if is_zone_name:
+#             zone_name = line
+#             is_zone_name = False
+#         trainer_name = line
+#         is_trainer_name_next = False
+#         continue
+
+#         #if line == '' that means we're on the next trainer
+#     if line == '':
+#         is_trainer_name_next = True
+#         if new_data_entry:
+#             trainer_dict = {
+#                 'trainer' : trainer_name,
+#                 'pokemon_list' : loop_pokemon_list
+#                 # 'clear_party' : {
+#                 # 'party' : [],
+#                 # 'party_health' : [],
+#                 # 'riskless' : True,
+#                 # 'deaths' : 0,
+#                 # 'comments' : ""
+#                 # }
+#             }
+#             trainer_list.append(trainer_dict)
+
+#             new_data_entry = False
+#         continue
+
+#     match = re.search(pokemon_pattern,line)
+#     if match:   
+#         pokemon = match.group(1)
+#         item = match.group(2)
+#         moves = match.group(3)
+#         moves = moves.split(", ")
+#         ability = match.group(4)
+
+#         #create individual pokemon dict to insert to pokemon list
+#         pokemon_dict = {
+#             'pokemon' : pokemon,
+#             'item' : item,
+#             'moves' : moves,
+#             'ability' : ability
+#          }
+#         loop_pokemon_list.append(pokemon_dict)
+#         new_data_entry = True
+
+def is_line_zone(line, is_zone_name, past_first_zone_border, zone_name):
+    print(f"is_line_zone called on {line}.")
+    #Conditionals for Zone section
+    line = line.strip()
+    if line == '------':
+        if past_first_zone_border[0]:
+            #if this flag is true and we see ----- means we're at the bottom half
+            past_first_zone_border[0] = False
+            return True
+        else:
+            #else if we see ----- and flag is false this means first instance,
+            #so next is the zone name and we set the flag that we past the first instance
+            past_first_zone_border[0] = True
+            is_zone_name[0] = True
+            return True
+    print(f"{line} is not ------ now we check {is_zone_name} as is_zone_name")
+    if is_zone_name[0] :
+        #This checks if zone name is empty
+        if zone_assigned[0]:
+            export_trainer_list_to_json(zone_name[0])
+        #if we're expecting a zone name, we update zone name and reset the flag
+        zone_name[0] = line
+        zone_assigned[0] = True
+        is_zone_name[0] = False
+        return True
+    else:
+        return False
+    
+
+def export_trainer_list_to_json(zone_name):
+    with open(f'Split_json\\E4_Splitz`\\{zone_name}.json', 'w') as file:
+        file.write(json.dumps(trainer_list, indent=2))
+    file.close()
+    clean_trainers_list()
+
+def clean_trainers_list():
+    trainer_list.clear()
+
+
+# USAGE:
+# parse_txt should follow the format of
+#
+# ------
+# ZONE NAME
+# ------
+#
+# TRAINER NAME
+# POKEMON Lv.### @ITEM: MOVES [NATURE|ABILITY]
+# REPEAT ABOVE
+#
+# NEXT TRAINER AND ETC
+# POKEMON STUFF
+# 
+# ------
+# ZONE NAME    <-  WE EXPORT HERE SO MAKE SURE TO CAPURE THE NEXT PART. DO THIS BY SPLIT
+# ############ Some hard coding to same time , change folder destination in the export
+# func above
+
+
+for line in parse_txt.split('\n'):
+    print(f"Start of new for loop, is_zone_name: {is_zone_name}, past_first_zone_border: {past_first_zone_border}")
+    #Conditionals for Zone section. If true we go to next line
+    if is_line_zone(line, is_zone_name, past_first_zone_border, zone_name):
+        print(f"is line zone passed on line: {line}")
+        continue
+    if line == "":
+    #If empty line it means we finished current trainer if there is data to push
         is_trainer_name_next = True
         if new_data_entry:
             trainer_dict = {
                 'trainer' : trainer_name,
-                'pokemon_list' : loop_pokemon_list,
-                'clear_party' : {
-                'party' : [],
-                'party_health' : [],
-                'riskless' : True,
-                'deaths' : 0,
-                'comments' : ""
-                }
+                'pokemon_list' : loop_pokemon_list
             }
             trainer_list.append(trainer_dict)
+            #erase current pokemon listfor the next trainer
+            loop_pokemon_list = []
+            #we no longer expect to push a trainer dictionary in
             new_data_entry = False
         continue
+    #If its trainer name next expected, and its not zone name due to previous if blocks
+    # we assign out trainer name and go to next loop iteration
+    if is_trainer_name_next:
+        trainer_name = line
+        print(f"Trainer name {line} assigned")
+        is_trainer_name_next = False
+        continue
 
+    #Apply our regex
     match = re.search(pokemon_pattern,line)
     if match:   
         pokemon = match.group(1)
@@ -116,6 +306,7 @@ for line in parse_txt.split('\n'):
         moves = match.group(3)
         moves = moves.split(", ")
         ability = match.group(4)
+        print(f"{pokemon} FOUND")
 
         #create individual pokemon dict to insert to pokemon list
         pokemon_dict = {
@@ -132,5 +323,6 @@ for line in parse_txt.split('\n'):
 
 pprint.pprint(trainer_list)
 
-with open('Route_104.json', 'w') as file:
-    file.write(json.dumps(trainer_list, indent=2))
+# with open('Split_json\Brawly_Split\Fortree_Gym.json', 'w') as file:
+#     file.write(json.dumps(trainer_list, indent=2))
+# file.close()

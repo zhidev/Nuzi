@@ -1,0 +1,465 @@
+[
+  {
+    "trainer": "Kindler Jace",
+    "pokemon_list": [
+      {
+        "pokemon": "Cinderace",
+        "item": "Wide Lens",
+        "moves": [
+          "Pyro Ball",
+          "High Jump Kick",
+          "Gunk Shot",
+          "Zen Headbutt"
+        ],
+        "ability": "Libero"
+      },
+      {
+        "pokemon": "Talonflame",
+        "item": "Flying Gem",
+        "moves": [
+          "Flare Blitz",
+          "Acrobatics",
+          "Will O Wisp",
+          "Roost"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Rotom_Heat",
+        "item": "Leftovers",
+        "moves": [
+          "Overheat",
+          "Thunderbolt",
+          "Will O Wisp",
+          "Nasty Plot"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Chandelure",
+        "item": "Choice Scarf",
+        "moves": [
+          "Fire Blast",
+          "Shadow Ball",
+          "Hex",
+          "Psychic"
+        ],
+        "ability": "Shadow Tag"
+      }
+    ]
+  },
+  {
+    "trainer": "Kindler Cole",
+    "pokemon_list": [
+      {
+        "pokemon": "Torkoal",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Flamethrower",
+          "Solar Beam",
+          "Scorching Sands",
+          "Stealth Rock"
+        ],
+        "ability": "Drought"
+      },
+      {
+        "pokemon": "Octillery",
+        "item": "Scope Lens",
+        "moves": [
+          "Fire Blast",
+          "Gunk Shot",
+          "Psychic",
+          "Thunder Wave"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Weezing_Galarian",
+        "item": "Lum Berry",
+        "moves": [
+          "Play Rough",
+          "Explosion",
+          "Payback",
+          "Overheat"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Magmortar",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Flamethrower",
+          "Solar Beam",
+          "Belch",
+          "Earthquake"
+        ],
+        "ability": "Vital Spirit"
+      },
+      {
+        "pokemon": "Turtonator",
+        "item": "Lum Berry",
+        "moves": [
+          "Overheat",
+          "Dragon Claw",
+          "Heat Crash",
+          "Shell Smash"
+        ],
+        "ability": "Shell Armor"
+      }
+    ]
+  },
+  {
+    "trainer": "Cool Trainer Gerald",
+    "pokemon_list": [
+      {
+        "pokemon": "Ninetales",
+        "item": "Focus Sash",
+        "moves": [
+          "Flamethrower",
+          "Psychic",
+          "Hypnosis",
+          "Nasty Plot"
+        ],
+        "ability": "Drought"
+      },
+      {
+        "pokemon": "Solrock",
+        "item": "Fire Gem",
+        "moves": [
+          "Zen Headbutt",
+          "Rock Slide",
+          "Overheat",
+          "Rock Polish"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Toucannon",
+        "item": "Fire Gem",
+        "moves": [
+          "Brave Bird",
+          "Overheat",
+          "Bullet Seed",
+          "Rock Blast"
+        ],
+        "ability": "Skill Link"
+      }
+    ]
+  },
+  {
+    "trainer": "Kindler Keegan",
+    "pokemon_list": [
+      {
+        "pokemon": "Rapidash_Galarian",
+        "item": "Life Orb",
+        "moves": [
+          "Play Rough",
+          "Zen Headbutt",
+          "Mystical Fire",
+          "Will O Wisp"
+        ],
+        "ability": "Pastel Veil"
+      },
+      {
+        "pokemon": "Blissey",
+        "item": "Chople Berry",
+        "moves": [
+          "Hyper Voice",
+          "Fire Blast",
+          "Psychic",
+          "Counter"
+        ],
+        "ability": "Serene Grace"
+      },
+      {
+        "pokemon": "Darmanitan",
+        "item": "Life Orb",
+        "moves": [
+          "Flare Blitz",
+          "Zen Headbutt",
+          "Rock Slide",
+          "Earthquake"
+        ],
+        "ability": "Sheer Force"
+      }
+    ]
+  },
+  {
+    "trainer": "Kindler Axle",
+    "pokemon_list": [
+      {
+        "pokemon": "Infernape",
+        "item": "Focus Sash",
+        "moves": [
+          "Fire Blast",
+          "Focus Blast",
+          "Grass Knot",
+          "Fake Out"
+        ],
+        "ability": "Blaze"
+      },
+      {
+        "pokemon": "Houndoom",
+        "item": "Lum Berry",
+        "moves": [
+          "Fire Blast",
+          "Dark Pulse",
+          "Pursuit",
+          "Destiny Bond"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Centiskorch",
+        "item": "Charti Berry",
+        "moves": [
+          "Fire Lash",
+          "Leech Life",
+          "Thunder Fang",
+          "Coil"
+        ],
+        "ability": "White Smoke"
+      }
+    ]
+  },
+  {
+    "trainer": "Kindler Jeff",
+    "pokemon_list": [
+      {
+        "pokemon": "Torkoal",
+        "item": "Custap Berry",
+        "moves": [
+          "Fire Blast",
+          "Explosion",
+          "Earth Power",
+          "Body Press"
+        ],
+        "ability": "Drought"
+      },
+      {
+        "pokemon": "Lickilicky",
+        "item": "Assault Vest",
+        "moves": [
+          "Explosion",
+          "Body Slam",
+          "Fire Blast",
+          "Power Whip"
+        ],
+        "ability": "Oblivious"
+      },
+      {
+        "pokemon": "Skuntank",
+        "item": "Lum Berry",
+        "moves": [
+          "Poison Jab",
+          "Knock Off",
+          "Explosion",
+          "Fire Blast"
+        ],
+        "ability": "Aftermath"
+      },
+      {
+        "pokemon": "Flareon",
+        "item": "Toxic Orb",
+        "moves": [
+          "Flare Blitz",
+          "Solar Beam",
+          "Facade",
+          "Stomping Tantrum"
+        ],
+        "ability": "Guts"
+      }
+    ]
+  },
+  {
+    "trainer": "Battle Girl Danielle",
+    "pokemon_list": [
+      {
+        "pokemon": "Slowking_Galarian",
+        "item": "Assault Vest",
+        "moves": [
+          "Future Sight",
+          "Psychic",
+          "Fire Blast",
+          "Scald"
+        ],
+        "ability": "Regenerator"
+      },
+      {
+        "pokemon": "Golurk",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Shadow Punch",
+          "Heat Crash",
+          "Block"
+        ],
+        "ability": "Iron Fist"
+      },
+      {
+        "pokemon": "Emboar",
+        "item": "Choice Scarf",
+        "moves": [
+          "Flare Blitz",
+          "Superpower",
+          "Head Smash",
+          "Wild Charge"
+        ],
+        "ability": "Reckless"
+      },
+      {
+        "pokemon": "Blaziken",
+        "item": "White Herb",
+        "moves": [
+          "Overheat",
+          "Close Combat",
+          "Brave Bird",
+          "Knock Off"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Flygon",
+        "item": "Life Orb",
+        "moves": [
+          "Earthquake",
+          "Scale Shot",
+          "Fire Blast",
+          "Giga Drain"
+        ],
+        "ability": "Levitate"
+      }
+    ]
+  },
+  {
+    "trainer": "Hiker Eli",
+    "pokemon_list": [
+      {
+        "pokemon": "Drampa",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Hyper Voice",
+          "Dragon Pulse",
+          "Fire Blast",
+          "Roost"
+        ],
+        "ability": "Berserk"
+      },
+      {
+        "pokemon": "Nidoking",
+        "item": "Black Sludge",
+        "moves": [
+          "Sludge Bomb",
+          "Earth Power",
+          "Fire Blast",
+          "Substitute"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Rhyperior",
+        "item": "Passho Berry",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Heat Crash",
+          "Stealth Rock"
+        ],
+        "ability": "Solid Rock"
+      },
+      {
+        "pokemon": "Arcanine",
+        "item": "Fire Gem",
+        "moves": [
+          "Burn Up",
+          "Close Combat",
+          "Psychic Fangs",
+          "Will O Wisp"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Delphox",
+        "item": "Life Orb",
+        "moves": [
+          "Flamethrower",
+          "Psychic",
+          "Grass Knot",
+          "Hypnosis"
+        ],
+        "ability": "Magic Guard"
+      }
+    ]
+  },
+  {
+    "trainer": "Leader Flannery [Double] [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Charizard",
+        "item": "Charizardite Y",
+        "moves": [
+          "Fire Blast",
+          "Heat Wave",
+          "Air Slash",
+          "Solar Beam"
+        ],
+        "ability": "Blaze"
+      },
+      {
+        "pokemon": "Salazzle",
+        "item": "Focus Sash",
+        "moves": [
+          "Heat Wave",
+          "Sludge Bomb",
+          "Fake Out",
+          "Endeavor"
+        ],
+        "ability": "Corrosion"
+      },
+      {
+        "pokemon": "Entei",
+        "item": "Lum Berry",
+        "moves": [
+          "Sacred Fire",
+          "Solar Beam",
+          "Stone Edge",
+          "Extreme Speed"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Incineroar",
+        "item": "Assault Vest",
+        "moves": [
+          "Overheat",
+          "Blaze Kick",
+          "Darkest Lariat",
+          "Fake Out"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Talonflame",
+        "item": "Life Orb",
+        "moves": [
+          "Brave Bird",
+          "Flare Blitz",
+          "Solar Beam",
+          "Tailwind"
+        ],
+        "ability": "Gale Wings"
+      },
+      {
+        "pokemon": "Marowak_Alolan",
+        "item": "Thick Club",
+        "moves": [
+          "Flare Blitz",
+          "Poltergeist",
+          "Bonemerang",
+          "Detect"
+        ],
+        "ability": "Rock Head"
+      }
+    ]
+  }
+]

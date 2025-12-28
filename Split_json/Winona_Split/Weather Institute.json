@@ -1,0 +1,291 @@
+[
+  {
+    "trainer": "Team Aqua Grunt Jazz",
+    "pokemon_list": [
+      {
+        "pokemon": "Barbaracle",
+        "item": "Bright Powder",
+        "moves": [
+          "Stone Edge",
+          "Liquidation",
+          "Aerial Ace",
+          "Stealth Rock"
+        ],
+        "ability": "Tough Claws"
+      },
+      {
+        "pokemon": "Breloom",
+        "item": "Bright Powder",
+        "moves": [
+          "Mach Punch",
+          "Bullet Seed",
+          "Rock Tomb",
+          "Spore"
+        ],
+        "ability": "Technician"
+      },
+      {
+        "pokemon": "Malamar",
+        "item": "Quick Claw",
+        "moves": [
+          "Night Slash",
+          "Psycho Cut",
+          "Superpower",
+          "Hypnosis"
+        ],
+        "ability": "Contrary"
+      },
+      {
+        "pokemon": "Scolipede",
+        "item": "Kings Rock",
+        "moves": [
+          "Pin Missile",
+          "Rock Slide",
+          "Smart Strike",
+          "Swords Dance"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Starmie",
+        "item": "Expert Belt",
+        "moves": [
+          "Psychic",
+          "Surf",
+          "Thunderbolt",
+          "Ice Beam"
+        ],
+        "ability": "Analytic"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Drampa",
+        "item": "Focus Band",
+        "moves": [
+          "Dragon Pulse",
+          "Hurricane",
+          "Surf",
+          "Roost"
+        ],
+        "ability": "Berserk"
+      },
+      {
+        "pokemon": "Ferrothorn",
+        "item": "Quick Claw",
+        "moves": [
+          "Power Whip",
+          "Iron Head",
+          "Explosion",
+          "Bulldoze"
+        ],
+        "ability": "Iron Barbs"
+      },
+      {
+        "pokemon": "Exeggutor",
+        "item": "Quick Claw",
+        "moves": [
+          "Psychic",
+          "Energy Ball",
+          "Explosion",
+          "Low Kick"
+        ],
+        "ability": "Chlorophyll"
+      },
+      {
+        "pokemon": "Omastar",
+        "item": "Bright Powder",
+        "moves": [
+          "Surf",
+          "Power Gem",
+          "Earth Power",
+          "Rain Dance"
+        ],
+        "ability": "Swift Swim"
+      },
+      {
+        "pokemon": "Walrein",
+        "item": "Leftovers",
+        "moves": [
+          "Liquidation",
+          "Freeze Dry",
+          "Body Press",
+          "Curse"
+        ],
+        "ability": "Oblivious"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt",
+    "pokemon_list": [
+      {
+        "pokemon": "Porygon_Z",
+        "item": "Chople Berry",
+        "moves": [
+          "Tri Attack",
+          "Ice Beam",
+          "Dark Pulse",
+          "Hidden Power Fire"
+        ],
+        "ability": "Download"
+      },
+      {
+        "pokemon": "Slowbro_Galarian",
+        "item": "Quick Claw",
+        "moves": [
+          "Shell Side Arm",
+          "Flamethrower",
+          "Scald",
+          "Slack Off"
+        ],
+        "ability": "Quick Draw"
+      },
+      {
+        "pokemon": "Haxorus",
+        "item": "Water Gem",
+        "moves": [
+          "Dual Chop",
+          "Aqua Tail",
+          "Iron Head",
+          "Dragon Dance"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Weavile",
+        "item": "Dark Gem",
+        "moves": [
+          "Knock Off",
+          "Pursuit",
+          "Triple Axel",
+          "Psycho Cut"
+        ],
+        "ability": "Inner Focus"
+      }
+    ]
+  },
+  {
+    "trainer": "Team Aqua Grunt [Double Battle With Team Aqua Grunt]",
+    "pokemon_list": [
+      {
+        "pokemon": "Ninetales_Alolan",
+        "item": "Ice Gem",
+        "moves": [
+          "Moonblast",
+          "Freeze Dry",
+          "Hypnosis",
+          "Aurora Veil"
+        ],
+        "ability": "Snow Warning"
+      },
+      {
+        "pokemon": "Liepard",
+        "item": "Psychic Gem",
+        "moves": [
+          "Assurance",
+          "Psycho Cut",
+          "Fake Out",
+          "Fake Tears"
+        ],
+        "ability": "Prankster"
+      },
+      {
+        "pokemon": "Arctozolt",
+        "item": "Lum Berry",
+        "moves": [
+          "Blizzard",
+          "Bolt Beak",
+          "Icicle Crash",
+          "Low Kick"
+        ],
+        "ability": "Slush Rush"
+      },
+      {
+        "pokemon": "Arctovish",
+        "item": "Lum Berry",
+        "moves": [
+          "Blizzard",
+          "Hydro Pump",
+          "Freeze Dry",
+          "Ancient Power"
+        ],
+        "ability": "Slush Rush"
+      }
+    ]
+  },
+  {
+    "trainer": "Aqua Admin Shelly [Boss]",
+    "pokemon_list": [
+      {
+        "pokemon": "Mienshao",
+        "item": "Focus Sash",
+        "moves": [
+          "Close Combat",
+          "Reversal",
+          "Knock Off",
+          "Fake Out"
+        ],
+        "ability": "Inner Focus"
+      },
+      {
+        "pokemon": "Nihilego",
+        "item": "Power Herb",
+        "moves": [
+          "Meteor Beam",
+          "Sludge Wave",
+          "Power Gem",
+          "Stealth Rock"
+        ],
+        "ability": "Beast Boost"
+      },
+      {
+        "pokemon": "Dragonite",
+        "item": "Choice Band",
+        "moves": [
+          "Outrage",
+          "Dual Wingbeat",
+          "Aqua Tail",
+          "Fire Punch"
+        ],
+        "ability": "Multiscale"
+      },
+      {
+        "pokemon": "Tornadus",
+        "item": "Flying Gem",
+        "moves": [
+          "Acrobatics",
+          "Knock Off",
+          "Heat Wave",
+          "Grass Knot"
+        ],
+        "ability": "Defiant"
+      },
+      {
+        "pokemon": "Lanturn",
+        "item": "Assault Vest",
+        "moves": [
+          "Thunderbolt",
+          "Scald",
+          "Volt Switch",
+          "Ice Beam"
+        ],
+        "ability": "Volt Absorb"
+      },
+      {
+        "pokemon": "Blastoise",
+        "item": "Blastoisinite",
+        "moves": [
+          "Surf",
+          "Dragon Pulse",
+          "Dark Pulse",
+          "Shell Smash"
+        ],
+        "ability": "Torrent"
+      }
+    ]
+  }
+]

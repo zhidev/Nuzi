@@ -1,0 +1,213 @@
+[
+  {
+    "trainer": "Tuber Simon",
+    "pokemon_list": [
+      {
+        "pokemon": "Floatzel",
+        "item": "Flame Orb",
+        "moves": [
+          "Aqua Tail",
+          "Ice Beam",
+          "Knock Off",
+          "Switcheroo"
+        ],
+        "ability": "Water Veil"
+      },
+      {
+        "pokemon": "Azumarill",
+        "item": "Assault Vest",
+        "moves": [
+          "Play Rough",
+          "Aqua Tail",
+          "Aqua Jet",
+          "Ice Punch"
+        ],
+        "ability": "Huge Power"
+      },
+      {
+        "pokemon": "Dedenne",
+        "item": "Petaya Berry",
+        "moves": [
+          "Thunderbolt",
+          "Dazzling Gleam",
+          "Grass Knot",
+          "Endure"
+        ],
+        "ability": "Cheek Pouch"
+      },
+      {
+        "pokemon": "Zangoose",
+        "item": "Toxic Orb",
+        "moves": [
+          "Last Resort",
+          "Retaliate"
+        ],
+        "ability": "Toxic Boost"
+      },
+      {
+        "pokemon": "Persian",
+        "item": "Leftovers",
+        "moves": [
+          "Hyper Voice",
+          "Hypnosis",
+          "Nasty Plot",
+          "Substitute"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Ludicolo",
+        "item": "Lum Berry",
+        "moves": [
+          "Waterfall",
+          "Seed Bomb",
+          "Earthquake",
+          "Swords Dance"
+        ],
+        "ability": "Own Tempo"
+      }
+    ]
+  },
+  {
+    "trainer": "Beauty Johanna",
+    "pokemon_list": [
+      {
+        "pokemon": "Nidoqueen",
+        "item": "Black Sludge",
+        "moves": [
+          "Sludge Wave",
+          "Earth Power",
+          "Lovely Kiss",
+          "Toxic Spikes"
+        ],
+        "ability": "Sheer Force"
+      },
+      {
+        "pokemon": "Lapras",
+        "item": "Leftovers",
+        "moves": [
+          "Freeze Dry",
+          "Thunderbolt",
+          "Protect",
+          "Roar"
+        ],
+        "ability": "Shell Armor"
+      },
+      {
+        "pokemon": "Milotic",
+        "item": "Leftovers",
+        "moves": [
+          "Aqua Tail",
+          "Dragon Tail",
+          "Coil",
+          "Rest"
+        ],
+        "ability": "Marvel Scale"
+      },
+      {
+        "pokemon": "Primarina",
+        "item": "Leftovers",
+        "moves": [
+          "Scald",
+          "Draining Kiss",
+          "Calm Mind",
+          "Protect"
+        ],
+        "ability": "Torrent"
+      },
+      {
+        "pokemon": "Bruxish",
+        "item": "Water Gem",
+        "moves": [
+          "Aqua Tail",
+          "Psychic Fangs",
+          "Crunch",
+          "Screech"
+        ],
+        "ability": "Strong Jaw"
+      },
+      {
+        "pokemon": "Tsareena",
+        "item": "Wide Lens",
+        "moves": [
+          "Power Whip",
+          "High Jump Kick",
+          "Knock Off",
+          "Triple Axel"
+        ],
+        "ability": "Queenly Majesty"
+      }
+    ]
+  },
+  {
+    "trainer": "Sailor Dwayne",
+    "pokemon_list": [
+      {
+        "pokemon": "Clawitzer",
+        "item": "Lum Berry",
+        "moves": [
+          "Water Pulse",
+          "Dragon Pulse",
+          "Aura Sphere",
+          "Aqua Jet"
+        ],
+        "ability": "Mega Launcher"
+      },
+      {
+        "pokemon": "Gyarados",
+        "item": "Wacan Berry",
+        "moves": [
+          "Waterfall",
+          "Earthquake",
+          "Lash Out",
+          "Thunder Wave"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Barbaracle",
+        "item": "White Herb",
+        "moves": [
+          "Stone Edge",
+          "Razor Shell",
+          "Cross Chop",
+          "Shell Smash"
+        ],
+        "ability": "Sniper"
+      },
+      {
+        "pokemon": "Sharpedo",
+        "item": "Dark Gem",
+        "moves": [
+          "Hydro Pump",
+          "Dark Pulse",
+          "Close Combat",
+          "Destiny Bond"
+        ],
+        "ability": "Speed Boost"
+      },
+      {
+        "pokemon": "Swalot",
+        "item": "Custap Berry",
+        "moves": [
+          "Gunk Shot",
+          "Explosion",
+          "Earthquake",
+          "Curse"
+        ],
+        "ability": "Gluttony"
+      },
+      {
+        "pokemon": "Machamp",
+        "item": "Adrenaline Orb",
+        "moves": [
+          "Dynamic Punch",
+          "Stone Edge",
+          "Poison Jab",
+          "Knock Off"
+        ],
+        "ability": "No Guard"
+      }
+    ]
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "trainer": "Swimmer\u2642 Zappator",
+    "pokemon_list": [
+      {
+        "pokemon": "Overqwil",
+        "item": "Lum Berry",
+        "moves": [
+          "Throat Chop",
+          "Explosion",
+          "Spikes",
+          "Toxic Spikes"
+        ],
+        "ability": "Intimidate"
+      },
+      {
+        "pokemon": "Talonflame",
+        "item": "Flying Gem",
+        "moves": [
+          "Flare Blitz",
+          "Acrobatics",
+          "Solar Beam",
+          "Roost"
+        ],
+        "ability": "Flame Body"
+      },
+      {
+        "pokemon": "Slurpuff",
+        "item": "Fairy Gem",
+        "moves": [
+          "Dazzling Gleam",
+          "Flamethrower",
+          "Psychic",
+          "Calm Mind"
+        ],
+        "ability": "Unburden"
+      },
+      {
+        "pokemon": "Venusaur",
+        "item": "Focus Sash",
+        "moves": [
+          "Solar Beam",
+          "Earth Power",
+          "Weather Ball",
+          "Growth"
+        ],
+        "ability": "Chlorophyll"
+      },
+      {
+        "pokemon": "Electivire",
+        "item": "Life Orb",
+        "moves": [
+          "Wild Charge",
+          "Earthquake",
+          "Ice Punch",
+          "Weather Ball"
+        ],
+        "ability": "Vital Spirit"
+      },
+      {
+        "pokemon": "Slowking",
+        "item": "Colbur Berry",
+        "moves": [
+          "Psychic",
+          "Flamethrower",
+          "Ice Beam",
+          "Grass Knot"
+        ],
+        "ability": "Regenerator"
+      }
+    ]
+  },
+  {
+    "trainer": "Triathlete Xayah",
+    "pokemon_list": [
+      {
+        "pokemon": "Komala",
+        "item": "Chople Berry",
+        "moves": [
+          "Return",
+          "Wood Hammer",
+          "Earthquake",
+          "Play Rough"
+        ],
+        "ability": "Comatose"
+      },
+      {
+        "pokemon": "Charizard",
+        "item": "Charcoal",
+        "moves": [
+          "Flamethrower",
+          "Flame Charge",
+          "Solar Beam",
+          "Roost"
+        ],
+        "ability": "Solar Power"
+      },
+      {
+        "pokemon": "Silvally_Ghost",
+        "item": "Ghost Memory",
+        "moves": [
+          "Multi Attack",
+          "Explosion",
+          "Flamethrower",
+          "Grass Pledge"
+        ],
+        "ability": "RKS System"
+      },
+      {
+        "pokemon": "Gliscor",
+        "item": "Flying Gem",
+        "moves": [
+          "Earthquake",
+          "Acrobatics",
+          "Roost",
+          "Swords Dance"
+        ],
+        "ability": "Hyper Cutter"
+      },
+      {
+        "pokemon": "Gastrodon",
+        "item": "Rindo Berry",
+        "moves": [
+          "Earth Power",
+          "Weather Ball",
+          "Recover",
+          "Toxic"
+        ],
+        "ability": "Sticky Hold"
+      },
+      {
+        "pokemon": "Primarina",
+        "item": "Leftovers",
+        "moves": [
+          "Moonblast",
+          "Psychic",
+          "Weather Ball",
+          "Calm Mind"
+        ],
+        "ability": "Torrent"
+      }
+    ]
+  },
+  {
+    "trainer": "Sis And Bro Reli & Ian [Double]",
+    "pokemon_list": [
+      {
+        "pokemon": "Victreebel",
+        "item": "Focus Sash",
+        "moves": [
+          "Solar Blade",
+          "Gunk Shot",
+          "Weather Ball",
+          "Sleep Powder"
+        ],
+        "ability": "Chlorophyll"
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "item": "Rock Gem",
+        "moves": [
+          "Stone Edge",
+          "Dual Wingbeat",
+          "Protect",
+          "Stealth Rock"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Cinderace",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Pyro Ball",
+          "Low Sweep",
+          "Super Fang",
+          "Coaching"
+        ],
+        "ability": "Libero"
+      },
+      {
+        "pokemon": "Mimikyu",
+        "item": "Fairy Gem",
+        "moves": [
+          "Play Rough",
+          "Shadow Claw",
+          "Shadow Sneak",
+          "Swords Dance"
+        ],
+        "ability": "Disguise"
+      },
+      {
+        "pokemon": "Ursaluna",
+        "item": "Assault Vest",
+        "moves": [
+          "Return",
+          "High Horsepower",
+          "Stone Edge",
+          "Payback"
+        ],
+        "ability": "Unnerve"
+      },
+      {
+        "pokemon": "Sharpedo",
+        "item": "Life Orb",
+        "moves": [
+          "Crunch",
+          "Close Combat",
+          "Psychic Fangs",
+          "Protect"
+        ],
+        "ability": "Speed Boost"
+      }
+    ]
+  },
+  {
+    "trainer": "Swimmer\u2642 Herman",
+    "pokemon_list": [
+      {
+        "pokemon": "Araquanid",
+        "item": "Coba Berry",
+        "moves": [
+          "Liquidation",
+          "Leech Life",
+          "Infestation",
+          "Sticky Web"
+        ],
+        "ability": "Water Bubble"
+      },
+      {
+        "pokemon": "Eelektross",
+        "item": "Assault Vest",
+        "moves": [
+          "Thunder",
+          "Aqua Tail",
+          "Sludge Bomb",
+          "Super Fang"
+        ],
+        "ability": "Levitate"
+      },
+      {
+        "pokemon": "Scrafty",
+        "item": "Life Orb",
+        "moves": [
+          "Close Combat",
+          "Crunch",
+          "Iron Tail",
+          "Dragon Dance"
+        ],
+        "ability": "Moxie"
+      },
+      {
+        "pokemon": "Metagross",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Meteor Mash",
+          "Earthquake",
+          "Thunder Punch",
+          "Power Up Punch"
+        ],
+        "ability": "Clear Body"
+      },
+      {
+        "pokemon": "Porygon_Z",
+        "item": "Chople Berry",
+        "moves": [
+          "Tri Attack",
+          "Thunder",
+          "Dark Pulse",
+          "Nasty Plot"
+        ],
+        "ability": "Analytic"
+      },
+      {
+        "pokemon": "Jellicent",
+        "item": "Mystic Water",
+        "moves": [
+          "Water Spout",
+          "Scald",
+          "Shadow Ball",
+          "Strength Sap"
+        ],
+        "ability": "Water Absorb"
+      }
+    ]
+  }
+]
