@@ -20005,5 +20005,5 @@ if __name__ == "__main__":
 
     # brawly_zones = find_key(brawly_split, "zone_name")
     # pprint.pprint(brawly_zones)
-    print(is_valid_zone_for_split("Brawly", "Route 1023"))
+    # print(is_valid_zone_for_split("Brawly", "Route 1023"))
     pass

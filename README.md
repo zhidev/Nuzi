@@ -22,8 +22,8 @@ Spitballing ideas...
 - [ ] HP Display Percentage
 - [ ] Mode Switching
 - [ ] Gui Elements
-  -[x] Trainer drop down box
-  -[x] Split Data
-  -[x] Extract Data from Trainer Documentation on Google Sheets
-  -[ ] others
-  -[ ] A little mascot
+  - [x] Trainer drop down box
+  - [x] Split Data
+  - [x] Extract Data from Trainer Documentation on Google Sheets
+  - [ ] others
+  - [ ] A little mascot
