@@ -2,90 +2,78 @@ import re
 import json
 import pprint
 
-parse_txt = """
-------
-Pokémon League
-------
+# parse_txt = """
+# ------
+# Slateport Museum
+# ------
 
-Elite Four Sidney
-Greninja Lv.99 @Focus Sash: Dark Pulse, Scald, Spikes, Toxic Spikes [Timid|Protean]
-Necrozma Lv.99 @Leftovers: Photon Geyser, Heat Wave, Knock Off, Stealth Rock [Naive|Prism Armor]
-Nidoking Lv.99 @Life Orb: Sludge Wave, Earth Power, Ice Beam, Dark Pulse [Timid|Sheer Force]
-Urshifu Lv.100 @Roseli Berry: Close Combat, Wicked Blow, Sucker Punch, Swords Dance [Jolly|Unseen Fist]
-Yveltal Lv.100 @Dread Plate: Dark Pulse, Oblivion Wing, Heat Wave, Roost [Timid|Dark Aura]
-Gyarados Lv.100 @Gyaradosite: Waterfall, Crunch, Earthquake, Dragon Dance [Jolly|Intimidate]
 
-Elite Four Sidney [Double]
-Incineroar Lv.99 @Iapapa Berry: Flare Blitz, Knock Off, Fire Spin, Fake Out [Jolly|Intimidate]
-Articuno_Galarian Lv.99 @Lum Berry: Hurricane, Freezing Glare, Hypnosis, Tailwind [Timid|Competitive]
-Overqwil Lv.99 @Assault Vest: Gunk Shot, Crunch, Fell Stinger, Icy Wind [Jolly|Intimidate]
-Urshifu Lv.100 @Focus Sash: Close Combat, Wicked Blow, Reversal, Detect [Jolly|Unseen Fist]
-Darkrai Lv.100 @Life Orb: Dark Pulse, Sludge Bomb, Aura Sphere, Dark Void [Timid|Bad Dreams]
-Gyarados Lv.100 @Gyaradosite: Waterfall, Power Whip, Lash Out, Icy Wind [Jolly|Intimidate]
+# Team Aqua Grunt [Boss]
+# Murkrow Lv.15 @Lum Berry: Wing Attack, Payback, Night Shade [Jolly|Insomnia]
+# Skrelp Lv.16 @Black Sludge: Water Pulse, Acid, Protect, Toxic [Timid|Poison Point]
+# Tirtouga Lv.16 @Rindo Berry: Ancient Power, Brine, Aqua Jet, Mud Shot [Sassy|Solid Rock]
 
-Elite Four Phoebe
-Crobat Lv.99 @Flying Gem: Acrobatics, Super Fang, Hypnosis, Roost [Jolly|Inner Focus]
-Zoroark_Hisuian Lv.100 @Life Orb: Shadow Ball, Flamethrower, U Turn, Grass Knot [Hasty|Illusion]
-Gothitelle Lv.99 @Assault Vest: Psychic, Thunderbolt, Dazzling Gleam, Shadow Ball [Timid|Shadow Tag]
-Lunala Lv.100 @Power Herb: Moongeist Beam, Meteor Beam, Moonblast, Roost [Timid|Shadow Shield]
-Marshadow Lv.100 @Lum Berry: Close Combat, Shadow Sneak, Knock Off, Bulk Up [Jolly|Technician]
-Gengar Lv.100 @Gengarite: Sludge Wave, Shadow Ball, Focus Blast, Destiny Bond [Timid|Levitate]
+# Team Aqua Grunt [Boss]
+# Mareanie Lv.16 @Black Sludge: Venoshock, Baneful Bunker, Soak, Toxic [Calm|Merciless]
+# Frillish Lv.15 @Lum Berry: Hex, Water Pulse, Shock Wave, Recover [Bold|Cursed Body]
+# Whirlipede Lv.16 @Rocky Helmet: Venoshock, Poison Tail, Pin Missile, Rollout [Sassy|Speed Boost]
 
-Elite Four Phoebe [Double]
-Decidueye_Hisuian Lv.99 @Focus Sash: Close Combat, Leaf Blade, Knock Off, Tailwind [Jolly|Scrappy]
-Chandelure Lv.100 @Kasib Berry: Fire Blast, Heat Wave, Shadow Ball, Protect [Timid|Shadow Tag]
-Blastoise Lv.99 @Iapapa Berry: Muddy Water, Focus Blast, Follow Me, Fake Out [Timid|Torrent]
-Lunala Lv.100 @Power Herb: Moongeist Beam, Meteor Beam, Dazzling Gleam, Tailwind [Timid|Shadow Shield]
-Giratina_Origin Lv.100 @Griseous Orb: Poltergeist, Dragon Pulse, Shadow Sneak, Flamethrower [Naive|Levitate]
-Gengar Lv.100 @Gengarite: Sludge Wave, Shadow Ball, Focus Blast, Protect [Timid|Levitate]
+# ------
+# Dewford Gym
+# ------
 
-Elite Four Glacia
-Mamoswine Lv.100 @Focus Sash: Earthquake, Icicle Crash, Stone Edge, Stealth Rock [Jolly|Oblivious]
-Abomasnow Lv.100 @Abomasite: Blizzard, Giga Drain, Focus Blast, Aurora Veil [Modest|Soundproof]
-Arctovish Lv.100 @Ice Gem: Fishious Rend, Blizzard, Icicle Crash, Whirlpool [Naive|Slush Rush]
-Enamorus_Therian Lv.99 @Leftovers: Moonblast, Mystical Fire, Calm Mind, Rest [Bold|Overcoat]
-Kyurem_White Lv.100 @Assault Vest: Dragon Pulse, Ice Beam, Fusion Flare, Earth Power [Timid|Turboblaze]
-Calyrex_Ice_Rider Lv.100 @Custap Berry: Glacial Lance, High Horsepower, Substitute, Swords Dance [Jolly|As One (Glastrier)]
+# Battle Girl Laura
+# Riolu Lv.18 @Eviolite: Force Palm, Body Slam [Jolly|Inner Focus]
+# Stufful Lv.17 @Sitrus Berry: Body Slam, Force Palm, Bulk Up [Careful|Fluffy]
+# Mankey Lv.17 @Lum Berry: Outrage, Thrash, Stomping Tantrum, Smelling Salts [Jolly|Defiant]
 
-Elite Four Glacia [Double]
-Magearna Lv.100 @Occa Berry: Flash Cannon, Dazzling Gleam, Encore, Trick Room [Quiet|Soul-Heart]
-Crabominable Lv.100 @Focus Sash: Close Combat, Ice Hammer, Reversal, Crabhammer [Brave|Hyper Cutter]
-Abomasnow Lv.100 @Abomasite: Blizzard, Giga Drain, Earth Power, Aurora Veil [Quiet|Snow Warning]
-Porygon2 Lv.99 @Eviolite: Tri Attack, Blizzard, Psychic, Trick Room [Quiet|Download]
-Calyrex_Ice_Rider Lv.100 @Ice Gem: Glacial Lance, Zen Headbutt, Close Combat, Trick Room [Brave|As One (Glastrier)]
-Kyurem_Black Lv.100 @Room Service: Draco Meteor, Icicle Spear, Fusion Bolt, Stone Edge [Brave|Teravolt]
+# Leader Brawly [Boss]
+# Kubfu Lv.20 @Iapapa Berry: Brick Break, Mega Punch, Zen Headbutt, Sucker Punch [Jolly|Inner Focus]
+# Lopunny Lv.19 @Eject Button: Retaliate, Headbutt, Drain Punch [Jolly|Limber]
+# Combusken Lv.20 @Lum Berry: Double Kick, Incinerate, Thunder Punch, Work Up [Naughty|Speed Boost]
+# Hitmontop Lv.20 @Protective Pads: Mach Punch, Rock Slide, Fake Out, Pursuit [Adamant|Technician]
+# Poliwhirl Lv.19 @Expert Belt: Bubble Beam, Ice Beam, Hidden Power Grass, Superpower [Mild|Water Absorb]
+# Scraggy Lv.21 @Eviolite: Feint Attack, Power Up Punch, Rock Tomb, Rest [Impish|Shed Skin]
 
-Elite Four Drake
-Dragapult Lv.100 @Life Orb: Dragon Darts, Shadow Ball, Fire Blast, Steel Wing [Naive|Clear Body]
-Crawdaunt Lv.100 @Focus Sash: Crabhammer, Lash Out, Close Combat, Dragon Dance [Jolly|Adaptability]
-Zygarde_50_Power_Construct Lv.100 @Haban Berry: Thousand Arrows, Dragon Claw, Coil, Glare [Jolly|Power Construct]
-Suicune Lv.100 @Leftovers: Scald, Ice Beam, Calm Mind, Substitute [Timid|Pressure]
-Reshiram Lv.100 @Lum Berry: Blue Flare, Dragon Pulse, Earth Power, Roost [Timid|Turboblaze]
-Salamence Lv.100 @Salamencite: Return, Earthquake, Dragon Dance, Roost [Jolly|Intimidate]
+# ------
+# Petalburg Woods
+# ------
 
-Elite Four Drake [Double]
-Dragapult Lv.100 @Focus Sash: Dragon Darts, Shadow Ball, Light Screen, Reflect [Naive|Clear Body]
-Suicune Lv.100 @Leftovers: Scald, Snarl, Calm Mind, Tailwind [Bold|Inner Focus]
-Zygarde_50_Power_Construct Lv.100 @Leftovers: Thousand Waves, Breaking Swipe, Extreme Speed, Coil [Careful|Power Construct]
-Charizard Lv.100 @Life Orb: Heat Wave, Hurricane, Aura Sphere, Tailwind [Timid|Blaze]
-Zekrom Lv.100 @White Herb: Draco Meteor, Bolt Strike, Scale Shot, Protect [Hasty|Teravolt]
-Salamence Lv.100 @Salamencite: Dragon Pulse, Hyper Voice, Flamethrower, Tailwind [Timid|Intimidate]
+# Bug Catcher Lyle
+# Ariados Lv.21 @Scope Lens: Cross Poison, Pin Missile, Night Slash, Shadow Sneak [Jolly|Sniper]
+# Kricketune Lv.21 @Lum Berry: Bug Bite, Fell Stinger, Rock Smash, Aerial Ace [Jolly|Technician]
+# Ninjask Lv.21 @White Herb: Leech Life, Dual Wingbeat, Giga Drain [Naughty|Speed Boost]
 
-Champion Wallace
-Kyogre Lv.100 @Blue Orb: Origin Pulse, Liquidation, Thunder, Ice Beam [Hasty|Drizzle]
-Barraskewda Lv.100 @Choice Band: Liquidation, Flip Turn [Adamant|Swift Swim]
-Goodra_Hisuian Lv.100 @Leftovers: Heavy Slam, Aqua Tail, Curse, Rest [Relaxed|Shell Armor]
-Palkia Lv.100 @Scope Lens: Draco Meteor, Hydro Pump, Earth Power, Focus Energy [Timid|Pressure]
-Manaphy Lv.100 @Leftovers: Scald, Energy Ball, Ice Beam, Tail Glow [Timid|Hydration]
-Swampert Lv.100 @Swampertite: Earthquake, Liquidation, Stone Edge, Ice Punch [Jolly|Torrent]
+# Bug Maniac James
+# Larvesta Lv.21 @Eviolite: Skitter Smack, Flame Charge, Roost, Will O Wisp [Careful|Flame Body]
+# Vibrava Lv.21 @Yache Berry: Stomping Tantrum, Breaking Swipe, Bug Bite, Roost [Jolly|Levitate]
+# Shedinja Lv.22 @Bright Powder: X Scissor, Hex, Shadow Sneak, Will O Wisp [Quiet|Wonder Guard]
+# Ribombee Lv.21 @Wise Glasses: Signal Beam, Draining Kiss, Magical Leaf, Fake Tears [Timid|Shield Dust]
 
-------
-Reporters
+# ------
+# Rusturf Tunnel
+# ------
 
-"""
+# Hiker Mike
+# Sandaconda Lv.25 @Lum Berry: Earthquake, Stone Edge, Fire Fang, Glare [Careful|Sand Spit]
+# Probopass Lv.26 @Leftovers: Power Gem, Flash Cannon, Earth Power, Thunderbolt [Modest|Sand Force]
+# Stoutland Lv.26 @Lum Berry: Body Slam, Play Rough, Submission, Howl [Adamant|Sand Rush]
+# Clefable Lv.25 @Pixie Plate: Draining Kiss, Ice Beam, Thunderbolt, Mystical Fire [Timid|Magic Guard]
 
-trainer_list = []
-pokemon_list = []
+# ------
+# Fake Place
+# ------
+# Hiker Fake Guy
+# Sandaconda Lv.25 @Lum Berry: Earthquake, Stone Edge, Fire Fang, Glare [Careful|Sand Spit]
+# Probopass Lv.26 @Leftovers: Power Gem, Flash Cannon, Earth Power, Thunderbolt [Modest|Sand Force]
+# Stoutland Lv.26 @Lum Berry: Body Slam, Play Rough, Submission, Howl [Adamant|Sand Rush]
+
+# ------
+# End
+
+# """
+
+
 
 is_trainer_name_next = True
 new_data_entry = False
@@ -101,30 +89,64 @@ pattern = re.compile(r"\sLv.[0-9]{1,3}\s")
 
 
 
-# Json example:
-# entry = {
-#     "Youngster_Allen" : {
-#         "trainer" : "Younger_Allen"
-#         "pokemon": [
-#             {
-#                 "Grubbin" : {
-#                 "item" : "Oran Berry",
-#                 "moves" : ['Bug Bite', 'Spark', 'Vice Grip'],
-#                 "ability" : "Swarm"
-#                 }
-#             }
-#         ],
-#         "clear_party": {
-#             "list_of_party": ["ape", "dog", "fish"],
-#             "health_of_party" : ["20/30", "15/21", "50/30"],
-#             "riskless" : True,
-#             "deaths" : 0
-#         }
-#     }
-# }
+#Starting from the out layer
+#We have an Array of splits:
+#  splits =  [{Brawly}, {Roxanne},...]
+#
+#       {Brawly} is a Dictionary
+#           {Brawly} is instead kp of split name AND the zone names as the KEY
+#               Split_name : Brawly
+#               Zone_name1: {}
+#               Zone_name2: {}
+#               Zone_name3: {}
+#
+#               Each Zone name corresponds to a dictionary 
+#     Zone_name1: {
+#                  zone_name: Name of the Zone
+#                   zone_trainers: [{}]   
+#                      this will hold on array of dictionaries containing trainer name&their list
+#                           { trainer name
+#                                pokemonlist: [{pokemon dictionary}]
+#                               and finally inside each pokemon list is a pokemon dictionary
+#                            }
+#                   }
+#So bottom up:
+# pokemon dictionary
+# pokemonlist is an array of pokemon dictionary
+# zone trainer is an array of dictionaries containing pokemon list & trainer name
+# the zone names (zone_name1) are a key mapped to a dictionary with zone name & zone_trainer array
+# the zone names are listed with other zone names associated with the split name
 
-
+#Lists of Dictionaries
+#contains list of pokemon dictionaries
+pokemon_list = []
+#contaiins list of trainer dictionaries
+zone_trainer_list = []
 #trainer dict containing trainer name, pokemon list
+
+#Dictionary of Dictionaries
+#contains a dictionary, that contains zone_name and links the zone trainer list to a key
+zone_dictionary = {}
+
+#Contains a dictionary of all the zone dictionaries inside a split
+final_dictionary = {}
+
+# Brawly, Roxanne, Wattson
+#Norman, Flannery,
+#Winona, TnL
+# Juan, VR
+# Elite Four
+split_divider = ["Petalburg Woods", "Rusturf Tunnel", "Route 110 (Cycling Road)", 
+                 "Winstrate House (Route 111)", "Seashore House (Route 109)",
+                   "Route 120 (South)", "Mossdeep Space Center",
+                   "Victory Road (1F)", "Pokemon League", "End"]
+#split_divider = ["Petalburg Woods", "Rusturf Tunnel", "End"]
+split_name = ["Brawly", "Roxanne", "Wattson",
+              "Norman", "Flannery",
+              "Winona", "TnL",
+              "Juan", "Victory Road",
+              "Elite Four"]
+split_count = [0]
 
 #pokemon list is array of pokemon dicts
     # trainer_dict = {
@@ -139,80 +161,18 @@ pattern = re.compile(r"\sLv.[0-9]{1,3}\s")
     #     }
     # }
 
-loop_pokemon_list = []
 
 past_first_zone_border = [False]
 is_zone_name = [False]
 past_second_zone_border = False
 zone_assigned = [False]
-split_name = ""
 zone_name = [""]
 
 
-# for line in parse_txt.split('\n'):
-#     if is_trainer_name_next:
-#         #The '' scenerio only happens at the beginning of a Zone
-#         #because we should be set to true from the previous zone
-#         if line == '':
-#             continue
-#         if line == '-----':
-#             #if we havent found  the first border yet, means this is first
-#             #so we should expect zone name next
-#             if not (past_first_zone_border ):
-#                 is_zone_name = True
-#                 past_first_zone_border = True
-#                 continue
-#             else:
-#                 past_first_zone_border = False
-#                 continue
 
-#         if is_zone_name:
-#             zone_name = line
-#             is_zone_name = False
-#         trainer_name = line
-#         is_trainer_name_next = False
-#         continue
 
-#         #if line == '' that means we're on the next trainer
-#     if line == '':
-#         is_trainer_name_next = True
-#         if new_data_entry:
-#             trainer_dict = {
-#                 'trainer' : trainer_name,
-#                 'pokemon_list' : loop_pokemon_list
-#                 # 'clear_party' : {
-#                 # 'party' : [],
-#                 # 'party_health' : [],
-#                 # 'riskless' : True,
-#                 # 'deaths' : 0,
-#                 # 'comments' : ""
-#                 # }
-#             }
-#             trainer_list.append(trainer_dict)
-
-#             new_data_entry = False
-#         continue
-
-#     match = re.search(pokemon_pattern,line)
-#     if match:   
-#         pokemon = match.group(1)
-#         item = match.group(2)
-#         moves = match.group(3)
-#         moves = moves.split(", ")
-#         ability = match.group(4)
-
-#         #create individual pokemon dict to insert to pokemon list
-#         pokemon_dict = {
-#             'pokemon' : pokemon,
-#             'item' : item,
-#             'moves' : moves,
-#             'ability' : ability
-#          }
-#         loop_pokemon_list.append(pokemon_dict)
-#         new_data_entry = True
 
 def is_line_zone(line, is_zone_name, past_first_zone_border, zone_name):
-    print(f"is_line_zone called on {line}.")
     #Conditionals for Zone section
     line = line.strip()
     if line == '------':
@@ -226,12 +186,19 @@ def is_line_zone(line, is_zone_name, past_first_zone_border, zone_name):
             past_first_zone_border[0] = True
             is_zone_name[0] = True
             return True
-    print(f"{line} is not ------ now we check {is_zone_name} as is_zone_name")
     if is_zone_name[0] :
-        #This checks if zone name is empty
+        #This checks if zone name is empty, if it isn't empty we triger zone change
         if zone_assigned[0]:
-            export_trainer_list_to_json(zone_name[0])
+            print(f"{zone_name[0]} IS THE ZONE NAME FOUND CALLING ZONE CHANGED")
+            zone_changed_from(zone_name[0])
+        else:
+            #Else we're in the beginning so we set our initial split to Brawly
+            # individual_zone_dictionary.update({'split_name' : split_name[split_count]})
+            # print(f"PRINTING SPLIT COUNT: {split_count}")
+            # print(split_name)
+            pass
         #if we're expecting a zone name, we update zone name and reset the flag
+        check_and_update_split_change(zone_name[0], line)
         zone_name[0] = line
         zone_assigned[0] = True
         is_zone_name[0] = False
@@ -240,14 +207,58 @@ def is_line_zone(line, is_zone_name, past_first_zone_border, zone_name):
         return False
     
 
-def export_trainer_list_to_json(zone_name):
-    with open(f'Split_json\\E4_Splitz`\\{zone_name}.json', 'w') as file:
-        file.write(json.dumps(trainer_list, indent=2))
-    file.close()
+def zone_changed_from(zone_name):
+    # with open(f'Split_json\\E4_Split`\\{zone_name}.json', 'w') as file:
+    #     file.write(json.dumps(trainer_list, indent=2))
+    # file.close()
+    print(f"CHANGING FROM {zone_name} AND UPDATING ZONE_DICTIONARY")
+    input_trainer_list = zone_trainer_list.copy()
+    zone_dict = {
+         'zone_name' : zone_name,
+         'zone_trainers' : input_trainer_list
+    }
+    zone_dictionary.update({zone_name : zone_dict})
     clean_trainers_list()
 
-def clean_trainers_list():
-    trainer_list.clear()
+
+
+def clean_trainers_list(): 
+    zone_trainer_list.clear()
+
+#Checks the zone name that we're going into is a new split
+def check_and_update_split_change(from_zone,to_zone):
+    print(split_count[0])
+    print(f"{to_zone} to zone compared to {split_divider[split_count[0]]}")
+    if to_zone == split_divider[split_count[0]]:
+        #means new split
+        print(f"Zone name in split change is in fact checked and passes on {from_zone} to {to_zone}")
+        print("NEW SPLIT ! NEW SPLIT ! NEW SPLIT !")
+        zone_dictionary.update({'split_name' : split_name[split_count[0]]})
+        input_split_dictionary = zone_dictionary.copy()
+        #Toss in Brawley : {all the split info} into final dictionary. then clear
+        final_dictionary.update({split_name[split_count[0]] : input_split_dictionary})
+        zone_dictionary.clear()
+        split_count[0] = split_count[0]+1
+
+
+        
+        
+def pokemon_string_matched(match):
+        pokemon = match.group(1)
+        item = match.group(2)
+        moves = match.group(3)
+        moves = moves.split(", ")
+        ability = match.group(4)
+        # print(f"{pokemon} FOUND")
+
+        #create individual pokemon dict to insert to pokemon list
+        pokemon_dict = {
+            'pokemon' : pokemon,
+            'item' : item,
+            'moves' : moves,
+            'ability' : ability
+         }
+        pokemon_list.append(pokemon_dict)
 
 
 # USAGE:
@@ -269,24 +280,31 @@ def clean_trainers_list():
 # ############ Some hard coding to same time , change folder destination in the export
 # func above
 
+file_path = 'trainer_battles.txt'
+try:
+    with open(file_path, 'r', encoding='utf-8') as file:
+        parse_txt = file.read()
+except FileNotFoundError:
+    print(f"Error: The file '{file_path}' was not found.")
+except Exception as e:
+    print(f"An error occurred: {e}")
 
 for line in parse_txt.split('\n'):
-    print(f"Start of new for loop, is_zone_name: {is_zone_name}, past_first_zone_border: {past_first_zone_border}")
     #Conditionals for Zone section. If true we go to next line
     if is_line_zone(line, is_zone_name, past_first_zone_border, zone_name):
-        print(f"is line zone passed on line: {line}")
         continue
     if line == "":
     #If empty line it means we finished current trainer if there is data to push
         is_trainer_name_next = True
         if new_data_entry:
+            pokemon_list_copy = pokemon_list.copy()
             trainer_dict = {
                 'trainer' : trainer_name,
-                'pokemon_list' : loop_pokemon_list
+                'pokemon_list' : pokemon_list_copy
             }
-            trainer_list.append(trainer_dict)
+            zone_trainer_list.append(trainer_dict)
             #erase current pokemon listfor the next trainer
-            loop_pokemon_list = []
+            pokemon_list.clear()
             #we no longer expect to push a trainer dictionary in
             new_data_entry = False
         continue
@@ -294,35 +312,23 @@ for line in parse_txt.split('\n'):
     # we assign out trainer name and go to next loop iteration
     if is_trainer_name_next:
         trainer_name = line
-        print(f"Trainer name {line} assigned")
+        # print(f"Trainer name {line} assigned")
         is_trainer_name_next = False
         continue
 
     #Apply our regex
     match = re.search(pokemon_pattern,line)
     if match:   
-        pokemon = match.group(1)
-        item = match.group(2)
-        moves = match.group(3)
-        moves = moves.split(", ")
-        ability = match.group(4)
-        print(f"{pokemon} FOUND")
-
-        #create individual pokemon dict to insert to pokemon list
-        pokemon_dict = {
-            'pokemon' : pokemon,
-            'item' : item,
-            'moves' : moves,
-            'ability' : ability
-         }
-        loop_pokemon_list.append(pokemon_dict)
+        pokemon_string_matched(match)
         new_data_entry = True
 
-    
+#pprint.pprint(split_dictionary)
+
+file.close()
 
 
-pprint.pprint(trainer_list)
 
-# with open('Split_json\Brawly_Split\Fortree_Gym.json', 'w') as file:
-#     file.write(json.dumps(trainer_list, indent=2))
-# file.close()
+
+with open('Split_json\\BattleData.json', 'w') as file:
+    file.write(json.dumps(final_dictionary, indent=2))
+file.close()
