@@ -4,14 +4,14 @@
 
 
 Spitballing ideas...
-- [ ] ocr to read calculator [Youtube Tuts time]
+- [x] ocr to read screen data [Youtube Tuts time]
   -[x]ocr working
   -[ ]make screenshot and then process it through ocr
 - [ ] reminder flags:
   - [ ] Megas changing stats and abilities   [json HTML]
   - [ ] Doubles/Weather/Random flags like terrains checked  [Need to use ocr for this i believe]
-  - [ ] Item Checked (Focus sash, custap, etc.) [json HTML]
-  - [ ] Abilities (Unnerve, Unburden, Sturdy, Weather Related) [json HTML]
+  - [X] Item Checked (Focus sash, custap, etc.)
+  - [X] Abilities (Unnerve, Unburden, Sturdy, Weather Related) 
   - [ ] Terrain reminder & description
 - [ ] Bug list in conjunction flagged with above
 - [ ] Frag Tracker catalogued by split
