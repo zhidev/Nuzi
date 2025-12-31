@@ -3,7 +3,9 @@ import re
 import cv2
 import numpy as np
 import pytesseract
+from PIL import Image
 from matplotlib import pyplot as plt
+
 
 
 # https://stackoverflow.com/questions/28816046/
@@ -148,80 +150,152 @@ def is_possible_name(input_string):
     else:
         return False
 
+def resize_image(img, x,y):
+    new_dimensions = (x, y) 
 
-img_name = "rnbcode.png"
+    h, w = img.shape[:2]
+    new_width = 500
+    
+    # Calculate ratio and new height
+    ratio = new_width / float(w)
+    new_height = int(h * ratio)
+    
+    # Resize using calculated dimensions
+    resized = cv2.resize(img, (new_width, new_height), interpolation=cv2.INTER_AREA) # Resize the image
+    print("CHECKING IMAGE TYPE IN RESIZE IMG")
+    check_image_type(img)
+    resized_image = cv2.resize(img, new_dimensions, interpolation=cv2.INTER_LINEAR)
+    return resized_image
 
-
-# Opening the image
-img = cv2.imread(img_name)
-# Display the image in a named window
-
-
-img_cnt_removed = remove_contour_with_min_area(img, 500)
-
-# cv_display("Removed?", img_cnt_removed)
-
-inverted_img = cv2.bitwise_not(img_cnt_removed)
-
-
-thick_img = thick_font(inverted_img)
-cv_display("thick", thick_img)
-
-ocr_result = pytesseract.image_to_string(thick_img)
-# print(ocr_result)
-
-imgcopy = thick_img.copy()
-
-blur = cv2.GaussianBlur(imgcopy, (7, 7), 0)
-thresh = cv2.threshold(blur, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)[1]
-kernal = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 13))
-dilate = cv2.dilate(thresh, kernal, iterations=6)
-
-cv_display("Dilate", dilate)
-cnts = cv2.findContours(dilate, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-cnts = cnts[0] if len(cnts) == 2 else cnts[1]
-cnts = sorted(cnts, key=lambda x: cv2.boundingRect(x)[0])
-counti = 0
-results = []
-all_lvls = []
-all_hp_values = []
-all_possible_names = []
-
-hbound = 200
-wbound = 100
-found_first_entry = False
-for c in cnts:
-    x, y, w, h = cv2.boundingRect(c)
-    if h > hbound and w > wbound:
-        roi = imgcopy[y : y + h, x : x + w]
-        cv2.rectangle(imgcopy, (x, y), (x + w, y + h), (36, 255, 12), 2)
-        ocr_result = pytesseract.image_to_string(roi)
-        ocr_result = ocr_result.split("\n")
-        for item in ocr_result:
-            # if the item is a lu we append to levels string
-            if is_ocr_level(item):
-                all_lvls.append(item)
-                if not found_first_entry:
-                    found_first_entry = True
-                    hbound = hbound + 300
-            elif is_hp_value(item):
-                all_hp_values.append(item)
-            else:
-                results.append(item)
-
-cv_display("Image Copy:", imgcopy)
-cv_display("ROI", roi)
+    # Display the result (optional)
+    cv2.imshow("Resized Image", resized_image)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
+    print("???")
+    return resized_image
 
 
-print("All levels below:")
-print(all_lvls)
+def check_image_type(image):
+    if isinstance(image, np.ndarray):
+        print("The image is an OpenCV (NumPy array) image.")
+    elif isinstance(image, Image.Image):
+        print("The image is a PIL (Pillow) image.")
+    else:
+        print(f"The image is an unknown type: {type(image)}")
 
-print("All HP values below:")
-print(all_hp_values)
+def convert_PIL_to_cv_img(pil_img):
+    print("CONVERTING PIL TO CV IMG")
+    return cv2.cvtColor(np.array(pil_img), cv2.COLOR_RGB2BGR)
 
-for item in results:
-    if is_possible_name(item):
-        all_possible_names.append(item)
 
-print("All Name values below:")
-print(all_possible_names)
+def preprocess_cv_image_into_dilate_img(img):
+
+    #ocr_result = pytesseract.image_to_string(thick_img)
+    # print(ocr_result)
+
+    blur = cv2.GaussianBlur(img, (7, 7), 0)
+    thresh = cv2.threshold(blur, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)[1]
+    kernal = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 13))
+    dilate = cv2.dilate(thresh, kernal, iterations=6)
+
+    cv_display("Dilate", dilate)
+    return dilate
+
+def brighten_image(img):
+    return cv2.convertScaleAbs(img, alpha=1.0, beta=50)
+
+def dim_image(img):
+    return cv2.convertScaleAbs(img, alpha=1.0, beta=-50)
+
+def ocr_image(img):
+    
+    cv_display("Original", img)
+    check_image_type(img)
+    #1400, 700 was the dimensions of the test image
+    # img = resize_image(img, 1041, 701)
+    check_image_type(img)
+    img_cnt_removed = remove_contour_with_min_area(img, 2000)
+    cv_display("Pain", img_cnt_removed)
+    #img_name = "rnbcode.png"
+    inverted_img = cv2.bitwise_not(img_cnt_removed)
+    cv_display("Inverted", inverted_img)
+
+    thick_img = thick_font(inverted_img)
+    cv_display("thick", thick_img)
+
+    #ocr_result = pytesseract.image_to_string(thick_img)
+    # print(ocr_result)
+
+    imgcopy = thick_img.copy()
+
+
+    # Opening the image
+    #img = cv2.imread(img_name)
+    # Display the image in a named window
+    dilate = preprocess_cv_image_into_dilate_img(img=thick_img)
+
+    #draws rectangles around contours
+    cnts = cv2.findContours(dilate, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    cnts = cnts[0] if len(cnts) == 2 else cnts[1]
+    cnts = sorted(cnts, key=lambda x: cv2.boundingRect(x)[0])
+    results = []
+    all_lvls = []
+    all_hp_values = []
+    all_possible_names = []
+
+    hbound = 200
+    wbound = 100
+    found_first_entry = False
+    for c in cnts:
+        x, y, w, h = cv2.boundingRect(c)
+        if h > hbound and w > wbound:
+            roi = imgcopy[y : y + h, x : x + w]
+            cv2.rectangle(imgcopy, (x, y), (x + w, y + h), (36, 255, 12), 2)
+            ocr_result = pytesseract.image_to_string(roi)
+            ocr_result = ocr_result.split("\n")
+            for item in ocr_result:
+                # if the item is a lu we append to levels string
+                if is_ocr_level(item):
+                    all_lvls.append(item)
+                    if not found_first_entry:
+                        found_first_entry = True
+                        hbound = hbound + 300
+                elif is_hp_value(item):
+                    all_hp_values.append(item)
+                else:
+                    results.append(item)
+
+    # cv_display("Image Copy:", imgcopy)
+    # cv_display("ROI", roi)
+
+
+    print("All levels below:")
+    print(all_lvls)
+
+    print("All HP values below:")
+    print(all_hp_values)
+
+    for item in results:
+        if is_possible_name(item):
+            all_possible_names.append(item)
+
+    print("All Name values below:")
+    print(all_possible_names)
+
+    return_dict = {
+        'ocr_name' : all_possible_names,
+        'hp_value' : all_hp_values
+    }
+    return return_dict
+
+
+if __name__ == '__main__':
+    
+    img_name = "rnbcode.png"
+
+    
+    # # Opening the image
+    img = cv2.imread(img_name)
+    # # Display the image in a named window
+    ocr_image(img=img)
+    pass

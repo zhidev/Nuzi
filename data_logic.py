@@ -1,6 +1,8 @@
 import trainer_data as td
 import nuzi_flags as nflags
 import numpy as np
+import image_process as nuzi_ocr
+
 
 def get_splits():
     return td.get_splits()

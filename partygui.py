@@ -4,6 +4,13 @@ import ttkbootstrap as tb
 from ttkbootstrap.scrolled import ScrolledText
 
 import data_logic as td
+import image_process as nuzi_ocr
+from snip_test import SnippingTool
+from PIL import Image, ImageTk, ImageEnhance
+import pygetwindow as gw
+import pyautogui
+import numpy as np
+
 
 level_list = ["Lu83", "Lu30", "Lu35", "Lu33", "Lu93", "Luz"]
 hp_value_list = ["209/205", "130/266", "156/293", "178/255", "199/302", "76/76"]
@@ -40,6 +47,18 @@ def split_selected():
     my_label.config(text=f"You clicked on {split_combobox.get()}!")
 
 
+def adjust_photoimage_brightness(img, factor):
+    # Convert ImageTk back to PIL Image
+    pil_img = ImageTk.getimage(img)
+    
+    #  Adjust brightness
+    # factor > 1.0 brightens; factor < 1.0 dims
+    enhancer = ImageEnhance.Brightness(pil_img)
+    brightened_pil = enhancer.enhance(factor)
+    
+    # Convert back to ImageTk.PhotoImage
+    return ImageTk.PhotoImage(brightened_pil)
+
 # Create Binding Functions
 def split_combobox_click_bind(e):
     split_name = split_combobox.get()
@@ -64,7 +83,7 @@ def trainer_combobox_click_bind(e):
     joined_pokemon_list = " ".join(
         td.get_pokemon_from_trainer_name(trainer_name=trainer_name)
     )
-    tab1_text.delete('1.0', END)
+    tab1_text.delete("1.0", END)
     print_string = f"The trainer {trainer_name} has the following pokemon:\n {joined_pokemon_list}\n"
     tab1_text.insert(INSERT, print_string)
 
@@ -75,10 +94,88 @@ def fight_flag_clicked():
     input_str += td.check_flags_for_trainer(trainer_name)
     tab1_text.insert(END, input_str)
 
-root = tb.Window(themename="solar")
+
+def screenshot_button_clicked():
+    print("OCR Button Pressed")
+    SnippingTool(root, callback=handle_image).start()
+    pass
+
+
+def handle_image(img):
+    # We get here from ocr_button_clicked, and we recieves a PIL image
+    print(f"Received image: {img.size}")
+    #cv_img = nuzi_ocr.convert_PIL_to_cv_img(img)
+    # print("Image converted")
+    # img =Image.open("rnbimage.png")
+    img = ImageTk.PhotoImage(img)
+    print(f"Test image: {img}")
+
+    ocr_img_label.config(image=img)
+    ocr_img_label.image = img
+    #print(nuzi_ocr.display(cv_img))
+    #nuzi_ocr.ocr_image(pil_img)
+    pass
+
+def ocr_button_clicked():
+    if hasattr(ocr_img_label, 'image') and ocr_img_label.image is not None:
+        print("The label has an image reference.")
+        input_image = ImageTk.getimage(ocr_img_label.image)
+        cv_img = nuzi_ocr.convert_PIL_to_cv_img(input_image)
+
+        print("Inside ocr button clicked")
+        nuzi_ocr.check_image_type(cv_img)
+        nuzi_ocr.ocr_image(cv_img)
+    else:
+        print("The label does not have an image reference.")
+
+def window_capture_and_display():
+    # Find window
+    windows = gw.getWindowsWithTitle("mGBA") # Grab windows with input text
+    if not windows:
+        print("Window not found")
+        return
+    
+    win = windows[0] #grab first instance of the window name
+    print(f"All the windows are: \n{windows}")
+    region = (win.left, win.top, win.width, win.height)
+
+    # Capture screenshot directly into a PIL object
+    screenshot = pyautogui.screenshot(region=region)
+
+    # Convert PIL image to Tkinter-compatible PhotoImage
+    tk_image = ImageTk.PhotoImage(screenshot)
+
+    # Update the label in your different function
+    ocr_img_label.config(image=tk_image)
+    ocr_img_label.image = tk_image  # MUST keep a reference!
+
+
+
+def brighten_image():
+    print("Brighten image")
+    if hasattr(ocr_img_label, 'image') and ocr_img_label.image is not None:
+        print("The label has an image reference.")
+        input_image = adjust_photoimage_brightness(ocr_img_label.image, 1.15)
+        ocr_img_label.config(image=input_image)
+        ocr_img_label.image = input_image
+    else:
+        print("The label does not have an image reference.")
+
+def dim_image():
+    if hasattr(ocr_img_label, 'image') and ocr_img_label.image is not None:
+        print("The label has an image reference.")
+        input_image = adjust_photoimage_brightness(ocr_img_label.image, 0.85)
+        ocr_img_label.config(image=input_image)
+        ocr_img_label.image = input_image
+    else:
+        print("The label does not have an image reference.")
+
+        
+
+root = tb.Window(themename="darkly")
 
 root.title("Nuzli - Your Nuzlocke Companion")
-root.geometry("1480x1000")
+root.geometry("1400x800")
 
 # Styles
 my_tk_styles = tb.Style()
@@ -100,29 +197,21 @@ nuzi_book.place(relx=0.5, rely=0.5, anchor="center")
 tab1 = tb.Frame(nuzi_book)  # , width=500, height=500)
 # tab1.grid(row=4, column=4)
 tab2 = tb.Frame(nuzi_book)  # , width=500, height=500)
+tab3 = tb.Frame(nuzi_book)
 
-tab1_tl = tb.Frame(tab1)  # , width=250, height=250)
+tab1_tl = tb.Frame(tab1)
 tab1_tl.grid(column=0, row=0)
-tab1_tr = tb.Frame(tab1)  # , width=250, height=250)
+tab1_tr = tb.Frame(tab1)
 tab1_tr.grid(column=3, row=0)
-tab1_bl = tb.Frame(tab1)  # , width=250, height=250)
+tab1_bl = tb.Frame(tab1)
 tab1_bl.grid(column=0, row=3, columnspan=2, rowspan=2)
-tab1_br = tb.Frame(tab1)  # , width=250, height=250)
+tab1_br = tb.Frame(tab1)
 tab1_br.grid(column=3, row=3)
-
-# tab_label = Label(tab1, text="Ayaya", font=("Helvetica", 12))
-# tab_label.pack(pady=20)
-
-# my_text = Text(tab1, width=50, height=10)
-# my_text.pack(pady=10, padx=10)
-
-
-# my_label2 = Label(tab2, text="Tab 2!",font=("Helvetica",12))
-# my_label2.pack(pady=20)
 
 # Add our frames to the notebook
 nuzi_book.add(tab1, text="Fights")
 nuzi_book.add(tab2, text="Papaya")
+nuzi_book.add(tab3, text="Ocr")
 
 # Create Buttons
 # my_button = tb.Button(text="Clickie",
@@ -131,20 +220,15 @@ nuzi_book.add(tab2, text="Papaya")
 #                   width=20)
 # my_button.pack(pady=20)
 
-tab1_title = Label(tab1_tl, text="Widget Placeholder", font=("Helvetica",18))
+tab1_title = Label(tab1_tl, text="Widget Placeholder", font=("Helvetica", 18))
 tab1_title.pack(pady=10)
 
-# tab1_title = Label(tab1_tr, text = "Widget Placeholder)")
-# tab1_title.pack(pady=5)
-# tab1_text = Label(tab1_tr, text="papaya")
-# tab1_text.pack(pady=5)
 
 # Set Combo Default
 
 # Create Split Combobox
 split_combobox = tb.Combobox(tab1_br, bootstyle="success", values=td.get_splits())
 split_combobox.pack(pady=5, padx=20)
-# split_combobox.place(relx=0.8, rely=0.7, anchor='center')
 split_combobox.set("Select a Split")
 
 
@@ -154,7 +238,6 @@ split_combobox.bind("<<ComboboxSelected>>", split_combobox_click_bind)
 # Create the trainer Combobox that displays the trainers from split
 zone_combobox = tb.Combobox(tab1_br, bootstyle="success")
 zone_combobox.pack(pady=5)
-# zone_combobox.place(relx=0.8, rely=0.75, anchor='center')
 
 # bind the trainer combobox
 zone_combobox.bind("<<ComboboxSelected>>", zone_combobox_click_bind)
@@ -163,18 +246,82 @@ zone_combobox.bind("<<ComboboxSelected>>", zone_combobox_click_bind)
 
 trainer_combobox = tb.Combobox(tab1_br, bootstyle="success")
 trainer_combobox.pack(pady=5)
-# trainer_combobox.place(relx=0.8, rely = 0.8, anchor='center')
+
 # Bind the trainer combobox
 trainer_combobox.bind("<<ComboboxSelected>>", trainer_combobox_click_bind)
 
 
-fight_check_button = tb.Button(tab1_br, text="Check for flags", bootstyle="alert", 
-                               command=fight_flag_clicked)
-# fight_check_button.place(relx=0.5, rely=0.95, anchor='center')
+fight_check_button = tb.Button(
+    tab1_br, text="Check for flags", bootstyle="alert", command=fight_flag_clicked
+)
 fight_check_button.pack(pady=10)
 
 tab1_text = ScrolledText(tab1_bl, height=25, width=50, wrap=WORD, autohide=True)
 tab1_text.pack(pady=20, padx=20)
-# tab1_text.grid(row=4, column=5)
-# tab1_text.place(relx=0.5, rely=0.5, anchor='center')
+
+
+#
+# Tab 2 Stuff for screenshot processing
+#
+
+tab2_tl = tb.Frame(tab2)
+tab2_tl.grid(column=0, row=0)
+tab2_tr = tb.Frame(tab2)
+tab2_tr.grid(column=3, row=0)
+tab2_bl = tb.Frame(tab2)
+tab2_bl.grid(column=0, row=3, columnspan=2, rowspan=2)
+tab2_br = tb.Frame(tab2)
+tab2_br.grid(column=3, row=3)
+
+
+ocr_instruction_text = "Please only Capture the 6 Party members\n" \
+"Then proceed to the next tab when satisfactory"
+ocr_instruction_label = Label(tab2_tl, text=ocr_instruction_text, font=("Helvetica", 12))
+ocr_instruction_label.pack(pady=10)
+
+screenshot_button = tb.Button(
+    tab2_br, text="Get Picutre of Team", bootstyle="alert", command=screenshot_button_clicked
+)
+screenshot_button.pack(pady=10)
+
+window_capture_button = tb.Button(
+    tab2_br, text="Window Capture mGBA", bootstyle="alert", 
+      command=window_capture_and_display)
+window_capture_button.pack(pady=5)
+
+# test_img =Image.open("rnbimage.png")
+# test_img = ImageTk.PhotoImage(test_img)
+ocr_img_label = Label(tab2_bl, bd=2, relief="raised")
+ocr_img_label.pack(pady=5)
+
+
+ocr_button = tb.Button(
+    tab2_br, text="Ocr the picture", bootstyle="alert", command=ocr_button_clicked
+)
+ocr_button.pack(pady=10)
+
+brighten_button = tb.Button(
+    tab2_bl, text="Brighten Image", bootstyle="Success", command=brighten_image
+)
+brighten_button.pack(side=LEFT,pady=5)
+
+dim_button = tb.Button(
+    tab2_bl, text="Dim Image", bootstyle="Failure", command=dim_image
+)
+dim_button.pack(side=LEFT,pady=5)
+
+#
+# Tab 3 stuff for ocr and team entry
+#
+
+tab3_tl = tb.Frame(tab3)
+tab3_tl.grid(column=0, row=0)
+tab3_tr = tb.Frame(tab3)
+tab3_tr.grid(column=3, row=0)
+tab3_bl = tb.Frame(tab3)
+tab3_bl.grid(column=0, row=3, columnspan=2, rowspan=2)
+tab3_br = tb.Frame(tab3)
+tab3_br.grid(column=3, row=3)
+
+
 root.mainloop()
