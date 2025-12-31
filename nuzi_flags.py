@@ -7,12 +7,12 @@ move_set = [
 
 item_set = [
     "Focus Sash", "Focus Band", "Custap Berry", "Weakness Policy", "Eject Button",
-    "Eject Pack", 
+    "Eject Pack", "Bright Powder"
 ]
 
 ability_set = [
     "Sheer Force", "Shield Dust", "Inner Focus", "Intimidate", "Unnerve", "Sturdy",
-    "Steam Engine", "Disguise", "Prankster"
+    "Steam Engine", "Disguise", "Prankster", "Sand Veil"
 ]
 
 def return_ability_flags(ability):

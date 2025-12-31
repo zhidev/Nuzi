@@ -54,6 +54,18 @@ def check_flags_for_trainer(trainer_name):
                                                                   moves=pokemon_moves, items=pokemon_items)
 
 
+def convert_PIL_to_cv_img(img):
+    return nuzi_ocr.convert_PIL_to_cv_img(pil_img=img)
+
+def ocr_image(img):
+    return nuzi_ocr.ocr_image(img=img,flag=0)
+
+def ocr_image_for_names(img):
+    #flag 0 for list of all possible names
+    name_list = nuzi_ocr.ocr_image(img=img,flag=0)
+    bracketed_list = [f'[{item}]' for item in name_list]
+    return " ".join(bracketed_list)
+
 if __name__ == "__main__":
     print(check_flags_for_trainer("Pokemon Breeder Lydia"))
     pass

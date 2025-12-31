@@ -185,7 +185,17 @@ def check_image_type(image):
 
 def convert_PIL_to_cv_img(pil_img):
     print("CONVERTING PIL TO CV IMG")
-    return cv2.cvtColor(np.array(pil_img), cv2.COLOR_RGB2BGR)
+    if pil_img is None:
+        print("Warning: Received None instead of PIL Image")
+        return None
+    try:
+        # Perform conversion
+        cv_img = cv2.cvtColor(np.array(pil_img), cv2.COLOR_RGB2BGR)
+        return cv_img 
+    except Exception as e:
+        print(f"Conversion failed: {e}")
+        return None
+
 
 
 def preprocess_cv_image_into_dilate_img(img):
@@ -197,8 +207,6 @@ def preprocess_cv_image_into_dilate_img(img):
     thresh = cv2.threshold(blur, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)[1]
     kernal = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 13))
     dilate = cv2.dilate(thresh, kernal, iterations=6)
-
-    cv_display("Dilate", dilate)
     return dilate
 
 def brighten_image(img):
@@ -207,21 +215,22 @@ def brighten_image(img):
 def dim_image(img):
     return cv2.convertScaleAbs(img, alpha=1.0, beta=-50)
 
-def ocr_image(img):
-    
-    cv_display("Original", img)
+
+# flag = 0 means return a list of names
+def ocr_image(img, flag):
+    # cv_display("Original", img)
     check_image_type(img)
     #1400, 700 was the dimensions of the test image
     # img = resize_image(img, 1041, 701)
     check_image_type(img)
     img_cnt_removed = remove_contour_with_min_area(img, 2000)
-    cv_display("Pain", img_cnt_removed)
+    # cv_display("Pain", img_cnt_removed)
     #img_name = "rnbcode.png"
     inverted_img = cv2.bitwise_not(img_cnt_removed)
-    cv_display("Inverted", inverted_img)
+    # cv_display("Inverted", inverted_img)
 
     thick_img = thick_font(inverted_img)
-    cv_display("thick", thick_img)
+    # cv_display("thick", thick_img)
 
     #ocr_result = pytesseract.image_to_string(thick_img)
     # print(ocr_result)
@@ -269,24 +278,26 @@ def ocr_image(img):
     # cv_display("ROI", roi)
 
 
-    print("All levels below:")
-    print(all_lvls)
+    # print("All levels below:")
+    # print(all_lvls)
 
-    print("All HP values below:")
-    print(all_hp_values)
+    # print("All HP values below:")
+    # print(all_hp_values)
 
     for item in results:
         if is_possible_name(item):
             all_possible_names.append(item)
 
-    print("All Name values below:")
-    print(all_possible_names)
+    # print("All Name values below:")
+    # print(all_possible_names)
 
     return_dict = {
         'ocr_name' : all_possible_names,
         'hp_value' : all_hp_values
     }
-    return return_dict
+
+    if flag == 0:
+        return all_possible_names
 
 
 if __name__ == '__main__':

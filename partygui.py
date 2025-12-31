@@ -4,7 +4,7 @@ import ttkbootstrap as tb
 from ttkbootstrap.scrolled import ScrolledText
 
 import data_logic as td
-import image_process as nuzi_ocr
+# import image_process as nuzi_ocr
 from snip_test import SnippingTool
 from PIL import Image, ImageTk, ImageEnhance
 import pygetwindow as gw
@@ -59,6 +59,19 @@ def adjust_photoimage_brightness(img, factor):
     # Convert back to ImageTk.PhotoImage
     return ImageTk.PhotoImage(brightened_pil)
 
+# def changing_zone_combobox(split_name):
+#     zone_values=td.get_zones_in_split(split_name))
+
+#     zone_combobox.config(values=zone_values)
+#     zone_combobox.set(f"Select a Zone from the {split_name} split")
+def disable_buttons_when_no_trainer():
+    fight_check_button.config(state="disabled")
+    tab3_fight_button.config(state="disabled")
+
+def enable_buttons_when_trainer():
+    fight_check_button.config(state="normal")
+    tab3_fight_button.config(state="normal")
+
 # Create Binding Functions
 def split_combobox_click_bind(e):
     split_name = split_combobox.get()
@@ -66,6 +79,11 @@ def split_combobox_click_bind(e):
     zone_combobox.config(values=td.get_zones_in_split(split_name))
     zone_combobox.set(f"Select a Zone from the {split_name} split")
 
+    #update fight data tab text
+    tab3_entry_split_text.set(split_name)
+    tab3_entry_zone_text.set("Waiting Zone Data")
+    tab3_entry_trainer_text.set("Waiting Trainer Data")
+    disable_buttons_when_no_trainer()
 
 def zone_combobox_click_bind(e):
     zone_name = zone_combobox.get()
@@ -74,8 +92,12 @@ def zone_combobox_click_bind(e):
             split_name=split_combobox.get(), zone_name=zone_name
         )
     )
+    tab3_entry_zone_text.set(zone_name)
+    tab3_entry_trainer_text.set("Waiting Trainer Data")
+
     trainer_combobox.set(f"Select the trainer from the Zone: {zone_name}")
     # trainer_combobox.event_generate("<<ComboboxSelected>>")
+    disable_buttons_when_no_trainer()
 
 
 def trainer_combobox_click_bind(e):
@@ -86,6 +108,8 @@ def trainer_combobox_click_bind(e):
     tab1_text.delete("1.0", END)
     print_string = f"The trainer {trainer_name} has the following pokemon:\n {joined_pokemon_list}\n"
     tab1_text.insert(INSERT, print_string)
+    tab3_entry_trainer_text.set(trainer_name)
+    enable_buttons_when_trainer()    
 
 
 def fight_flag_clicked():
@@ -120,11 +144,20 @@ def ocr_button_clicked():
     if hasattr(ocr_img_label, 'image') and ocr_img_label.image is not None:
         print("The label has an image reference.")
         input_image = ImageTk.getimage(ocr_img_label.image)
-        cv_img = nuzi_ocr.convert_PIL_to_cv_img(input_image)
-
+        # cv_img = td.convert_PIL_to_cv_img(input_image)
         print("Inside ocr button clicked")
-        nuzi_ocr.check_image_type(cv_img)
-        nuzi_ocr.ocr_image(cv_img)
+        # td.ocr_image
+        # nuzi_ocr.check_image_type(cv_img)
+        # nuzi_ocr.ocr_image(cv_img)
+        
+        cv_img = td.convert_PIL_to_cv_img(input_image)
+        
+        if cv_img is None or cv_img.size == 0:
+            print("Error: Converted image is empty!")
+            return
+        name_list = td.ocr_image_for_names(cv_img)
+        tab3_party_text.delete("1.0", END)
+        tab3_party_text.insert(INSERT, name_list)        
     else:
         print("The label does not have an image reference.")
 
@@ -147,7 +180,7 @@ def window_capture_and_display():
 
     # Update the label in your different function
     ocr_img_label.config(image=tk_image)
-    ocr_img_label.image = tk_image  # MUST keep a reference!
+    ocr_img_label.image = tk_image  
 
 
 
@@ -170,7 +203,9 @@ def dim_image():
     else:
         print("The label does not have an image reference.")
 
-        
+def submit_fight_data():
+    pass
+
 
 root = tb.Window(themename="darkly")
 
@@ -252,7 +287,8 @@ trainer_combobox.bind("<<ComboboxSelected>>", trainer_combobox_click_bind)
 
 
 fight_check_button = tb.Button(
-    tab1_br, text="Check for flags", bootstyle="alert", command=fight_flag_clicked
+    tab1_br, text="Check for flags", bootstyle="alert", command=fight_flag_clicked,
+    state="disabled"
 )
 fight_check_button.pack(pady=10)
 
@@ -275,7 +311,7 @@ tab2_br.grid(column=3, row=3)
 
 
 ocr_instruction_text = "Please only Capture the 6 Party members\n" \
-"Then proceed to the next tab when satisfactory"
+"Then proceed to the next tab when satisfactory\nBrighten the image if neccesary"
 ocr_instruction_label = Label(tab2_tl, text=ocr_instruction_text, font=("Helvetica", 12))
 ocr_instruction_label.pack(pady=10)
 
@@ -317,11 +353,57 @@ dim_button.pack(side=LEFT,pady=5)
 tab3_tl = tb.Frame(tab3)
 tab3_tl.grid(column=0, row=0)
 tab3_tr = tb.Frame(tab3)
-tab3_tr.grid(column=3, row=0)
+tab3_tr.grid(column=2, row=0)
 tab3_bl = tb.Frame(tab3)
-tab3_bl.grid(column=0, row=3, columnspan=2, rowspan=2)
+tab3_bl.grid(column=0, row=2, columnspan=2, rowspan=2)
 tab3_br = tb.Frame(tab3)
-tab3_br.grid(column=3, row=3)
+tab3_br.grid(column=2, row=2)
+
+
+tab3_label = Label(tab3_tl, text="Logging Fight Data", font=("Helvetica", 12))
+tab3_label.pack(pady=5)
+tab3_instruction_text = "Please Fix any discrepency from the ocr and follow the format\n" \
+"[Pokemon Name] [Pokemon2 Name] [Pokemon3 Name]\n[Pokemon4 Name] [Pokemon5 Name] [Pokemon6 Name]\n" \
+"Comments:\n Comments in the bottom box, seperate Pokemons in brackets and space"
+
+
+tab3_instructions = Label(tab3_tl, text=tab3_instruction_text, font=("Helvetica", 10))
+tab3_instructions.pack(pady=5)
+
+tab3_party_text = ScrolledText(tab3_bl, height=5, width=30, wrap=WORD, autohide=True)
+tab3_party_text.pack(pady=20, padx=20)
+
+tab3_comment_text = ScrolledText(tab3_bl, height=10, width=30, wrap=WORD, autohide=True)
+tab3_comment_text.pack(pady=20, padx=20)
+
+
+#Entry Display Information
+tab3_entry_split_text = tb.StringVar(value="Waiting Split Data")
+tab3_entry_split = tb.Entry(tab3_br,textvariable= tab3_entry_split_text,
+                            state="readonly")
+tab3_entry_split.pack(pady=5)
+
+tab3_entry_zone_text = tb.StringVar(value="Waiting Zone Data")
+tab3_entry_zone = tb.Entry(tab3_br,textvariable= tab3_entry_zone_text,
+                            state="readonly")
+tab3_entry_zone.pack(pady=5)
+
+tab3_entry_trainer_text = tb.StringVar(value="Waiting Trainer Data")
+tab3_entry_trainer = tb.Entry(tab3_br,textvariable= tab3_entry_trainer_text,
+                            state="readonly")
+tab3_entry_trainer.pack(pady=5)
+
+
+
+
+tab3_fight_button = tb.Button(
+    tab3_br, text="Save Fight ", 
+    bootstyle="primary", command=submit_fight_data, state="disabled"
+)
+tab3_fight_button.pack(padx= 35,pady=5)
+
+
+
 
 
 root.mainloop()
