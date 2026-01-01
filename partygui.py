@@ -78,6 +78,8 @@ def split_combobox_click_bind(e):
 
     zone_combobox.config(values=td.get_zones_in_split(split_name))
     zone_combobox.set(f"Select a Zone from the {split_name} split")
+    trainer_combobox.set("")
+
 
     #update fight data tab text
     tab3_entry_split_text.set(split_name)
@@ -204,6 +206,24 @@ def dim_image():
         print("The label does not have an image reference.")
 
 def submit_fight_data():
+    # testing_string = "[P1] [p2] [P3as] [P4] [P5ity] [P6ixty]"
+
+    # # For testing purposes
+    # tab3_party_text.delete("1.0", END)
+    # tab3_party_text.insert(INSERT, testing_string) 
+
+    # tab3_party_text. 
+    print(repr(tab3_party_text.get('1.0', END)))
+    ### split, zone, trainer, party, comment
+    print(tab3_entry_split_text.get())
+    print(tab3_entry_zone_text.get())
+    print(tab3_entry_trainer_text.get())
+    party_string = tab3_party_text.get("1.0", END)
+    print(party_string)
+    comment_string = tab3_comment_text.get("1.0", END)
+    td.save_fight_data( tab3_entry_split_text.get(), tab3_entry_zone_text.get(),
+                       tab3_entry_trainer_text.get(),party_string=party_string,
+                         comment_string=comment_string)
     pass
 
 

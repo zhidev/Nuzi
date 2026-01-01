@@ -12,7 +12,7 @@ item_set = [
 
 ability_set = [
     "Sheer Force", "Shield Dust", "Inner Focus", "Intimidate", "Unnerve", "Sturdy",
-    "Steam Engine", "Disguise", "Prankster", "Sand Veil"
+    "Steam Engine", "Disguise", "Prankster", "Sand Veil", "Cursed Body"
 ]
 
 def return_ability_flags(ability):

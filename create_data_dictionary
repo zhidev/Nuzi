@@ -329,6 +329,12 @@ file.close()
 
 
 
+
+
 with open('Split_json\\BattleData.json', 'w') as file:
     file.write(json.dumps(final_dictionary, indent=2))
 file.close()
+
+
+
+

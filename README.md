@@ -15,10 +15,12 @@ Spitballing ideas...
   - [X] Abilities (Unnerve, Unburden, Sturdy, Weather Related) 
   - [ ] Terrain reminder & description
 - [ ] Bug list in conjunction flagged with above
-- [ ] Frag Tracker catalogued by split
+- [X] Frag Tracker catalogued by split
+  - [x] Data is Logged
+  - [ ] Data can be reaccessed
 - [ ] Assist Tracker [How often is something brought] companion to above [ocr]
 - [ ] Post Fight Health Tracker [ocr] (Not actually useful to track, deprecated)
-- [ ] Story of the fight (assumed riskless) (actually riskless) (description/story field)
+- [x] Story of the fight (assumed riskless) (actually riskless) (description/story field)
 - [ ] Encounter Tracker
 - [ ] HP Display Percentage
 - [ ] Mode Switching

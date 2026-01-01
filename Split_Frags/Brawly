@@ -1,0 +1,22 @@
+{
+    "Route 102": {
+        "Bug Catcher Rick": {
+            "pokemon1": "P1",
+            "pokemon2": "p2",
+            "pokemon3": "P3as",
+            "pokemon4": "P4",
+            "pokemon5": "P5ity",
+            "pokemon6": "P6ixty",
+            "comment": ""
+        },
+        "Youngster Allen": {
+            "pokemon1": "Papa",
+            "pokemon2": "pee",
+            "pokemon3": "Fish",
+            "pokemon4": "Fries",
+            "pokemon5": "fli",
+            "pokemon6": "",
+            "comment": "Test Commentos"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Route 102": {
+        "Bob_Shmoe": {
+            "pokemon1": "A",
+            "pokemon2": "B",
+            "pokemon3": "C",
+            "pokemon4": "D",
+            "pokemon5": "E",
+            "pokemon6": "F",
+            "comment": ""
+        },
+        "Joe Poata": {
+            "pokemon1": "As",
+            "pokemon2": "Bw",
+            "pokemon3": "C",
+            "pokemon4": "Ds",
+            "pokemon5": "aE",
+            "pokemon6": "Fw",
+            "comment": "cakes"
+        }
+    }
+}
