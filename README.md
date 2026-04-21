@@ -1,6 +1,6 @@
 # Nuzi - a Nuzlocke Companion (Hopefully)
 
-
+Companion app intended for the difficulty hack Run&Bun "Hardest Nuzlocke Game" ... or what once was
 
 
 Spitballing ideas...
